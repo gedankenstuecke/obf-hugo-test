@@ -14,7 +14,7 @@ title: Getting introduced to Bioinformatics and Open Science through BCC 2020
 url: /2020/08/19/bcc-2020-gigi-kenneth/
 
 ---
-_The [Open Bioinformatics Foundation (OBF)](https://www.open-bio.org) Event Fellowship program aims to promote diverse participation at events promoting open source bioinformatics software development and open science practices in the biological research community. Gigi Kenneth, a biochemistry undergrad and a bioinformatics enthusiast from Nigeria, was supported to participate in [Bioinformatics Community Conference](/events/bosc/about/) 2020 by this fellowship granted to her in the application round-1 of 2020. Find more information [here.](/travel-awards/)_
+_The [Open Bioinformatics Foundation (OBF)](https://www.open-bio.org) Event Fellowship program aims to promote diverse participation at events promoting open source bioinformatics software development and open science practices in the biological research community. Gigi Kenneth, a biochemistry undergrad and a bioinformatics enthusiast from Nigeria, was supported to participate in [Bioinformatics Community Conference](/obf-hugo-test/events/bosc/about/) 2020 by this fellowship granted to her in the application round-1 of 2020. Find more information [here.](/obf-hugo-test/travel-awards/)_
 
 I’m a biochemistry undergraduate, in my final year from the [University of Port Harcourt](https://www.uniport.edu.ng/), Nigeria. I started learning about artificial intelligence and machine learning last year (2019), which I found really interesting and was really amazed by its applications in various fields. I found myself wondering about how these related to my graduate program, so I did some digging and was awed by the incredible work being done in this field.
 

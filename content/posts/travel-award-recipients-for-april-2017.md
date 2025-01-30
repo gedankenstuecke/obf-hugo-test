@@ -17,7 +17,7 @@ title: Travel award recipients for April 2017
 url: /2017/06/05/travel-award-recipients-for-april-2017/
 
 ---
-We had a huge response to this round of the [OBF travel award](https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md). After reviewing the applications, the OBF board selected four recipients. Three applicants accepted awards, and all plan to use the funds to attend [this year's BOSC](/wiki/BOSC_2017), to take place July 22-23 in Prague.
+We had a huge response to this round of the [OBF travel award](https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md). After reviewing the applications, the OBF board selected four recipients. Three applicants accepted awards, and all plan to use the funds to attend [this year's BOSC](/obf-hugo-test/wiki/BOSC_2017), to take place July 22-23 in Prague.
 
 Congratulations to our spring 2017 recipients:
 

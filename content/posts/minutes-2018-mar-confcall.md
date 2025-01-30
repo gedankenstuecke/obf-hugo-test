@@ -20,7 +20,7 @@ url: /2018/03/16/minutes2018-mar-confcall/
 **Dial-in Information:** +1-857-216-2939 PIN: 62534 [http://www.uberconference.com/hlapp](http://www.uberconference.com/hlapp)
 
 1. Old business
-   - [Oct 2016 BoD meeting minutes](/wiki/Minutes:2016_Oct_ConfCall)
+   - [Oct 2016 BoD meeting minutes](/obf-hugo-test/wiki/Minutes:2016_Oct_ConfCall)
 1. New business
    1. Term expirations and Elections for the Board ( [electronic ballot](https://vote.heliosvoting.org/helios/e/obf-mar-2018))
       - Bastian Greshake Tzovaras, running for Board member at-large
@@ -40,7 +40,7 @@ Meeting called to order at 11.03am EDT, 15:03 UTC.
 
 - Oct 2016 BoD meeting minutes
   - Approved - Hilmar raised, Peter second, approved by unanimous consent
-  - [2016 Oct ConfCall minutes](/wiki/Minutes:2016_Oct_ConfCall) approved unanimously
+  - [2016 Oct ConfCall minutes](/obf-hugo-test/wiki/Minutes:2016_Oct_ConfCall) approved unanimously
 
 ### New business
 

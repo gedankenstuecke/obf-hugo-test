@@ -14,7 +14,7 @@ url: /2014/11/18/minutes2014-nov-confcall/
 Dial-in Information: +1-857-216-2939 PIN: 62534 [http://www.uberconference.com/hlapp](http://www.uberconference.com/hlapp)
 
 1. Old business
-   - [Dec 2013 BoD meeting minutes](/wiki/Minutes:2013_Dec_ConfCall)
+   - [Dec 2013 BoD meeting minutes](/obf-hugo-test/wiki/Minutes:2013_Dec_ConfCall)
    - [2013 Financial Report](https://github.com/OBF/obf-docs/blob/e05413fdcf9bc1b43e171b67651c81d3d5bdc7da/Financial-Reports/Financial%20report%202013.md)
 1. New business
    1. Review of 2014 financials
@@ -40,7 +40,7 @@ Meeting called to order at 17:37 UTC/GMT
 
 #### **Approval of previous board meeting minutes (Dec 2013)'**
 
-As posted on [/wiki/Minutes:2013\_Dec\_ConfCall](/wiki/Minutes:2013_Dec_ConfCall)
+As posted on [/wiki/Minutes:2013\_Dec\_ConfCall](/obf-hugo-test/wiki/Minutes:2013_Dec_ConfCall)
 
 Unanimously approved.
 

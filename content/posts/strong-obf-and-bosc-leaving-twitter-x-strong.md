@@ -32,6 +32,6 @@ Even before recent events prompted our final departure, we were already transiti
   - [BOSC](https://obf-bosc.slack.com/join/shared_invite/zt-n5ur1gsj-z2C~69_4lYTFPg5tbWA8Ew#/shared-invite/email)
   - [OBF](https://open-bio.slack.com/join/shared_invite/zt-1pnswao9y-8igcckVxBXhQHCMweHt_NA#/shared-invite/email)
 - YouTube: [http://youtube.com/c/OBFBOSC](http://youtube.com/c/OBFBOSC)
-- Blog: [/blog/](/blog/)
+- Blog: [/blog/](/obf-hugo-test/blog/)
 
 We encourage our community to join us on these platforms that foster respectful and constructive dialogue.

@@ -25,4 +25,4 @@ Every year, BOSC includes a panel discussion that offers all attendees the chanc
 
 In addition the BOSC 2015 co-chairs **Nomi Harris** and **Peter Cock** will be on hand, along with other Open Bioinformatics Foundation (OBF) Board Members and BOSC organising committee members, to comment on what BOSC and the OBF are trying to do to improve diversity in the open source bioinformatics community, and listen to suggestions.
 
-P.S. Today is the deadline for discounted early [registration](https://www.iscb.org/ismbeccb2015-registration#registrationfee "ISMB/ECCB 2015 registration, including BOSC"), and the deadline to submit a late breaking lightning talk or poster abstract. See [BOSC 2015](/wiki/BOSC_2015) for more details.
+P.S. Today is the deadline for discounted early [registration](https://www.iscb.org/ismbeccb2015-registration#registrationfee "ISMB/ECCB 2015 registration, including BOSC"), and the deadline to submit a late breaking lightning talk or poster abstract. See [BOSC 2015](/obf-hugo-test/wiki/BOSC_2015) for more details.

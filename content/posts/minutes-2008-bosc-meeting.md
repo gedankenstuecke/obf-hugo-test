@@ -11,7 +11,7 @@ url: /2008/11/17/minutes2008-bosc-meeting/
 ### Agenda
 
 - Old Business
-  1. Approval of [minutes from 2007](/wiki/Minutes:2007_BOSC_Meeting)
+  1. Approval of [minutes from 2007](/obf-hugo-test/wiki/Minutes:2007_BOSC_Meeting)
 - New Business
   1. Current Board
      - Confirm past term expirations of those who did not run again for the Board.
@@ -27,7 +27,7 @@ url: /2008/11/17/minutes2008-bosc-meeting/
      - Account standing, reserves
      - 501(c)3 accounting and filing status
      - Sponsorship accounting
-  1. [BOSC](/wiki/BOSC)
+  1. [BOSC](/obf-hugo-test/wiki/BOSC)
      - Short 2007 report (attendance, talk highlights)
      - BOSC 2008 summary (attendance, talk hightlights)
      - Should BOSC 2009 to be held in conjuction with ISMB2009?

@@ -4,7 +4,7 @@ category:
   - event-fellowship
 cover:
   alt: Thea
-  image: /wp-content/uploads/2024/03/Thea.png
+  image: /obf-hugo-test/wp-content/uploads/2024/03/Thea.png
 date: "2024-03-27T05:34:04+00:00"
 guid: https://www.open-bio.org/?p=7729
 title: Open Data, Open Doors
@@ -13,7 +13,7 @@ url: /2024/03/27/open-data-open-doors/
 ---
 ## _A PhD student’s perspective on attending the 17th Annual International Biocuration Conference in Faridabad, India_
 
-**_The_** [**_Open Bioinformatics Foundation (OBF) Event Fellowship program_**](/travel-awards) **_aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community. Thea Fennell,_** _**a PhD Researcher at**_ _**the MRC Laboratory of Molecular Biology**_, **_was awarded an OBF Event Fellowship to attend_** _**the [17th Annual International Biocuration Conference](https://ibdc.rcb.res.in/biocuration2024/)**_.
+**_The_** [**_Open Bioinformatics Foundation (OBF) Event Fellowship program_**](/obf-hugo-test/travel-awards) **_aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community. Thea Fennell,_** _**a PhD Researcher at**_ _**the MRC Laboratory of Molecular Biology**_, **_was awarded an OBF Event Fellowship to attend_** _**the [17th Annual International Biocuration Conference](https://ibdc.rcb.res.in/biocuration2024/)**_.
 
 “The best use for your data will be thought of by someone else” — Rufus Pollock encapsulates this concept in all its power and humility. It is at the core of open science and biocuration. Almost by definition, FAIR data is non-proprietary, yet the work done to generate, curate, and share it is invaluable. Recent proceedings at the 17th Annual International Biocuration Conference (AIBC), hosted at the Indian Biological Data Centre (IBDC) in Faridabad, were a testament to this duality.
 

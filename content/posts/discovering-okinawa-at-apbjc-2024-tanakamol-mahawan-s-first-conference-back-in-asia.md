@@ -4,7 +4,7 @@ category:
   - event-fellowship
 cover:
   alt: image
-  image: /wp-content/uploads/2024/11/image.jpeg
+  image: /obf-hugo-test/wp-content/uploads/2024/11/image.jpeg
 date: "2024-11-07T13:09:25+00:00"
 guid: https://www.open-bio.org/?p=8249
 tag:
@@ -13,7 +13,7 @@ title: 'Discovering Okinawa at APBJC 2024: Tanakamol Mahawan''s First Conference
 url: /2024/11/07/apbjc-2024-tanakamol-mahawans/
 
 ---
-_The [Open Bioinformatics Foundation (OBF) Event Fellowship program](/travel-awards) aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community. Tanakamol Mahawan, a PhD student at the Institute of Systems, Molecular and Integrative Biology , University of Liverpool, was awarded an OBF Event Fellowship to attend [Asia & Pacific Bioinformatics Joint Congress 2024](https://www.apbjc.asia/)_.
+_The [Open Bioinformatics Foundation (OBF) Event Fellowship program](/obf-hugo-test/travel-awards) aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community. Tanakamol Mahawan, a PhD student at the Institute of Systems, Molecular and Integrative Biology , University of Liverpool, was awarded an OBF Event Fellowship to attend [Asia & Pacific Bioinformatics Joint Congress 2024](https://www.apbjc.asia/)_.
 
 This year’s Asia & Paciﬁc Bioinformatics Joint Conference (APBJC 2024) in Okinawa was a special milestone for me; it was the first conference I attended since moving back to Thailand from the UK. Now a new lecturer at a Thai university, I felt a unique excitement and gratitude stepping into this event, thrilled by the chance to reconnect with the vibrant bioinformatics community in Asia Pacific and meet others passionate about advancing open science.
 
@@ -29,17 +29,17 @@ At the conference, I had the opportunity to present my research, “A Comprehens
 
 It was encouraging to see a strong interest in my poster, with attendees eager to discuss the nuances of batch effect correction. We discussed  why quality checks are crucial before using any batch-corrected data in downstream analyses—a topic that resonated with many who had experienced the complexities of multi-source data integration firsthand. As part of my commitment to open science, I shared the link to my [GitHub repository](https://github.com/Victormah/ML_PDACBiomarker), where others can access the code and workflow I developed for batch correction. This, I believe, contributes to a collective effort in making bioinformatics research reproducible and accessible to all.
 
-![](/wp-content/uploads/2024/11/image-763x1024.jpeg)P _ic 2 : Poster presentation_
+![](/obf-hugo-test/wp-content/uploads/2024/11/image-763x1024.jpeg)P _ic 2 : Poster presentation_
 
-![](/wp-content/uploads/2024/11/image-3-1024x768.jpeg)_Pic 3 : Workshop on Drug Response Prediction and Graph Neural Network(GNN)_
+![](/obf-hugo-test/wp-content/uploads/2024/11/image-3-1024x768.jpeg)_Pic 3 : Workshop on Drug Response Prediction and Graph Neural Network(GNN)_
 
 #### **Building Quality Connections**
 
 One of the most enriching parts of the conference was meeting new friends and potential collaborators. A memorable group of PhD students from Osaka, Hokkaido and Oxford brought fresh perspectives and infectious enthusiasm, making our post-conference discussions both lively and enlightening. We shared experiences and stories over local food, discussing everything from research challenges to future aspirations.
 
-![](/wp-content/uploads/2024/11/image-2-1024x768.jpeg)
+![](/obf-hugo-test/wp-content/uploads/2024/11/image-2-1024x768.jpeg)
 
-![](/wp-content/uploads/2024/11/image-1-1024x576.jpeg)_Pic4 -5 : A group of friends from  Osaka , Hokkaido and Oxford_
+![](/obf-hugo-test/wp-content/uploads/2024/11/image-1-1024x576.jpeg)_Pic4 -5 : A group of friends from  Osaka , Hokkaido and Oxford_
 
 Another exciting connection was Dr. Nok, a researcher from Singapore and a senior in machine learning research. We bonded over our shared interests and began brainstorming ideas for a potential collaborative project. Meeting these brilliant minds underscored how bioinformatics is more than just science—it connects researchers across borders, allowing us to work together towards common goals.
 

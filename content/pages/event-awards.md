@@ -14,7 +14,7 @@ These fellowships are available to support both in-person and remote (virtual) p
 
 _The OBF Event Fellowship was previously offered under the title OBF Travel Fellowship._
 
-![](/wp/wp-content/uploads/2019/02/anisha-keshavan-conf-1024x755.jpg)
+![](/obf-hugo-test/wp/wp-content/uploads/2019/02/anisha-keshavan-conf-1024x755.jpg)
 
 # WHAT ARE THE SELECTION CRITERIA?
 
@@ -24,7 +24,7 @@ _The OBF Event Fellowship was previously offered under the title OBF Travel Fell
 
 Does the event you want to attend promote open source bioinformatics software development or open science in the biological research community?
 
-![](/wp/wp-content/uploads/2019/01/deadline.png)
+![](/obf-hugo-test/wp/wp-content/uploads/2019/01/deadline.png)
 
 Events can include (but are not limited to) conferences, workshops, code fests, and hackathons. The event can occur anytime in a one-year window starting one month after the application deadline. For example, if you are applying for the April 1 deadline, the event you are hoping to attend should take place between May 1 and the following May 1.
 
@@ -34,7 +34,7 @@ Events can include (but are not limited to) conferences, workshops, code fests, 
 
 We look at your role at the event, your past participation in the project that you are representing, and also your general involvement in open source development or open science.
 
-![](/wp/wp-content/uploads/2019/01/filter.png)
+![](/obf-hugo-test/wp/wp-content/uploads/2019/01/filter.png)
 
 We give a slight preference to OBF events and member projects.
 
@@ -44,7 +44,7 @@ We give a slight preference to OBF events and member projects.
 
 Does your attendance increase diversity at the event and/or in the overall open source bioinformatics community?
 
-![](/wp/wp-content/uploads/2019/01/select-diversity.png)
+![](/obf-hugo-test/wp/wp-content/uploads/2019/01/select-diversity.png)
 
 We understand increasing diversity as increasing participation from groups otherwise underrepresented in the community or at the event, including but not limited to underrepresented demographic groups, ethnic origins, career stages, and disabilities.
 
@@ -74,7 +74,7 @@ We expect that your participation in the event will
 - promote open source software development and/or open science in the biological research community
 - promote diversity in this community.
 
-Awardees are required to write a [post on the OBF blog](/category/travel-fellowship/) about their experience attending the event. This should be completed within three weeks after the event ends, and is a prerequisite before the awardee can receive payment.
+Awardees are required to write a [post on the OBF blog](/obf-hugo-test/category/travel-fellowship/) about their experience attending the event. This should be completed within three weeks after the event ends, and is a prerequisite before the awardee can receive payment.
 
 # Applications
 

@@ -6,7 +6,7 @@ category:
   - obf
 cover:
   alt: image-2
-  image: /wp-content/uploads/2021/06/image-2.png
+  image: /obf-hugo-test/wp-content/uploads/2021/06/image-2.png
 date: "2021-06-07T09:16:08+00:00"
 guid: https://www.open-bio.org/?p=5598
 tag:
@@ -17,7 +17,7 @@ title: Summary of my participation at the GLBIO-2021 conference funded by OBF Ev
 url: /2021/06/07/sona-charles-glbio2021/
 
 ---
-_The_ [_Open Bioinformatics Foundation (OBF)_](/) _Event Fellowship program supports and encourages diverse participation at events focusing on open source bioinformatics software development and open science practices in the biological research community. **Sona Charles**, a Scientist (Bioinformatics) at ICAR-Indian Institute of Spices Research, India, was supported to participate in the_ [_Great Lakes Bioinformatics (GLBIO) 2021 Conference_](https://www.iscb.org/glbio2021) _by this award granted to her in the application round-1 of 2021. Find more information_ [_here._](/travel-awards/)
+_The_ [_Open Bioinformatics Foundation (OBF)_](/obf-hugo-test/) _Event Fellowship program supports and encourages diverse participation at events focusing on open source bioinformatics software development and open science practices in the biological research community. **Sona Charles**, a Scientist (Bioinformatics) at ICAR-Indian Institute of Spices Research, India, was supported to participate in the_ [_Great Lakes Bioinformatics (GLBIO) 2021 Conference_](https://www.iscb.org/glbio2021) _by this award granted to her in the application round-1 of 2021. Find more information_ [_here._](/obf-hugo-test/travel-awards/)
 
 In this pandemic stricken world when all conferences are taking place virtually and don’t require traveling, it has become more accessible for international participants like me. However, the cost for registration, video-conferencing accessories and childcare remain the same. Luckily, I came across the Open Bioinformatics Foundation Event Fellowship, when I was hoping to attend the Great Lakes Bioinformatics (GLBIO) 2021 Conference. I had already submitted a poster entitled “ [Sequence-Based Prediction of Phytophthora- Host Interaction Using Machine Learning Methods](https://doi.org/10.5281/zenodo.4892737)” to the conference, which was accepted. I went ahead and applied for the event fellowship at Open Bioinformatics Foundation for its first round of 2021. Two weeks later (after the application review phase), I was informed by the Chair of OBF Event Fellowship that I was awarded the fellowship.
 
@@ -47,7 +47,7 @@ It was followed by a session on SARS-CoV2 analysis and a session on proteomics a
 
 On Day-3, a second poster session was organised where I presented my work titled “ [Sequence-based prediction of Phytophthora-host interaction using machine learning](http://doi.org/10.5281/zenodo.4892738)” (Sona Charles, & Sreekumar J., 2021, DOI: 10.5281/zenodo.4892738). I got to interact with many researchers and receive feedback from a global audience working in the area of machine learning.
 
-![](/wp-content/uploads/2021/06/image-2.png)Screenshot of the top section of my poster titled: Sequence-based prediction of Phytophthora-host interaction using machine learning, available on Zenodo under CC-BY 4.0 license, [http://doi.org/10.5281/zenodo.4892738](http://doi.org/10.5281/zenodo.4892738)
+![](/obf-hugo-test/wp-content/uploads/2021/06/image-2.png)Screenshot of the top section of my poster titled: Sequence-based prediction of Phytophthora-host interaction using machine learning, available on Zenodo under CC-BY 4.0 license, [http://doi.org/10.5281/zenodo.4892738](http://doi.org/10.5281/zenodo.4892738)
 
 Overall the conference was excellent and all data of the conference will be available as an open source resource on YouTube on the [ISCB TV channel](https://www.youtube.com/channel/UCN9kqT7pfOzZddPJHqWSuyA). I am extremely thankful to the OBF for funding my participation related cost for the conference. I will be able to cover my registration and connection related costs. Since the conference was conducted during lockdown it would have been practically impossible for me to attend the conference if the childcare grant was not awarded for the entire duration of the conference. Since the time zones were overlapping from 21:30 to 03:00 Indian Standard Time (IST), child care was the most essential resource for me for attending the conference throughout the night.
 

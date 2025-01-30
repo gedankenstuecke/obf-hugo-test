@@ -5,7 +5,7 @@ category:
   - events
 cover:
   alt: photo1
-  image: /wp-content/uploads/2023/08/photo1.png
+  image: /obf-hugo-test/wp-content/uploads/2023/08/photo1.png
 date: "2023-08-02T04:36:21+00:00"
 guid: https://www.open-bio.org/?p=7183
 tag:
@@ -16,11 +16,11 @@ title: 'Daniela Senra: My Experience at the Human Cell Atlas General Meeting 202
 url: /2023/08/02/daniela-senra-experience-human-cell-atlas-2023/
 
 ---
-**_The_** [**_Open Bioinformatics Foundation (OBF) Event Fellowship program_**](/travel-awards) **_aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community. Daniela Senra,_** _**a PhD researcher at Centro Regional de Estudios Genómicos, Universidad Nacional de La Plata**_, **_was awarded an OBF Event Fellowship to attend_** _**the [Human Cell Atlas General Meeting 2023](https://events.humancellatlas.org/2023gm).**_
+**_The_** [**_Open Bioinformatics Foundation (OBF) Event Fellowship program_**](/obf-hugo-test/travel-awards) **_aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community. Daniela Senra,_** _**a PhD researcher at Centro Regional de Estudios Genómicos, Universidad Nacional de La Plata**_, **_was awarded an OBF Event Fellowship to attend_** _**the [Human Cell Atlas General Meeting 2023](https://events.humancellatlas.org/2023gm).**_
 
 In July, I had the incredible opportunity to attend and present a lightning talk at the Human Cell Atlas General Meeting 2023, that took place in the city of Toronto, Canada, from July 10th to July 12th, 2023.
 
-![](/wp-content/uploads/2023/08/photo1-1024x576.png)Photo of Daniela giving her talk and sharing about the open-source tool ORIGINS2.
+![](/obf-hugo-test/wp-content/uploads/2023/08/photo1-1024x576.png)Photo of Daniela giving her talk and sharing about the open-source tool ORIGINS2.
 
 ## **Discovering New Insights at the Meeting**
 
@@ -44,6 +44,6 @@ The experience was undeniably one of the highlights of my ongoing PhD journey. I
 
 None of this would have been possible without the support of the Open Bioinformatics Foundation. I am immensely grateful to the OBF for their generous support, which made my participation in this exceptional event a reality.
 
-![](/wp-content/uploads/2023/08/photo2-1-768x1024.jpg)
+![](/obf-hugo-test/wp-content/uploads/2023/08/photo2-1-768x1024.jpg)
 
 In conclusion, the Human Cell Atlas General Meeting 2023 was an unforgettable experience that broadened my professional and personal horizons. I left the event with new knowledge, invaluable connections, and a renewed determination to contribute to the scientific community.

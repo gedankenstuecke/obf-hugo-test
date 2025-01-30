@@ -30,7 +30,7 @@ If you're interested in mentoring this year, I'd recommend signing up to these t
 
 Please add your project ideas to this list by THURSDAY 18 FEBRUARY (using suggest mode). [https://docs.google.com/document/d/1kPf-fLDmjoVGf7TvbOB6H12pC\_s\_y\_5TUGiKAxre64M/edit?usp=sharing](https://docs.google.com/document/d/1kPf-fLDmjoVGf7TvbOB6H12pC_s_y_5TUGiKAxre64M/edit?usp=sharing) \- you can add ideas after this if needed, but we need as many fully fleshed ideas as possible already online for the organisation review phase.
 
-These are the project ideas from last year for inspiration: [/events/gsoc/gsoc-project-ideas/](/events/gsoc/gsoc-project-ideas/)  
+These are the project ideas from last year for inspiration: [/events/gsoc/gsoc-project-ideas/](/obf-hugo-test/events/gsoc/gsoc-project-ideas/)  
 **We're all pretty tired**
 
 - Make sure you have 2-3 mentors for every project idea to cover in case of something coming up (such as covid related downtime, whether illness, caring, or anything else).

@@ -5,7 +5,7 @@ category:
   - community
 cover:
   alt: Screen Shot 2021-04-09 at 9.08.02 AM
-  image: /wp-content/uploads/2021/04/Screen-Shot-2021-04-09-at-9.08.02-AM.png
+  image: /obf-hugo-test/wp-content/uploads/2021/04/Screen-Shot-2021-04-09-at-9.08.02-AM.png
 date: "2021-04-09T16:58:44+00:00"
 guid: https://www.open-bio.org/?p=5404
 title: BOSC Abstract Parties!

@@ -6,7 +6,7 @@ category:
   - events
 cover:
   alt: obf
-  image: /wp-content/uploads/2023/07/obf.png
+  image: /obf-hugo-test/wp-content/uploads/2023/07/obf.png
 date: "2023-07-05T05:05:05+00:00"
 guid: https://www.open-bio.org/?p=7164
 tag:
@@ -24,7 +24,7 @@ The OBF Event Fellowship program aims to increase diverse participation at event
 
 **Overview of the round 1 of OBF Event Fellowship 2023**
 
-The [Open Bioinformatics Foundation (OBF) Event Fellowship program](/event-awards/) is now in its 7th year. We open three application calls yearly with the following deadlines: 1 April, 1 August, and 1 December.
+The [Open Bioinformatics Foundation (OBF) Event Fellowship program](/obf-hugo-test/event-awards/) is now in its 7th year. We open three application calls yearly with the following deadlines: 1 April, 1 August, and 1 December.
 
 In 2023 round 1 (April 2023), we received 23 applications, of which three applicants were awarded this fellowship for various events they were participating in. Congratulations to **Yvonne Ateh Joko Walburga Epse Fru**, **Shirley Salcan** and **Daniela Senra**.
 
@@ -32,8 +32,8 @@ In 2023 round 1 (April 2023), we received 23 applications, of which three applic
 
 We recently published blog post from two of our latest awardees summarising their experiences attending conferences with help from OBF Event Fellowships:
 
-- Winfred Gatua: [Winfred Gatua: Hybrid Carpentries workshop supported by OBF Event Fellowship](/2023/03/29/winfred-gatua-hybrid-carpentries-workshop/)
-- Ruth Nanjala: [Ruth Nanjala: My experience attending and participating at the ICHG 2023 conference hosted in the Mother City](/2023/03/21/ruth-nanjala-experience-at-the-ichg-2023-conference/)
+- Winfred Gatua: [Winfred Gatua: Hybrid Carpentries workshop supported by OBF Event Fellowship](/obf-hugo-test/2023/03/29/winfred-gatua-hybrid-carpentries-workshop/)
+- Ruth Nanjala: [Ruth Nanjala: My experience attending and participating at the ICHG 2023 conference hosted in the Mother City](/obf-hugo-test/2023/03/21/ruth-nanjala-experience-at-the-ichg-2023-conference/)
 
 Congratulations to all of our awardees!  We are delighted to support their participation with OBF Event Fellowships, and we wish them all the best for their future work.
 

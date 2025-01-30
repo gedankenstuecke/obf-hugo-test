@@ -9,7 +9,7 @@ category:
   - obf-projects
 cover:
   alt: Biopython 2003 Logo
-  image: /wp-content/uploads/2013/12/biopython.jpg
+  image: /obf-hugo-test/wp-content/uploads/2013/12/biopython.jpg
 date: "2014-12-17T21:06:29+00:00"
 guid: http://news.open-bio.org/news/?p=1226
 tag:

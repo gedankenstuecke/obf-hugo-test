@@ -13,7 +13,7 @@ title: 'MetaDocencia: Teaching to Teach (Bioinformatics and more) Online in Span
 url: /2021/01/13/metadocencia-2020-laura-acion/
 
 ---
-_The_ [_Open Bioinformatics Foundation (OBF) Event Fellowship program_](/travel-awards) _aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community._ [_Dr. Laura Ación_](http://lacion.rbind.io) _, a researcher at the_ [_Instituto de Cálculo, University of Buenos Aires, Argentina_](http://www.ic.fcen.uba.ar/en/) _. She is also one of the co-founders of_ [_MetaDocencia_](https://www.metadocencia.org/en/) _, which she could partly support with the OBF Event fellowship granted to her in the December 2019 application round._
+_The_ [_Open Bioinformatics Foundation (OBF) Event Fellowship program_](/obf-hugo-test/travel-awards) _aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community._ [_Dr. Laura Ación_](http://lacion.rbind.io) _, a researcher at the_ [_Instituto de Cálculo, University of Buenos Aires, Argentina_](http://www.ic.fcen.uba.ar/en/) _. She is also one of the co-founders of_ [_MetaDocencia_](https://www.metadocencia.org/en/) _, which she could partly support with the OBF Event fellowship granted to her in the December 2019 application round._
 
 **What was supposed to happen**
 
@@ -21,7 +21,7 @@ I applied to OBF Event Fellowship to attend [CarpentryCon 2020](https://2020.car
 
 **What happened**
 
-Having the [OBF fellowship award repurposed](/2020/03/13/obf-travel-fellowships-update-in-light-of-the-coronavirus-covid-19-%ef%bb%bf/) to host or attend online events was one of the 2020 silver linings because it enormously facilitated my work towards the advancement of MetaDocencia.
+Having the [OBF fellowship award repurposed](/obf-hugo-test/2020/03/13/obf-travel-fellowships-update-in-light-of-the-coronavirus-covid-19-%ef%bb%bf/) to host or attend online events was one of the 2020 silver linings because it enormously facilitated my work towards the advancement of MetaDocencia.
 
 On March 16th, 2020, all in-person classes and training opportunities were canceled in Argentina due to the pandemic, with no clear indication of when they will resume. That afternoon, it was already clear that we all had to stay home for a while (thus my WhatsApp avatar “Yo me quedo en casa,” meaning, “I stay at home”). That afternoon I sent two audio messages to a group of friends.
 

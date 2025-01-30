@@ -8,4 +8,4 @@ title: BOSC Schedule Posted
 url: /2005/06/16/bosc-schedule-posted/
 
 ---
-The [BOSC 2005](/bosc2005/) schedule has been [posted](/bosc2005/program.pdf). Lightning talks are still being accepted.
+The [BOSC 2005](/obf-hugo-test/bosc2005/) schedule has been [posted](/obf-hugo-test/bosc2005/program.pdf). Lightning talks are still being accepted.

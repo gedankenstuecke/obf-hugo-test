@@ -10,4 +10,4 @@ url: /2005/11/21/biblio-plugin-for-wiki/
 ---
 I added the [Biblio plugin](http://martin.jambon.free.fr/biblio_php.html) for mediawiki so that we could simplify how papers are referenced in our pages. I found this as part of the [wikiomics](http://wikiomics.org) project.
 
-See the [help page](/wiki/Help:Editing) and the Bioperl wiki [publications page](/wiki/BioPerl_publications) for examples.
+See the [help page](/obf-hugo-test/wiki/Help:Editing) and the Bioperl wiki [publications page](/obf-hugo-test/wiki/BioPerl_publications) for examples.

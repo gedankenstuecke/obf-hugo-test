@@ -8,20 +8,20 @@ category:
   - uncategorized
 cover:
   alt: jemima-becker - 1
-  image: /wp-content/uploads/2022/06/jemima-becker-1.jpeg
+  image: /obf-hugo-test/wp-content/uploads/2022/06/jemima-becker-1.jpeg
 date: "2022-06-23T22:04:41+00:00"
 guid: https://www.open-bio.org/?p=6510
 title: My trip to the EMBO neural stem cells workshop
 url: /2022/06/23/obf-fellow-jemimabecker2022/
 
 ---
-_The [Open Bioinformatics Foundation (OBF) Event Fellowship program](/travel-awards) aims to promote diverse participation at events promoting open source bioinformatics software development and open science practices in the biological research community. Jemima Becker, DPhil student at Merton College, University of Oxford, attended the [EMBO workshop: “Neural stem cells: From basic understanding to translational applications"](https://meetings.embo.org/event/21-neural-stem-cells), supported by this fellowship granted to him in the first round of 2022._
+_The [Open Bioinformatics Foundation (OBF) Event Fellowship program](/obf-hugo-test/travel-awards) aims to promote diverse participation at events promoting open source bioinformatics software development and open science practices in the biological research community. Jemima Becker, DPhil student at Merton College, University of Oxford, attended the [EMBO workshop: “Neural stem cells: From basic understanding to translational applications"](https://meetings.embo.org/event/21-neural-stem-cells), supported by this fellowship granted to him in the first round of 2022._
 
 This June, I had the opportunity to travel to the EMBO workshop: “Neural stem cells: From basic understanding to translational applications”. There, I presented a poster documenting the first six months of my PhD work on long noncoding RNAs (lncRNAs) in the postnatal ventricular-subventricular (V-SVZ): “Long noncoding RNAs in the Ventricular-Subventricular zone: what have we learnt from single cell transcriptomics?”.
 
 ![](https://lh5.googleusercontent.com/z-pNd6B0_0jByEfOAgydy_CLhx33lUvdLoB-x_dKsNto7HKwHjimxJ0IcRb1fwg0DOI0XuiD00Jk2IgyQQD0s09XtR6prjJ7ysguMKluXSSfXWWxJTWJd502XxCzaqXXfqsMbJqo_fxrjtK1rg)
 
-![](/wp-content/uploads/2022/06/jb1.png)
+![](/obf-hugo-test/wp-content/uploads/2022/06/jb1.png)
 
 _Images: My supervisor Francis Szele and I after the end of the first poster session (left). Sunset on the first evening at the conference (right)._
 

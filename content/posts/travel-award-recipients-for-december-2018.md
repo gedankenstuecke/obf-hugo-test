@@ -16,7 +16,7 @@ We had a great round of OBF travel fellowship candidates in our last round of ap
 
 Congratulations to our December 2018 recipients:  
 
-**Malvika Sharan** will be attending [BOSC](/wiki/BOSC_2019) at [ISMB 2019](https://www.iscb.org/ismbeccb2019) in Basel this July. Abstract submissions have only just opened, but she intends to submit an abstract expanding on the idea “Inclusiveness in Open Science” that she spoke about last year ( [slides](https://speakerdeck.com/malvikasharan/inclusiveness-in-open-science)). She’s been active in the BOSC community for several years, participating in abstract review and BoF organisation, and she plans to continue this for 2019.   
+**Malvika Sharan** will be attending [BOSC](/obf-hugo-test/wiki/BOSC_2019) at [ISMB 2019](https://www.iscb.org/ismbeccb2019) in Basel this July. Abstract submissions have only just opened, but she intends to submit an abstract expanding on the idea “Inclusiveness in Open Science” that she spoke about last year ( [slides](https://speakerdeck.com/malvikasharan/inclusiveness-in-open-science)). She’s been active in the BOSC community for several years, participating in abstract review and BoF organisation, and she plans to continue this for 2019.   
 
 **Lindsay Rutter** attended the [Plant and Animal Genome Conference](http://www.intlpag.org/2019/) to give an invited workshop talk for the “ _Big Data: Manage your data before your data kills you_” session. Her software " [bigPint](https://lindsayrutter.github.io/bigPint/)" allows biologists to visualize genomics data, especially RNA-sequencing data, and was recently submitted and accepted to [Bioconductor](https://bioconductor.org/packages/devel/bioc/html/bigPint.html).  
 

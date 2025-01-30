@@ -13,4 +13,4 @@ title: BOSC Schedule Posted
 url: /2009/06/01/bosc-schedule-posted-2/
 
 ---
-The BOSC 2009 schedule of speakers with links to abstracts has been posted at [/wiki/BOSC\_2009\_Schedule](/wiki/BOSC_2009_Schedule).
+The BOSC 2009 schedule of speakers with links to abstracts has been posted at [/wiki/BOSC\_2009\_Schedule](/obf-hugo-test/wiki/BOSC_2009_Schedule).

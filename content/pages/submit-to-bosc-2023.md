@@ -2,7 +2,7 @@
 author: nlharris
 cover:
   alt: Christie-Jason-Nomi-2021 - 1
-  image: /wp-content/uploads/2022/01/Christie-Jason-Nomi-2021-1.png
+  image: /obf-hugo-test/wp-content/uploads/2022/01/Christie-Jason-Nomi-2021-1.png
 date: "2023-01-18T17:56:13+00:00"
 draft: "true"
 guid: https://www.open-bio.org/?page_id=6809
@@ -19,16 +19,16 @@ held in person in Lyon, France, with an online participation option.
 
 ISMB states: "ISCB/ECCB strongly prefers that scientific research accepted for oral presentation be presented in-person at the conference venue. Of course, we understand that some presenters will have good reasons to avoid in-person attendance. ISCB/ECCB will grant remote presentation options for reasons associated with maternity/paternity leave, care for a family member, personal/medical disability, sickness, financial hardship, or potential visa problems."
 
-We welcome submission of your 1-2 page abstract for consideration as a talk or poster. Take advantage of our NEW [Early Poster Acceptance](/2023/03/09/bosc-early-poster-acceptance/) option:
+We welcome submission of your 1-2 page abstract for consideration as a talk or poster. Take advantage of our NEW [Early Poster Acceptance](/obf-hugo-test/2023/03/09/bosc-early-poster-acceptance/) option:
 submit your abstract by March 31, 2023; hear by April 6 whether it’s accepted for (at least) a poster. The regular submission deadline is April 20. The late-poster submission deadline is May 18 (posters only). Please see below for submission instructions.
 
-![Photo from BOSC 2022](/wp-content/uploads/2022/12/Nicole-Nomi-BOSC-poster-Moni-ChrisF-1.jpeg)
+![Photo from BOSC 2022](/obf-hugo-test/wp-content/uploads/2022/12/Nicole-Nomi-BOSC-poster-Moni-ChrisF-1.jpeg)
 
-![Poster from BOSC 2022](/wp-content/uploads/2022/11/Festus-Nyastimi-poster-BOSC2022.png)
+![Poster from BOSC 2022](/obf-hugo-test/wp-content/uploads/2022/11/Festus-Nyastimi-poster-BOSC2022.png)
 
 ### Key Dates
 
-March 31, 2023: [Early Poster Acceptance](/2023/03/09/bosc-early-poster-acceptance/) submission deadline (talks and posters)
+March 31, 2023: [Early Poster Acceptance](/obf-hugo-test/2023/03/09/bosc-early-poster-acceptance/) submission deadline (talks and posters)
 April 6: Notification to early submitters about whether they got at least a poster
 April 20: Regular abstract submission deadline (talks and posters)
 May 11: Notification to authors
@@ -84,10 +84,10 @@ In addition to the requirements listed at left, we consider the following when s
 - If you want to be considered for a talk, you also MUST submit a 1-2 page "long abstract" as a PDF. (Yes, we did suggest to ISMB that calling both of these things "abstracts" was confusing.)
 - If you submit for a talk but your abstract is not chosen for a talk, it will automatically be considered for a poster.
 - If your work is accepted for a talk, you can decide later whether you also want to present it as a poster.
-- Abstract template (optional): [bosc2022-abstract-template](/wp-content/uploads/2022/04/bosc2022-abstract-template.docx) (MS Word)
+- Abstract template (optional): [bosc2022-abstract-template](/obf-hugo-test/wp-content/uploads/2022/04/bosc2022-abstract-template.docx) (MS Word)
 - You don't need to register before you submit your abstract, but to present your talk or poster you will need to register for ISMB/ECCB.
 
-![](/wp-content/uploads/2022/01/Screen-Shot-2022-01-19-at-3.59.31-PM.png)
+![](/obf-hugo-test/wp-content/uploads/2022/01/Screen-Shot-2022-01-19-at-3.59.31-PM.png)
 
 Watch a video of [BOSC organizing committee member Jason Williams discussing how to write a great BOSC abstract](https://youtu.be/DwJRrh1Tpew)!  
 
@@ -95,7 +95,7 @@ Watch a video of [BOSC organizing committee member Jason Williams discussing how
 
 # BOSC Open Content Requirement
 
-The [Open Bioinformatics Foundation](/wiki/OBF), which coordinates BOSC, is dedicated to promoting the practice and philosophy of Open Source Software Development and Open Science within the biological research community.
+The [Open Bioinformatics Foundation](/obf-hugo-test/wiki/OBF), which coordinates BOSC, is dedicated to promoting the practice and philosophy of Open Source Software Development and Open Science within the biological research community.
 
 For this reason, if a submitted abstract concerns a specific software system for use by the research community, then that software must include a recognized Open Source License or Public Domain dedication, and be available for download, including source code. We recommend Open Source Initiative (OSI) Approved Licenses where appropriate.  
 
@@ -121,6 +121,6 @@ Abstracts submitted to BOSC are reviewed by at least three reviewers. Our review
 
 ### Requesting registration fee assistance
 
-We realize that the cost of ISMB may be prohibitive for some. If you are submitting an abstract to BOSC and would have difficulty covering the cost of registration, you can request registration fee assistance. To make it easy, this request can be made right on the abstract submission form. (Only the conference chairs will see these fee assistance requests -- the abstract reviewers will not.) Last year, thanks to help from our [sponsors](/events/bosc-2022/sponsors/), we were able to grant free registration to 19 participants.
+We realize that the cost of ISMB may be prohibitive for some. If you are submitting an abstract to BOSC and would have difficulty covering the cost of registration, you can request registration fee assistance. To make it easy, this request can be made right on the abstract submission form. (Only the conference chairs will see these fee assistance requests -- the abstract reviewers will not.) Last year, thanks to help from our [sponsors](/obf-hugo-test/events/bosc-2022/sponsors/), we were able to grant free registration to 19 participants.
 
 [Submit Abstract]( https://easychair.org/conferences/?conf=ismbeccb2023abstract)

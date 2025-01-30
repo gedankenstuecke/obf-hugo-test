@@ -8,7 +8,7 @@ category:
   - general
 cover:
   alt: CoFest_lunch_collage
-  image: /wp-content/uploads/2023/09/CoFest_lunch_collage.jpg
+  image: /obf-hugo-test/wp-content/uploads/2023/09/CoFest_lunch_collage.jpg
 date: "2023-09-29T22:08:37+00:00"
 guid: https://www.open-bio.org/?p=7341
 tag:
@@ -21,13 +21,13 @@ title: BOSC CollaborationFest 2023 Report
 url: /2023/09/29/bosc-collaborationfest-2023-report/
 
 ---
-![](/wp-content/uploads/2023/10/CoFest2023_welcome.jpg)
+![](/obf-hugo-test/wp-content/uploads/2023/10/CoFest2023_welcome.jpg)
 
 **CollaborationFest**, CoFest for short, is a collaborative work event that has been held each of the past 13 years as a satellite event of BOSC. At these free events, held right before or after BOSC, participants  gather in small groups to exchange ideas and work together on projects including but not limited to hacking. Participants were encouraged to submit their project ideas in advance to facilitate collaboration.
 
-[**CoFest 2023**](/events/bosc-2023/obf-bosc-collaborationfest-2023/) took place during the two days just before [BOSC](/2023/08/14/bosc-2023-report/), which was part of ISMB/ECCB 2023 in Lyon and online. It was the first in-person edition after several online-only CoFests, due to Covid pandemics. It was hosted by Jérémy Just at the nearby [_École Normale Supérieure de Lyon_](https://www.ens-lyon.fr/en/), which provided space and infrastructure, with funding from [_Complex Systems Institute_](https://www.ixxi.fr/?set_language=en) for lunches and coffee breaks. Free virtual machines were made available by the [_French Institute for Bioinformatics_](https://www.france-bioinformatique.fr/en/home/) and the [_Pôle scientifique de modélisation numérique_](https://www.ens-lyon.fr/PSMN/doku.php?id=en:accueil).
+[**CoFest 2023**](/obf-hugo-test/events/bosc-2023/obf-bosc-collaborationfest-2023/) took place during the two days just before [BOSC](/obf-hugo-test/2023/08/14/bosc-2023-report/), which was part of ISMB/ECCB 2023 in Lyon and online. It was the first in-person edition after several online-only CoFests, due to Covid pandemics. It was hosted by Jérémy Just at the nearby [_École Normale Supérieure de Lyon_](https://www.ens-lyon.fr/en/), which provided space and infrastructure, with funding from [_Complex Systems Institute_](https://www.ixxi.fr/?set_language=en) for lunches and coffee breaks. Free virtual machines were made available by the [_French Institute for Bioinformatics_](https://www.france-bioinformatique.fr/en/home/) and the [_Pôle scientifique de modélisation numérique_](https://www.ens-lyon.fr/PSMN/doku.php?id=en:accueil).
 
-![](/wp-content/uploads/2023/09/project_list-1024x1024.jpg)List of the projects submitted in advance by the participants for BOSC CoFest 2023.
+![](/obf-hugo-test/wp-content/uploads/2023/09/project_list-1024x1024.jpg)List of the projects submitted in advance by the participants for BOSC CoFest 2023.
 
 CoFest brought together 29 in-person participants as well as numerous online participants, experts in fields as diverse as plant biology and personalized medicine.
 
@@ -39,9 +39,9 @@ As in previous years, CoFest participants engaged in a wide variety of projects 
 
 In total, the participants worked on ten different projects, with tangible accomplishments for several subtasks of these projects. In addition, cross-project discussions facilitated progress on many projects, exchanging perspectives and pointers between participants. The synergies and discussions between the various groups were remarkable.
 
-> **We would like to thank the entire [OBF community](/) for maintaining the positive atmosphere that makes such events a reproducible success!**
+> **We would like to thank the entire [OBF community](/obf-hugo-test/) for maintaining the positive atmosphere that makes such events a reproducible success!**
 
-![](/wp-content/uploads/2023/09/CoFest_lunch_collage-1024x575.jpg)A few pictures of lunches during BOSC CoFest 2023, in the ENS gardens.
+![](/obf-hugo-test/wp-content/uploads/2023/09/CoFest_lunch_collage-1024x575.jpg)A few pictures of lunches during BOSC CoFest 2023, in the ENS gardens.
 
 # Some advances made during CoFest 2023
 
@@ -61,7 +61,7 @@ During the CoFest, the [iCn3D viewer](https://www.ncbi.nlm.nih.gov/Structure/icn
 
 Users can also predict structures from sequences using ESMFold directly in iCn3D via the menu "File > Predict by Seq. > ESMFold". Other features of iCn3D are listed in its GitHub page: [https://github.com/ncbi/icn3d](https://github.com/ncbi/icn3d).
 
-![](/wp-content/uploads/2023/09/9780596002992_internet_w290.jpg)The BLAST book from 2003 (cover).
+![](/obf-hugo-test/wp-content/uploads/2023/09/9780596002992_internet_w290.jpg)The BLAST book from 2003 (cover).
 
 ## Updating the BLAST book
 
@@ -82,7 +82,7 @@ The main author, [Ian Korf](http://korflab.ucdavis.edu/Bios/bio_ian.html), had b
 - Write down the updated examples as a [web page](https://github.com/jejust/blast_book_plus),
 - Contact O’Reilly, the publisher of the book, and see if they are interested in a new edition. In any case, the updated examples will be available to the community on a webpage (GitHub or better).
 
-[![](/wp-content/uploads/2023/09/biopython_logo_s.png)](https://biopython.org/)
+[![](/obf-hugo-test/wp-content/uploads/2023/09/biopython_logo_s.png)](https://biopython.org/)
 
 ## Progress on various Biopython projects
 
@@ -188,7 +188,7 @@ _Making Biomedical Research Software FAIR: Actionable Step-by-step Guidelines wi
 
 - Would you use the guidelines to make your research software reusable? If not, why, how can they be improved?
 
-[![](/wp-content/uploads/2023/09/CWL-Logo-HD-2-1024x654.png)](https://www.commonwl.org/)
+[![](/obf-hugo-test/wp-content/uploads/2023/09/CWL-Logo-HD-2-1024x654.png)](https://www.commonwl.org/)
 
 ## Next release of Common Workflow Language
 
@@ -240,7 +240,7 @@ _Making Biomedical Research Software FAIR: Actionable Step-by-step Guidelines wi
 
 We are grateful to all the sponsors who allowed us to host the BOSC CoFest 2023 in Lyon in excellent conditions and made it so successful:
 
-[![](/wp-content/uploads/2023/09/IXXI_Logo.png)](https://www.ixxi.fr/)[Complex Systems Institute Rhône-Alpes](https://www.ixxi.fr/)[![](/wp-content/uploads/2023/06/ens_logo.png)](http://www.ens-lyon.fr/)[École normale supérieure de Lyon](http://www.ens-lyon.fr)[![](/wp-content/uploads/2023/06/ens_rdp_logo.jpeg)](http://www.ens-lyon.fr/RDP/)[Laboratoire Reproduction et développement des plantes](http://www.ens-lyon.fr/RDP/)[![](/wp-content/uploads/2023/09/IFB-HAUT-COULEUR-GRAND.png)](https://www.france-bioinformatique.fr/en/)[French Institute for Bioinformatics](https://www.france-bioinformatique.fr/en/)
+[![](/obf-hugo-test/wp-content/uploads/2023/09/IXXI_Logo.png)](https://www.ixxi.fr/)[Complex Systems Institute Rhône-Alpes](https://www.ixxi.fr/)[![](/obf-hugo-test/wp-content/uploads/2023/06/ens_logo.png)](http://www.ens-lyon.fr/)[École normale supérieure de Lyon](http://www.ens-lyon.fr)[![](/obf-hugo-test/wp-content/uploads/2023/06/ens_rdp_logo.jpeg)](http://www.ens-lyon.fr/RDP/)[Laboratoire Reproduction et développement des plantes](http://www.ens-lyon.fr/RDP/)[![](/obf-hugo-test/wp-content/uploads/2023/09/IFB-HAUT-COULEUR-GRAND.png)](https://www.france-bioinformatique.fr/en/)[French Institute for Bioinformatics](https://www.france-bioinformatique.fr/en/)
 
 We would also like to apologize to all our colleagues who would have liked to attend but had holiday date constraints this summer. Keep updated for next editions!
 
@@ -255,6 +255,6 @@ All the catering was purchased from local providers and carried by bike. They wi
 
 We did our best to minimize waste, by using reusable containers for lunches and coffee breaks (including drink bottles, glasses, cups, plates, silverware…).
 
-![](/wp-content/uploads/2023/09/CoFest_baker_delivery-576x1024.jpg)Coffee break
+![](/obf-hugo-test/wp-content/uploads/2023/09/CoFest_baker_delivery-576x1024.jpg)Coffee break
 
-![](/wp-content/uploads/2023/09/CoFest_lunch_table-768x1024.jpg)Happy participants at lunch
+![](/obf-hugo-test/wp-content/uploads/2023/09/CoFest_lunch_table-768x1024.jpg)Happy participants at lunch

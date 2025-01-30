@@ -6,7 +6,7 @@ category:
   - uncategorized
 cover:
   alt: IHMC.png - 1
-  image: /wp-content/uploads/2022/12/IHMC.png-1.png
+  image: /obf-hugo-test/wp-content/uploads/2022/12/IHMC.png-1.png
 date: "2022-12-29T20:21:04+00:00"
 guid: https://www.open-bio.org/?p=6777
 tag:
@@ -16,7 +16,7 @@ title: <strong>Microbiome (k)nights</strong>
 url: /2022/12/29/microbiome-knights/
 
 ---
-_The [Open Bioinformatics Foundation (OBF) Event Fellowship program](/travel-awards) aims to promote diverse participation at events promoting open source bioinformatics software development and open science practices in the biological research community. Luise Rauer, a PhD student at the Technical University of Munich, was awarded an OBF Event Fellowship to participate virtually in the [9th International Human Microbiome Consortium (IHMC) conference](https://ihmc2022.jp/) in November 2022._
+_The [Open Bioinformatics Foundation (OBF) Event Fellowship program](/obf-hugo-test/travel-awards) aims to promote diverse participation at events promoting open source bioinformatics software development and open science practices in the biological research community. Luise Rauer, a PhD student at the Technical University of Munich, was awarded an OBF Event Fellowship to participate virtually in the [9th International Human Microbiome Consortium (IHMC) conference](https://ihmc2022.jp/) in November 2022._
 
 What do a total lunar eclipse and the 9th International Human Microbiome Consortium (IHMC) conference have in common? While they are both exciting and rare events that started in Kobe, Japan, on 8th November 2022, they also happened in the very early morning for any spectator from Europe. With the IHMC conference starting at 1 a.m. for me as a virtual participant based in Central Europe, my very unique preparation for this conference included changing my sleeping rhythm to become a nighthawk for 3 days and nights. But it was worth it!
 

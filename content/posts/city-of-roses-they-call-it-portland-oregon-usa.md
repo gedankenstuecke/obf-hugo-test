@@ -8,13 +8,13 @@ category:
   - travel-fellowship
 cover:
   alt: farah-yo-angel-GCCBOSC
-  image: /wp-content/uploads/2019/03/farah-yo-angel-GCCBOSC.jpg
+  image: /obf-hugo-test/wp-content/uploads/2019/03/farah-yo-angel-GCCBOSC.jpg
 date: "2018-08-18T15:27:34+00:00"
 guid: https://news.open-bio.org/?p=1993
 summary: |-
   How should I start describing the fruitful experience in this amazing city... First time ever in Portland, second time attending BOSC... I knew I was signing up for a great time but did not know much about the uncanny beauty of this picturesque city.
 
-  First of all, I would like to thank the Open Bioinformatics Foundation (OBF) for providing partial funding to support my travel expenses (though an [OBF Travel Fellowship award](/2018/05/25/travel-fellowships-april-2018/)). I would also like to thank my PhD supervisors Andrew Lonie and Richard O. Sinnott for the remaining expenditure.
+  First of all, I would like to thank the Open Bioinformatics Foundation (OBF) for providing partial funding to support my travel expenses (though an [OBF Travel Fellowship award](/obf-hugo-test/2018/05/25/travel-fellowships-april-2018/)). I would also like to thank my PhD supervisors Andrew Lonie and Richard O. Sinnott for the remaining expenditure.
 tag:
   - bosc
   - community
@@ -28,7 +28,7 @@ url: /2018/08/18/city-of-roses-they-call-it-portland-oregon-usa/
 ---
 How should I start describing the fruitful experience in this amazing city... First time ever in Portland, second time attending BOSC... I knew I was signing up for a great time but did not know much about the uncanny beauty of this picturesque city.
 
-First of all, I would like to thank the Open Bioinformatics Foundation (OBF) for providing partial funding to support my travel expenses (though an [OBF Travel Fellowship award](/2018/05/25/travel-fellowships-april-2018/)). I would also like to thank my PhD supervisors Andrew Lonie and Richard O. Sinnott for the remaining expenditure.
+First of all, I would like to thank the Open Bioinformatics Foundation (OBF) for providing partial funding to support my travel expenses (though an [OBF Travel Fellowship award](/obf-hugo-test/2018/05/25/travel-fellowships-april-2018/)). I would also like to thank my PhD supervisors Andrew Lonie and Richard O. Sinnott for the remaining expenditure.
 
 I had written a very detailed blog post of my experience in [BOSC 2017](https://news.open-bio.org/2017/11/21/bosc-2017-prague-land-of-stories/). The experience was a bit different this time as BOSC was organised in conjunction with Galaxy Community Conference(GCC) this year, unlike previous all times when BOSC was held with ISMB. On a lighter note, the most positive difference (as compared to last year) was the unlimited supply of coffee/tea in the [coffee town](https://en.wikipedia.org/wiki/Coffee_in_Portland,_Oregon) throughout the conference to keep the morale high.  The other difference was the budget-friendly registration costs of the conference this year. The cheaper accommodation options were available in the hostels of [Reed College](https://www.reed.edu/), the beautiful and lush green venue for the conference.
 

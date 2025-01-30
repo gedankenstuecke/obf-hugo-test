@@ -4,7 +4,7 @@ category:
   - event-fellowship
 cover:
   alt: Felipe_EMBL
-  image: /wp-content/uploads/2024/10/Felipe_EMBL.jpg
+  image: /obf-hugo-test/wp-content/uploads/2024/10/Felipe_EMBL.jpg
 date: "2024-10-05T05:12:05+00:00"
 guid: https://www.open-bio.org/?p=8163
 tag:
@@ -13,7 +13,7 @@ title: With a little help from your friends! -Learning bioinformatics online.
 url: /2024/10/05/with-a-little-help-from-your-friends/
 
 ---
-_The_ [_Open Bioinformatics Foundation (OBF) Event Fellowship program_](/travel-awards) _aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community. Felipe de Jesús Castañeda Córdova,_ an MD/MS student from LIIGH-UNAM (Laboratorio Internacional para la Investigacion sobre el Genoma Humano) Mexico _was awarded an OBF Event Fellowship to attend_ _the_ [EMBL-EBI Cancer Genomics and Transcriptomics 2024](https://www.ebi.ac.uk/training/events/cancer-genomics-and-transcriptomics/).
+_The_ [_Open Bioinformatics Foundation (OBF) Event Fellowship program_](/obf-hugo-test/travel-awards) _aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community. Felipe de Jesús Castañeda Córdova,_ an MD/MS student from LIIGH-UNAM (Laboratorio Internacional para la Investigacion sobre el Genoma Humano) Mexico _was awarded an OBF Event Fellowship to attend_ _the_ [EMBL-EBI Cancer Genomics and Transcriptomics 2024](https://www.ebi.ac.uk/training/events/cancer-genomics-and-transcriptomics/).
 
 My name is Felipe de Jesús Castañeda Córdova. I am an MD/MS student from Mexico, primarily focusing on the wet lab aspect of lab work at the Cancer Genetics and Bioinformatics Lab. I had limited experience with bioinformatics (I performed some transcriptomic analyses for my master’s project, and I got the bug!), so I decided to apply to the online EMBL-EBI Cancer Genomics and Transcriptomics 2024 course. I was fortunate to be accepted into the program and receive an OBF Event Fellowship, which helped me cover the registration fee.
 
@@ -25,4 +25,4 @@ The knowledge I gained from this experience goes beyond technical skills. It has
 
 I am deeply grateful to the Open Bioinformatics Foundation for providing me with this fellowship and the opportunity to attend the EMBL-EBI Cancer Genomics and Transcriptomics 2024 course. The experience has been immensely rewarding, both professionally and personally. I encourage anyone interested in bioinformatics to consider participating in such events and to take advantage of the opportunities offered by organizations like the OBF.
 
-![Screenshot of the online participants in the EMBL-EBI Cancer Genomics and Transcriptomics 2024 course](/wp-content/uploads/2024/10/Felipe_EMBL.jpg)
+![Screenshot of the online participants in the EMBL-EBI Cancer Genomics and Transcriptomics 2024 course](/obf-hugo-test/wp-content/uploads/2024/10/Felipe_EMBL.jpg)

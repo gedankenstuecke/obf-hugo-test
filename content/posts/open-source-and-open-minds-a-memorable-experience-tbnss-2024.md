@@ -4,7 +4,7 @@ category:
   - travel-fellowship
 cover:
   alt: Keerthana
-  image: /wp-content/uploads/2024/10/Keerthana.jpg
+  image: /obf-hugo-test/wp-content/uploads/2024/10/Keerthana.jpg
 date: "2024-10-15T07:25:30+00:00"
 guid: https://www.open-bio.org/?p=8183
 tag:
@@ -13,7 +13,7 @@ title: 'Open source and open minds - a memorable experience: TBNSS 2024'
 url: /2024/10/15/open-source-and-open-minds-tbnss-2024/
 
 ---
-_The_ [_Open Bioinformatics Foundation (OBF) Event Fellowship program_](/travel-awards) _aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community. Keerthana Padmanabhan,_ a PhD researcher at the National Institute of Mental Health and Neuro Sciences (NIMHANS), Bengaluru, INDIA, _was awarded an OBF Event Fellowship to attend_ _the_ [Transatlantic Behavioral Neuroscience Summer School 2024 (TBNSS 2024)](https://nenckiopenlab.org/tbnss2024/).
+_The_ [_Open Bioinformatics Foundation (OBF) Event Fellowship program_](/obf-hugo-test/travel-awards) _aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community. Keerthana Padmanabhan,_ a PhD researcher at the National Institute of Mental Health and Neuro Sciences (NIMHANS), Bengaluru, INDIA, _was awarded an OBF Event Fellowship to attend_ _the_ [Transatlantic Behavioral Neuroscience Summer School 2024 (TBNSS 2024)](https://nenckiopenlab.org/tbnss2024/).
 
 In September 2024, I had the wonderful opportunity to attend the [Transatlantic Behavioral Neuroscience Summer School 2024 (TBNSS 2024)](https://nenckiopenlab.org/tbnss2024/) conducted in Mikolajki, Poland, from September 9th to 20th 2024 by the Nencki Open Lab, Nencki Institute of Experimental Biology PAS, Poland. First and foremost, this was made possible by the travel fellowship granted to me by the Open Bioinformatics Foundation, for which I am extremely grateful.
 

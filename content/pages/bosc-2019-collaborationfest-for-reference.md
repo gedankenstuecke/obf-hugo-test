@@ -6,13 +6,13 @@ title: BOSC 2019 CollaborationFest (for reference)
 url: /events/bosc-2019/bosc-2019-collaborationfest/
 
 ---
-![Attendees at the 2018 GCCBOSC CoFest](/wp/wp-content/uploads/2019/02/attendees_stairs.jpg)
+![Attendees at the 2018 GCCBOSC CoFest](/obf-hugo-test/wp/wp-content/uploads/2019/02/attendees_stairs.jpg)
 
 # CollaborationFest 2019
 
 In conjunction with our annual meeting BOSC, the OBF runs a collaborative event (formerly called CodeFest, short for coding festival, and now called CollaborationFest, or CoFest for short). At these events, participants work together to contribute to bioinformatics software, documentation, training materials, and use cases.
 
-CoFest 2019 took place the two days after BOSC, July 26-27, 2019, at [The Swiss Innovation Hub for Personalized Medicine](https://www.dayone.swiss/dayone.html) in Basel, Switzerland. [Registration](https://docs.google.com/spreadsheets/d/1KmUvbKo7AXwivjCLkFv3Dd-z4fhNrS2pXotMse9QGCg/edit#gid=0) is free; [sponsorships](/events/bosc/sponsors/) offset the cost of venue, coffee and snacks.
+CoFest 2019 took place the two days after BOSC, July 26-27, 2019, at [The Swiss Innovation Hub for Personalized Medicine](https://www.dayone.swiss/dayone.html) in Basel, Switzerland. [Registration](https://docs.google.com/spreadsheets/d/1KmUvbKo7AXwivjCLkFv3Dd-z4fhNrS2pXotMse9QGCg/edit#gid=0) is free; [sponsorships](/obf-hugo-test/events/bosc/sponsors/) offset the cost of venue, coffee and snacks.
 
 [Sign up](https://docs.google.com/spreadsheets/d/1KmUvbKo7AXwivjCLkFv3Dd-z4fhNrS2pXotMse9QGCg/edit#gid=0) now to attend in person or partipate remotely!
 
@@ -53,7 +53,7 @@ The CoFest will be covered by [ISMB’s Code of Conduct](https://www.iscb.org/i
 
 ## Logistics
 
-[![DayOne logo](/wp/wp-content/uploads/2019/05/dayone_logo.png)](https://www.dayone.swiss/dayone.html)
+[![DayOne logo](/obf-hugo-test/wp/wp-content/uploads/2019/05/dayone_logo.png)](https://www.dayone.swiss/dayone.html)
 
 The host venue for CoFest will be:
 
@@ -67,11 +67,11 @@ More details like building access arrangements will be forthcoming.
 
 ## History
 
-This will be the 10th annual pre- or post-BOSC collaboration fest. Previous fun and successful events were [Codefest 2010](/wiki/Codefest_2010) in Boston, [Codefest 2011](/wiki/Codefest_2011) in Vienna, [Codefest 2012](/wiki/Codefest_2012) in Los Angeles, [Codefest 2013](/wiki/Codefest_2013) in Berlin, [Codefest 2014](/wiki/Codefest_2014) in Boston, [Codefest 2015](/wiki/Codefest_2015) in Dublin, [Codefest 2016](/wiki/Codefest_2016) in Orlando, [Codefest 2017](/wiki/Codefest_2017) in Prague, and [GCCBOSC Collaboration Fest 2018](https://galaxyproject.org/events/gccbosc2018/collaboration/) in Portland.
+This will be the 10th annual pre- or post-BOSC collaboration fest. Previous fun and successful events were [Codefest 2010](/obf-hugo-test/wiki/Codefest_2010) in Boston, [Codefest 2011](/obf-hugo-test/wiki/Codefest_2011) in Vienna, [Codefest 2012](/obf-hugo-test/wiki/Codefest_2012) in Los Angeles, [Codefest 2013](/obf-hugo-test/wiki/Codefest_2013) in Berlin, [Codefest 2014](/obf-hugo-test/wiki/Codefest_2014) in Boston, [Codefest 2015](/obf-hugo-test/wiki/Codefest_2015) in Dublin, [Codefest 2016](/obf-hugo-test/wiki/Codefest_2016) in Orlando, [Codefest 2017](/obf-hugo-test/wiki/Codefest_2017) in Prague, and [GCCBOSC Collaboration Fest 2018](https://galaxyproject.org/events/gccbosc2018/collaboration/) in Portland.
 
 ## Sponsors
 
-We welcome [sponsors](/events/bosc/sponsors/) who want to be involved with the open source community. Sponsorship money will cover venue costs, help provide food and drink for the CoFest, and any surplus can help other activities like our [Open Bioinformatics Foundation Travel Fellowships](https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md). If interested, please get in touch with any of the CoFest organizers or the [BOSC committee](mailto:bosc@open-bio.org) (general).
+We welcome [sponsors](/obf-hugo-test/events/bosc/sponsors/) who want to be involved with the open source community. Sponsorship money will cover venue costs, help provide food and drink for the CoFest, and any surplus can help other activities like our [Open Bioinformatics Foundation Travel Fellowships](https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md). If interested, please get in touch with any of the CoFest organizers or the [BOSC committee](mailto:bosc@open-bio.org) (general).
 
 ## Organizers
 

@@ -20,7 +20,7 @@ Dial-In for participating remotely: _expired_
 
 **Old business:**
 
-1. Approve [minutes from March 2018 Public Board Meeting](/2018/03/16/minutes2018-mar-confcall/)
+1. Approve [minutes from March 2018 Public Board Meeting](/obf-hugo-test/2018/03/16/minutes2018-mar-confcall/)
 
 **New business:**
 

@@ -21,7 +21,7 @@ url: /2016/10/05/obf-public-board-meeting/
 ---
 The OBF has at least one public board meeting per year, in part to vote on important business issues, and in part to publicly discuss items relevant to the OBF community.  The latest public OBF Board of Director's meeting took place October 4, 2016. It was attended by Board members Hilmar Lapp, Peter Cock, Nomi Harris, Chris Fields, and Karen Cranston, as well as guests Heather Wiencko (Board candidate), Michael Crusoe, Spencer Bliven, and Robert Gilmore.
 
-The [agenda, and tentative minutes](/wiki/Minutes:2016_Oct_ConfCall) (taken by then-secretary Peter Cock) are available from the OBF wiki.  The following is a summary:
+The [agenda, and tentative minutes](/obf-hugo-test/wiki/Minutes:2016_Oct_ConfCall) (taken by then-secretary Peter Cock) are available from the OBF wiki.  The following is a summary:
 
 ## Old Business
 

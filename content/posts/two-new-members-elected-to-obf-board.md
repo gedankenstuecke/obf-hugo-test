@@ -6,7 +6,7 @@ category:
   - uncategorized
 cover:
   alt: obf-board-meeting-Sep2021-composite
-  image: /wp-content/uploads/2021/10/obf-board-meeting-Sep2021-composite.png
+  image: /obf-hugo-test/wp-content/uploads/2021/10/obf-board-meeting-Sep2021-composite.png
 date: "2021-10-06T10:20:00+00:00"
 guid: https://www.open-bio.org/?p=5883
 title: Two new members elected to OBF Board
@@ -19,13 +19,13 @@ The OBF held a public Board meeting on September 21, 2021, via Zoom. During the 
 
 [Caleb Kipkurui Kibet](https://twitter.com/Calkibet) is a bioinformatics researcher at ICIPE, the International Centre of Insect Physiology and Ecology in Kenya, as well as an adjunct lecturer at Pwani University. He is the founder and project lead of [OpenScienceKE](https://github.com/BioinfoNet), which seeks to promote open science practices in bioinformatics. In 2019-2020, Caleb was a Mozilla Open Science Fellow; his work involved developing FAIR Genomics Data Management policy, frameworks, and infrastructure; building a community of Open Science enthusiasts; and promoting the adoption of machine learning tools in biomedical research.
 
-![](/wp-content/uploads/2021/10/obf-board-meeting-Sep2021-composite.png)
+![](/obf-hugo-test/wp-content/uploads/2021/10/obf-board-meeting-Sep2021-composite.png)
 
 Above: Board candidates Caleb Kibet (bottom left) and Hilyatuz Zahroh (bottom right) with current Board members during the public OBF Board meeting on 21-Sept-2021.
 
 Two proposals were announced as pending submission to the OBF membership for a vote of approval:
 
-1. The OBF is proposing a Community Support Sponsorship grant programme (see [/2021/05/11/obf-community-support-sponsorship/](/2021/05/11/obf-community-support-sponsorship/)), which would give funds to grassroots communities in return for our logo appearing on their event webpages and materials, acknowledging our support. We seek community input; please add your comments to [https://github.com/OBF/obf-docs/issues/86](https://github.com/OBF/obf-docs/issues/86).
+1. The OBF is proposing a Community Support Sponsorship grant programme (see [/2021/05/11/obf-community-support-sponsorship/](/obf-hugo-test/2021/05/11/obf-community-support-sponsorship/)), which would give funds to grassroots communities in return for our logo appearing on their event webpages and materials, acknowledging our support. We seek community input; please add your comments to [https://github.com/OBF/obf-docs/issues/86](https://github.com/OBF/obf-docs/issues/86).
 
 1. The OBF would like to adopt a code of conduct (COC) for its activities including meetings and member projects. See pull request [https://github.com/OBF/obf-docs/pull/78](https://github.com/OBF/obf-docs/pull/78) for the proposal, and please share your thoughts.
 

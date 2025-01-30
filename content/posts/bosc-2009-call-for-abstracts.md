@@ -23,7 +23,7 @@ Call for Abstracts for the 2009 Bioinformatics Open Source Conference (BOSC) 200
 An ISMB 2009 Special Interest Group (SIG)
 Date: June 27-28, 2009
 Location: Stockholm, Sweden
-URL: [/wiki/BOSC\_2009](/wiki/BOSC_2009)
+URL: [/wiki/BOSC\_2009](/obf-hugo-test/wiki/BOSC_2009)
 Abstract submission via EasyChair:
 [https://www.easychair.org/login.cgi?conf=bosc2009](https://www.easychair.org/login.cgi?conf=bosc2009)
 

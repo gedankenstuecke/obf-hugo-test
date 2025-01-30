@@ -7,7 +7,7 @@ category:
   - travel-fellowship
 cover:
   alt: Ruth-Nanjala-cropped-OBF-event-fellowship-winner
-  image: /wp-content/uploads/2023/03/Ruth-Nanjala-cropped-OBF-event-fellowship-winner.jpg
+  image: /obf-hugo-test/wp-content/uploads/2023/03/Ruth-Nanjala-cropped-OBF-event-fellowship-winner.jpg
 date: "2023-03-21T16:32:05+00:00"
 guid: https://www.open-bio.org/?p=6932
 tag:
@@ -20,7 +20,7 @@ url: /2023/03/21/ruth-nanjala-experience-at-the-ichg-2023-conference/
 ---
 ![](https://lh6.googleusercontent.com/81b1Vw9GP-Bimj8BknvbmoKN1ABWtA9jiidU__Lk5Znu9M4SCq1HYm24l5duwWa2B9QF1unBf5FrqViiy1uY9nGHDZwPof5bWPw3mSh0TITA0bU1JIz-mgQ7HNII7egFPLj0OJGmRE83)
 
-**_The_** [**_Open Bioinformatics Foundation (OBF) Event Fellowship program_**](/travel-awards) **_aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community. Ruth Nanjala, a DPhil student in Cellular and Molecular Medicine at the University of Oxford, was awarded an OBF Event Fellowship to attend the_** [**_International Congress of Human Genetics (ICHG) 2023_**](https://www.ichg2023.com) **_conference._**
+**_The_** [**_Open Bioinformatics Foundation (OBF) Event Fellowship program_**](/obf-hugo-test/travel-awards) **_aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community. Ruth Nanjala, a DPhil student in Cellular and Molecular Medicine at the University of Oxford, was awarded an OBF Event Fellowship to attend the_** [**_International Congress of Human Genetics (ICHG) 2023_**](https://www.ichg2023.com) **_conference._**
 
 
 Earlier in 2022, I received the Open Bioinformatics Foundation (OBF) Event Fellowship for participating and promoting open science at the American Society of Human Genetics (ASHG) 2022 conference in Los Angeles. However, I could not travel to ASHG due to unavoidable circumstances. Fortunately, OBF gave me a second chance by facilitating my travel to the International Congress of Human Genetics (ICHG) 2023 conference hosted at home (Africa is considered the cradle of humankind) between the 22nd and 26th of February.   

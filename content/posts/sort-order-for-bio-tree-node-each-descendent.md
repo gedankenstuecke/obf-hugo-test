@@ -36,7 +36,7 @@ $out->write_tree($tree);
 
 ```
 
-This code is in [CVS](/wiki/index.php/CVS) now.
+This code is in [CVS](/obf-hugo-test/wiki/index.php/CVS) now.
 
 Also, I fixed the code reference option so that arbitrary functions can be passed in. Here is an example which prints out the nodes from a nexus formated tree file.
 

@@ -5,7 +5,7 @@ category:
   - community
 cover:
   alt: Hilmar, Peter, and Yo
-  image: /wp-content/uploads/2018/07/OBF-BoF-2018-22-e1531151626641.jpg
+  image: /obf-hugo-test/wp-content/uploads/2018/07/OBF-BoF-2018-22-e1531151626641.jpg
 date: "2018-07-09T15:49:30+00:00"
 guid: https://news.open-bio.org/?p=1985
 tag:
@@ -48,7 +48,7 @@ After reading all this, if you’re interested in helping out with any of the id
 - Leaving a comment on this post!
 - Tweet to [@obf\_news](https://twitter.com/obf_news)
 
-Also - please don’t forget to [**join the OBF**](/wiki/Membership) if you haven’t already. Any BOSC attendee automatically qualifies for membership, and even if you haven’t attended BOSC before, if you’re reading this post there’s a good chance you’ll fulfil the requirements anyway. [Details are in the form!](/wiki/Membership)  
+Also - please don’t forget to [**join the OBF**](/obf-hugo-test/wiki/Membership) if you haven’t already. Any BOSC attendee automatically qualifies for membership, and even if you haven’t attended BOSC before, if you’re reading this post there’s a good chance you’ll fulfil the requirements anyway. [Details are in the form!](/obf-hugo-test/wiki/Membership)  
 {{< gallery cols="1" >}}  
 {{< figure src="/wp-content/uploads/2018/07/OBF-BoF-2018-25.jpg" title="OBF-BoF-2018 - 25" alt="OBF-BoF-2018 - 25" >}}
 

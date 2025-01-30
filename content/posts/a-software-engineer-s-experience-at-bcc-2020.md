@@ -13,7 +13,7 @@ title: A Software Engineer's Experience at BCC 2020
 url: /2020/08/16/bcc2020-edidiong-etuk/
 
 ---
-_The [Open Bioinformatics Foundation (OBF)](https://www.open-bio.org) Event Fellowship program aims to promote diverse participation at events promoting open source bioinformatics software development and open science practices in the biological research community. Edidiong Etuk (Eddie), an open-source lover and a software engineer from Nigeria, was supported to take part in [Bioinformatics Open Source Conference](/events/bosc/about/) 2020 by this fellowship granted to him in the application round-1 of 2020. Find more information [here.](/travel-awards/)_
+_The [Open Bioinformatics Foundation (OBF)](https://www.open-bio.org) Event Fellowship program aims to promote diverse participation at events promoting open source bioinformatics software development and open science practices in the biological research community. Edidiong Etuk (Eddie), an open-source lover and a software engineer from Nigeria, was supported to take part in [Bioinformatics Open Source Conference](/obf-hugo-test/events/bosc/about/) 2020 by this fellowship granted to him in the application round-1 of 2020. Find more information [here.](/obf-hugo-test/travel-awards/)_
 
 **TL;DR** This post is about my experience at Bioinformatics Community Conference 2020.
 

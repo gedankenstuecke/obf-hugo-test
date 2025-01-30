@@ -6,7 +6,7 @@ title: BOSC 2020 CollaborationFest
 url: /events/bosc-2020/bosc-2020-collaborationfest/
 
 ---
-![Attendees at the 2018 GCCBOSC CoFest](/wp/wp-content/uploads/2019/02/attendees_stairs.jpg)
+![Attendees at the 2018 GCCBOSC CoFest](/obf-hugo-test/wp/wp-content/uploads/2019/02/attendees_stairs.jpg)
 
 # CollaborationFest 2020
 
@@ -16,4 +16,4 @@ For more information please see the [BCC2020 CollaborationFest page](https://bcc
 
 ## History
 
-BCC2020 CollaborationFest was be the 11th annual pre- or post-BOSC collaboration fest. Previous fun and successful events were [Codefest 2010](/wiki/Codefest_2010) in Boston, [Codefest 2011](/wiki/Codefest_2011) in Vienna, [Codefest 2012](/wiki/Codefest_2012) in Los Angeles, [Codefest 2013](/wiki/Codefest_2013) in Berlin, [Codefest 2014](/wiki/Codefest_2014) in Boston, [Codefest 2015](/wiki/Codefest_2015) in Dublin, [Codefest 2016](/wiki/Codefest_2016) in Orlando, [Codefest 2017](/wiki/Codefest_2017) in Prague, [GCCBOSC Collaboration Fest 2018](https://galaxyproject.org/events/gccbosc2018/collaboration/) in Portland, and [Collaboration Fest 2019](/events/bosc/bosc-2019-collaborationfest) in Basel.
+BCC2020 CollaborationFest was be the 11th annual pre- or post-BOSC collaboration fest. Previous fun and successful events were [Codefest 2010](/obf-hugo-test/wiki/Codefest_2010) in Boston, [Codefest 2011](/obf-hugo-test/wiki/Codefest_2011) in Vienna, [Codefest 2012](/obf-hugo-test/wiki/Codefest_2012) in Los Angeles, [Codefest 2013](/obf-hugo-test/wiki/Codefest_2013) in Berlin, [Codefest 2014](/obf-hugo-test/wiki/Codefest_2014) in Boston, [Codefest 2015](/obf-hugo-test/wiki/Codefest_2015) in Dublin, [Codefest 2016](/obf-hugo-test/wiki/Codefest_2016) in Orlando, [Codefest 2017](/obf-hugo-test/wiki/Codefest_2017) in Prague, [GCCBOSC Collaboration Fest 2018](https://galaxyproject.org/events/gccbosc2018/collaboration/) in Portland, and [Collaboration Fest 2019](/obf-hugo-test/events/bosc/bosc-2019-collaborationfest) in Basel.

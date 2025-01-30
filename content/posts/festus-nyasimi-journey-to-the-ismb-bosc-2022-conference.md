@@ -6,14 +6,14 @@ category:
   - travel-fellowship
 cover:
   alt: Festus-poster
-  image: /wp-content/uploads/2022/08/image6.jpg
+  image: /obf-hugo-test/wp-content/uploads/2022/08/image6.jpg
 date: "2022-08-01T15:45:40+00:00"
 guid: https://www.open-bio.org/?p=6567
 title: 'Festus Nyasimi: Journey to the ISMB/BOSC 2022 conference'
 url: /2022/08/01/obf-event-fellow2022-fnyasimi/
 
 ---
-_The [Open Bioinformatics Foundation (OBF) Event Fellowship program](/travel-awards) aims to promote diverse participation at events promoting open source bioinformatics software development and open science practices in the biological research community. Festus Nyasimi, A co-founder and lead of the [Bioinformatics Hub of Kenya Initiative (BHKi)](https://www.bhki.org), attended the [ISMB/BOSC conference 2022](/events/bosc-2022/), supported by this fellowship granted to him in the first round of 2022._
+_The [Open Bioinformatics Foundation (OBF) Event Fellowship program](/obf-hugo-test/travel-awards) aims to promote diverse participation at events promoting open source bioinformatics software development and open science practices in the biological research community. Festus Nyasimi, A co-founder and lead of the [Bioinformatics Hub of Kenya Initiative (BHKi)](https://www.bhki.org), attended the [ISMB/BOSC conference 2022](/obf-hugo-test/events/bosc-2022/), supported by this fellowship granted to him in the first round of 2022._
 
 In mid-May, I attended a different conference where I shared my experience with community building in the bioinformatics space with one of the attendees. I had a chance to brief them about the BHKI community we are building and growing in Africa. Immediately they suggested I should check out the ISMB/BOSC conference happening on July 11th - 14th, 2022.
 

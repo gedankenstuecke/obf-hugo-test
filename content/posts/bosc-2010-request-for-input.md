@@ -14,9 +14,9 @@ title: BOSC 2010 Request for Input
 url: /2009/12/18/bosc-2010-request-for-input/
 
 ---
-BOSC 2010 is currently in the planning stages. It will be held for 2 days in conjunction with the 18th Annual International Conference on Intelligent Systems for Molecular Biology (ISMB 2010) in Boston, Massachusetts, USA. The dates of BOSC 2010 are July 9-10; the main ISMB Conference runs July 11-13, 2010.  The BOSC 2010 web site can be accessed here:  [/wiki/BOSC\_2010](/wiki/BOSC_2010).
+BOSC 2010 is currently in the planning stages. It will be held for 2 days in conjunction with the 18th Annual International Conference on Intelligent Systems for Molecular Biology (ISMB 2010) in Boston, Massachusetts, USA. The dates of BOSC 2010 are July 9-10; the main ISMB Conference runs July 11-13, 2010.  The BOSC 2010 web site can be accessed here:  [/wiki/BOSC\_2010](/obf-hugo-test/wiki/BOSC_2010).
 
-The BOSC organizing committee is soliciting input on the planning of BOSC 2010 so that we can make it a successful and productive conference for the O\|B\|F community.  You may send your suggestions to the [bosc@open-bio.org](mailto:bosc@open-bio.org "mailto:bosc@open-bio.org") e-mail address  or add suggestions to the BOSC 2010 talk/discussion wiki page at: [/wiki/Talk:BOSC\_2010.](/wiki/Talk:BOSC_2010.%A0) Please respond to any or all of the questions below:
+The BOSC organizing committee is soliciting input on the planning of BOSC 2010 so that we can make it a successful and productive conference for the O\|B\|F community.  You may send your suggestions to the [bosc@open-bio.org](mailto:bosc@open-bio.org "mailto:bosc@open-bio.org") e-mail address  or add suggestions to the BOSC 2010 talk/discussion wiki page at: [/wiki/Talk:BOSC\_2010.](/obf-hugo-test/wiki/Talk:BOSC_2010.%A0) Please respond to any or all of the questions below:
 
 1.  For the last several years BOSC has consisted mainly of one or two keynote presentations, other talks chosen from among the submitted abstracts organized into sessions by topic, updates from the Bio\* projects, Lightning Talks, and informal Birds of a Feather sessions.  Would you rather see BOSC continue in this fashion, or would you support changing the format to one or all of the following:
 

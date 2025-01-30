@@ -5,7 +5,7 @@ category:
   - travel-fellowship
 cover:
   alt: Created with GIMP
-  image: /wp-content/uploads/2020/03/e2.jpg
+  image: /obf-hugo-test/wp-content/uploads/2020/03/e2.jpg
 date: "2020-04-14T16:15:55+00:00"
 guid: https://www.open-bio.org/?p=4626
 tag:
@@ -15,7 +15,7 @@ title: Galaxy Admin 2020 and beyond (guest post by OBF Travel Award recipient Mi
 url: /2020/04/14/galaxy-admin-2020/
 
 ---
-_The [Open Bioinformatics Foundation (OBF)](https://www.open-bio.org) sponsors a Travel Fellowship program aimed at increasing diverse participation at events promoting Open Source bioinformatics software development and open science in the biological research community. Michael Thompson's participation at the_ [Galaxy Admin Training 2020](https://galaxyproject.org/events/2020-03-admin/) _workshop in Barcelona was supported by this fellowship. Find more information [here.](/travel-awards/)_
+_The [Open Bioinformatics Foundation (OBF)](https://www.open-bio.org) sponsors a Travel Fellowship program aimed at increasing diverse participation at events promoting Open Source bioinformatics software development and open science in the biological research community. Michael Thompson's participation at the_ [Galaxy Admin Training 2020](https://galaxyproject.org/events/2020-03-admin/) _workshop in Barcelona was supported by this fellowship. Find more information [here.](/obf-hugo-test/travel-awards/)_
 
 I had the opportunity to visit the [Barcelona Supercomputing Center (B.S.C)](https://www.bsc.es/) in Spain from 2nd \- 6th March 2020 to participate in the [Galaxy Admin Training 2020](https://galaxyproject.org/events/2020-03-admin/), organized by [Galaxy Europe](https://galaxyproject.eu/) and in partnership with [B.S.C](https://www.bsc.es/), [Elixir](https://elixir-europe.org/), and [de.NBI](https://www.denbi.de/).
 
@@ -31,15 +31,15 @@ The training materials are available [here](https://github.com/galaxyproject/adm
 
 On the first day, after registration, we dived straight into the setup/installation using Ansible. It was followed by a talk on the advanced setup of the system and configuration of tool-sheds. Later that day, we had a tour of the Barcelona Supercomputing Center to see [_MareNostrum_](https://www.bsc.es/marenostrum/marenostrum) – a supercomputer with a peak performance of 11.15 Petaflops.
 
-![](/wp/wp-content/uploads/2020/03/20200302_GalaxyAdminTraining_MN4_2-1024x576.jpeg)Participants receiving a lecture on the architecture of MareNostrum.
+![](/obf-hugo-test/wp/wp-content/uploads/2020/03/20200302_GalaxyAdminTraining_MN4_2-1024x576.jpeg)Participants receiving a lecture on the architecture of MareNostrum.
 
-![](/wp/wp-content/uploads/2020/03/20200302_GalaxyAdminTraining_MN4_3-1024x576.jpeg)A guided tour of MareNostrum.
+![](/obf-hugo-test/wp/wp-content/uploads/2020/03/20200302_GalaxyAdminTraining_MN4_3-1024x576.jpeg)A guided tour of MareNostrum.
 
 The second day of the training hosted talks on deploying scientific tools using _Ephemeris_, configuring and using authentication methods, access to reference data for scientific analysis, configuring job scheduling, and connecting Galaxy to your existing HPC cluster.
 
 On day three, we continued with more about job scheduling and connecting to compute clusters, connecting to remote clusters using Pulsar, storage management, making queries with _Gxadmin,_ and monitoring with _Telegraf_, _InfluxDB_ and _Grafana_.
 
-![](/wp/wp-content/uploads/2020/03/20200302_GalaxyAdminTraining_room-1024x576.jpeg)The training session.
+![](/obf-hugo-test/wp/wp-content/uploads/2020/03/20200302_GalaxyAdminTraining_room-1024x576.jpeg)The training session.
 
 The fifth day was about using interactive tools, development (deploying your own tools), build automation and advanced customization of the software (user interface). There was a session on Training As A Service (TiaaS) – a feature that allows you to create small groups of dedicated resources within Galaxy for running training sessions in a manner that isolates itself from the production work on the same platform.
 
@@ -59,7 +59,7 @@ Although a large number of the tools available on Galaxy are for use within the 
 
 The next few months will involve planning and organizing to deploy Galaxy for use locally. I am confident we would have some success stories and, hopefully, interesting use cases of the platform to share in another blog post later.
 
-![](/wp/wp-content/uploads/2020/03/e2-1024x611.jpg)Workshop participants at BSC.
+![](/obf-hugo-test/wp/wp-content/uploads/2020/03/e2-1024x611.jpg)Workshop participants at BSC.
 
 ### **Thanks to OBF!**
 
@@ -67,6 +67,6 @@ The opportunity to participate in the Galaxy Admin 2020 Training in Barcelona wo
 
 **Me**
 
-![](/wp/wp-content/uploads/2020/03/Me.jpg)
+![](/obf-hugo-test/wp/wp-content/uploads/2020/03/Me.jpg)
 
 I am an IT Manager at the University Information Technology Services (U.I.T.S) of the Kwame Nkrumah University of Science and Technology (K.N.U.S.T). I am also a member of the H3ABioNet project.

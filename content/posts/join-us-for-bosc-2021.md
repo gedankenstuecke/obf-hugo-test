@@ -5,14 +5,14 @@ category:
   - community
 cover:
   alt: Colour Horizontal Full Name
-  image: /wp-content/uploads/2021/03/Colour-Horizontal-Full-Name.png
+  image: /obf-hugo-test/wp-content/uploads/2021/03/Colour-Horizontal-Full-Name.png
 date: "2021-07-28T14:28:50+00:00"
 guid: https://www.open-bio.org/?p=5747
 title: Join us for BOSC 2021!
 url: /2021/07/28/join-us-for-bosc-2021/
 
 ---
-[BOSC 2021,](/events/bosc-2021/) which is a track (COSI) of [ISMB/ECCB 2021](https://www.iscb.org/ismbeccb2021), will take place online the 29th and 30th of July. The complete schedule is [here](/events/bosc-2021/bosc-2021-schedule/).
+[BOSC 2021,](/obf-hugo-test/events/bosc-2021/) which is a track (COSI) of [ISMB/ECCB 2021](https://www.iscb.org/ismbeccb2021), will take place online the 29th and 30th of July. The complete schedule is [here](/obf-hugo-test/events/bosc-2021/bosc-2021-schedule/).
 
 The event is being held in the Showcare platform -- check out our [tips](https://docs.google.com/document/d/1CvVeTqwWykoaITDg0u5hikit9qNUimjxbjA_220lXas/edit) for making the most of your online conference experience.
 

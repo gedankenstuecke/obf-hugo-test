@@ -2,7 +2,7 @@
 author: kushinauwu
 cover:
   alt: bosc-2021-org-committee
-  image: /wp-content/uploads/2021/01/bosc-2021-org-committee-1.jpg
+  image: /obf-hugo-test/wp-content/uploads/2021/01/bosc-2021-org-committee-1.jpg
 date: "2019-02-08T16:48:37+00:00"
 guid: https://www.open-bio.org/wp/?page_id=2710
 title: Submit
@@ -13,16 +13,16 @@ url: /events/bosc-2021/submit-2021/
 
 BOSC 2021 was part of [ISMB/ECCB 2021 Online](https://www.iscb.org/ismbeccb2021), and took place July 29-30, 2021.
 
-Go to the [submission page for BOSC 2022](/events/bosc-2022/submit/)
+Go to the [submission page for BOSC 2022](/obf-hugo-test/events/bosc-2022/submit/)
 
 ### Important Dates (2021)
 
 May 6, 2021: Talk abstract submission deadline
 June 3, 2021: Late poster submission deadline
 July 29-30, 2021: **BOSC 2021**, part of [ISMB/ECCB 2021](https://www.iscb.org/ismbeccb2021)
-[CoFest](/events/bosc-2021/collaborationfest/): July 31-Aug 1, 2021 (online)
+[CoFest](/obf-hugo-test/events/bosc-2021/collaborationfest/): July 31-Aug 1, 2021 (online)
 
-![BOSC Chair Nomi Harris speaking at BOSC 2017](/wp/wp-content/uploads/2019/03/nomi-at-podium-open-data-slide-gigascience.jpg-1.jpg)
+![BOSC Chair Nomi Harris speaking at BOSC 2017](/obf-hugo-test/wp/wp-content/uploads/2019/03/nomi-at-podium-open-data-slide-gigascience.jpg-1.jpg)
 
 # Submission guidelines
 
@@ -75,14 +75,14 @@ In addition to the requirements listed at left, we consider the following when s
 - If you want to be considered for a talk, you also MUST submit a 1-2 page "long abstract" as a PDF. (Yes, we did suggest to ISMB that calling both of these things "abstracts" was confusing.)
 - If you submit for a talk but your abstract is not chosen for a talk, it will automatically be considered for a poster.
 - If your work is accepted for a talk, you can decide later whether you also want to present it as a poster.
-- Abstract template (optional): [bosc2020-abstract-template](/wp/wp-content/uploads/2020/04/bosc2020-abstract-template.docx) (MS Word)
+- Abstract template (optional): [bosc2020-abstract-template](/obf-hugo-test/wp/wp-content/uploads/2020/04/bosc2020-abstract-template.docx) (MS Word)
 - Submission is free, but to present your talk you need to register for ISMB/ECCB 2021 (see [www.iscb.org/ismbeccb2021-registration](https://www.iscb.org/ismbeccb2021-registration#registrationfee) for registration fees and note about fellowships below).
 
 If you missed the abstract parties on April 15 and April 22, 2021, you can watch a video of [BOSC organizer Jason Williams discussing how to write a great BOSC abstract](https://youtu.be/DwJRrh1Tpew).
 
 # BOSC Open Content Requirement
 
-The [Open Bioinformatics Foundation](/wiki/OBF), which coordinates BOSC, is dedicated to promoting the practice and philosophy of Open Source Software Development and Open Science within the biological research community.
+The [Open Bioinformatics Foundation](/obf-hugo-test/wiki/OBF), which coordinates BOSC, is dedicated to promoting the practice and philosophy of Open Source Software Development and Open Science within the biological research community.
 
 For this reason, if a submitted abstract concerns a specific software system for use by the research community, then that software must include a recognized Open Source License or Public Domain dedication, and be available for download, including source code. We recommend Open Source Initiative (OSI) Approved Licenses where appropriate.
 Similarly, abstracts with a focus on data, analysis methods, and/or documentation must make these available in a manner consistent with Open Science standards, utilizing appropriate licensing and approaches that promote open sharing, reuse, and redistribution.

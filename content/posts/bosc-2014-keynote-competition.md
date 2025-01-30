@@ -21,7 +21,7 @@ title: BOSC 2014 Keynote Competition
 url: /2013/12/13/bosc-2014-keynote-competition/
 
 ---
-We're pleased to officially confirm that one of the two keynote speakers for the 15th annual Bioinformatics Open Source Conference ( [BOSC 2014](/wiki/BOSC_2014)) will be C. Titus Brown, as he announced on Twitter recently:
+We're pleased to officially confirm that one of the two keynote speakers for the 15th annual Bioinformatics Open Source Conference ( [BOSC 2014](/obf-hugo-test/wiki/BOSC_2014)) will be C. Titus Brown, as he announced on Twitter recently:
 
 > [Titus Brown (@ctitusbrown):](https://twitter.com/ctitusbrown/)  
 [![C. Titus Brown](https://pbs.twimg.com/profile_images/2341608206/1v12iz3xg0w80911u76a_normal.png)](https://twitter.com/ctitusbrown/) Excited to be a keynote speaker at BOSC 2014! My title: "A History of Bioinformatics (in the year 2039)" - plenty of room for mischief ;)  
@@ -40,7 +40,7 @@ We intend to announce the mystery keynote speaker and any Twitter competition wi
 Our ulterior motive is to crowd source ideas for future keynote speakers in BOSC 2015, so some serious suggestions please ;)
 
 Further details about BOSC 2014 will be posted here:
-[/wiki/BOSC\_2014](/wiki/BOSC_2014)
+[/wiki/BOSC\_2014](/obf-hugo-test/wiki/BOSC_2014)
 
 Thank you,
 

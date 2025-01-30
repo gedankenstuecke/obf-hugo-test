@@ -21,7 +21,7 @@ title: O|B|F Google Summer of Code Accepted Students
 url: /2010/05/02/obf-google-summer-of-code-accepted-students/
 
 ---
-I'm pleased to announce the acceptance of [OBF's 2010 Google Summer of Code](/wiki/Google_Summer_of_Code) students, listed in alphabetical order with their project titles and primary mentors:
+I'm pleased to announce the acceptance of [OBF's 2010 Google Summer of Code](/obf-hugo-test/wiki/Google_Summer_of_Code) students, listed in alphabetical order with their project titles and primary mentors:
 
 Mark Chapman (PM Andreas Prlic) - Improvements to BioJava including Implementation of Multiple Sequence Alignment Algorithms
 

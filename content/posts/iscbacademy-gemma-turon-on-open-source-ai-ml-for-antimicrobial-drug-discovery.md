@@ -4,7 +4,7 @@ category:
   - bosc/ismb
 cover:
   alt: Gemma-Turon - 1
-  image: /wp-content/uploads/2024/02/Gemma-Turon-1.png
+  image: /obf-hugo-test/wp-content/uploads/2024/02/Gemma-Turon-1.png
 date: "2024-02-08T17:32:56+00:00"
 guid: https://www.open-bio.org/?p=7650
 tag:
@@ -21,7 +21,7 @@ url: /2024/02/08/iscbacademy-gemma-turon/
 
 BOSC and the OBF will host an [ISCBacademy webinar](https://www.iscb.org/iscbacademy) on **March 5, 2024, at 8am PST (16:00 UTC).** Gemma Turon (see bio below) will speak about "Ersilia, open source AI/ML for (antimicrobial) drug discovery".
 
-![](/wp-content/uploads/2024/02/Gemma-Turon-1.png)
+![](/obf-hugo-test/wp-content/uploads/2024/02/Gemma-Turon-1.png)
 
 #### Abstract
 

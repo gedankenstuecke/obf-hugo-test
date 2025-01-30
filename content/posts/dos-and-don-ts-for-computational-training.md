@@ -6,7 +6,7 @@ category:
   - travel-fellowship
 cover:
   alt: Sara-Elgebali-we-won
-  image: /wp-content/uploads/2019/08/Sara-Elgebali-we-won.jpg
+  image: /obf-hugo-test/wp-content/uploads/2019/08/Sara-Elgebali-we-won.jpg
 date: "2019-08-27T09:49:06+00:00"
 guid: https://www.open-bio.org/?p=3908
 tag:
@@ -15,7 +15,7 @@ title: Dos and Don’ts for computational training
 url: /2019/08/27/dos-and-donts-for-computational-training/
 
 ---
-###### Thanks to OBF support with a [travel grant](/travel-awards/), I was able to attend the first European CarpentryConnect event in Manchester CCMcr19 organized by The Software Sustainability Institute.
+###### Thanks to OBF support with a [travel grant](/obf-hugo-test/travel-awards/), I was able to attend the first European CarpentryConnect event in Manchester CCMcr19 organized by The Software Sustainability Institute.
 
 ![](https://i.imgur.com/rKTSHED.png)Colourful Manchester days post Pride weekend
 
@@ -50,7 +50,7 @@ To encourage attendees to contribute to reducing impact on the environment at th
 
 > Guess who won?
 
-![](/wp/wp-content/uploads/2019/08/Sara-Elgebali-we-won-1024x768.jpg)We won!
+![](/obf-hugo-test/wp/wp-content/uploads/2019/08/Sara-Elgebali-we-won-1024x768.jpg)We won!
 
 After learning about the Carpentries and their inspiring work on day 1. I carried out my workshop titled Dos and Don’ts for computational training on day 2. I was joined by 10 participants, all of whom have experience in delivering training.
 

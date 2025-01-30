@@ -5,7 +5,7 @@ category:
   - obf
 cover:
   alt: OBF-Board-July-2019 - 1
-  image: /wp-content/uploads/2019/08/OBF-Board-July-2019-1.jpg
+  image: /obf-hugo-test/wp-content/uploads/2019/08/OBF-Board-July-2019-1.jpg
 date: "2020-01-14T16:47:52+00:00"
 guid: https://www.open-bio.org/?p=4437
 tag:
@@ -15,7 +15,7 @@ title: OBF Board elections, December 2019
 url: /2020/01/14/obf-board-elections-december-2019/
 
 ---
-During the [public OBF Board Meeting held on December 17, 2019](https://github.com/OBF/obf-docs/pull/71), elections were held for five [Board members](/board/) whose terms were about to expire. All five stood for re-election to the Board, though with some changes of officers:
+During the [public OBF Board Meeting held on December 17, 2019](https://github.com/OBF/obf-docs/pull/71), elections were held for five [Board members](/obf-hugo-test/board/) whose terms were about to expire. All five stood for re-election to the Board, though with some changes of officers:
 
 - Hilmar Lapp: stepped down after 8 years as President of the Board; elected to At-Large seat.
 - Peter Cock: elected as President of the Board.

@@ -6,7 +6,7 @@ category:
   - obf
 cover:
   alt: pexels-photo-3782228
-  image: /wp-content/uploads/2021/02/pexels-photo-3782228-2.jpeg
+  image: /obf-hugo-test/wp-content/uploads/2021/02/pexels-photo-3782228-2.jpeg
 date: "2021-02-15T19:02:32+00:00"
 guid: https://www.open-bio.org/?p=5287
 title: 'Seeking community volunteers: nomination open for OBF board election 2021'
@@ -26,7 +26,7 @@ OBF is committed to promoting the practice and philosophy of Open Source softwar
 \- maintaining OBF website, social media and newsletter for information dissemination  
 \- advocating through policy and public statements
 
-OBF board members are elected through public nomination and voting. As board member Yo Yehudi (see [this post](/2021/02/12/title-would-you-like-to-make-a-difference-in-grassroots-open-bioinformatics/)) reaches the end of her term, we are reflecting on the need to recruit new and more diverse board members.
+OBF board members are elected through public nomination and voting. As board member Yo Yehudi (see [this post](/obf-hugo-test/2021/02/12/title-would-you-like-to-make-a-difference-in-grassroots-open-bioinformatics/)) reaches the end of her term, we are reflecting on the need to recruit new and more diverse board members.
 
 In particular, we would like to invite members from low-tech/low-income communities or historically marginalised groups to bring new perspectives to the OBF community and highlight new areas of interest. Elected members of the OBF Board will be instrumental in steering OBF’s work to address urgent challenges and needs in open source bioinformatics communities that we might not have yet recognized.
 
@@ -43,16 +43,16 @@ These tasks could not have been accomplished without the support of our communit
 \- [Curate and edit our quarterly (approximately) newsletter](https://github.com/obf/newsletter), time commitment approximately 4 hours per issue  
 \- Help maintain and update our website: [https://www.open-bio.org](https://www.open-bio.org) (WordPress, HTML, CSS skills)  
 \- Help manage our social channels (such as [Twitter](https://twitter.com/obf_news))  
-\- [Become a GSoC](/events/gsoc/) mentor or organisation admin  
+\- [Become a GSoC](/obf-hugo-test/events/gsoc/) mentor or organisation admin  
 \- Volunteer at the Bioinformatics Open Source Conference
 
 We appreciate that many of these roles may be new to you and we would offer mentorship and support if it is your first time occupying this type of position - please don’t feel that inexperience should stop you from applying!
 
 OBF also offers support for individuals and groups to promote open source practices and build bioinformatics skills. Here are a few opportunities that you can benefit from:
 
-\- [Apply for the OBF Event fellowship](/event-awards), 2 deadlines on 1 April and 1 October 2021  
-\- [Become an OBF member to participate in the community](/membership)  
-\- Apply to become an affiliate project by discussing with the board ( [see currently affiliated projects](/projects/#affiliated-projects))  
+\- [Apply for the OBF Event fellowship](/obf-hugo-test/event-awards), 2 deadlines on 1 April and 1 October 2021  
+\- [Become an OBF member to participate in the community](/obf-hugo-test/membership)  
+\- Apply to become an affiliate project by discussing with the board ( [see currently affiliated projects](/obf-hugo-test/projects/#affiliated-projects))  
 \- Apply for the OBF Grassroots Event Sponsorship (will be announced soon)
 
 We would also love to hear your ideas for how you could help boost OBF’s commitments to:
@@ -63,4 +63,4 @@ We would also love to hear your ideas for how you could help boost OBF’s commi
 \- boosting grassroots projects that can benefit from OBF’s support   
 \- spreading awareness of OBF Event Fellowship and affiliation programs
 
-Sound interesting? If so, please get in touch with the board by emailing [board@open-bio.org](mailto:board@open-bio.org). If you want more information, or want to talk to one of us about being on the board or in the OBF community in general, see the [OBF Board page](/board/) for contact information.
+Sound interesting? If so, please get in touch with the board by emailing [board@open-bio.org](mailto:board@open-bio.org). If you want more information, or want to talk to one of us about being on the board or in the OBF community in general, see the [OBF Board page](/obf-hugo-test/board/) for contact information.

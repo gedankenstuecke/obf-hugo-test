@@ -16,4 +16,4 @@ The annual Board of Directors Meeting of the Open Bioinformatics Foundation will
 
 The meeting will on Tuesday 8 November 2011, at 11am EST, 8am PST, 16:00 UTC/GMT, 17:00 CET, or Wednesday 9 November 1am JST. Note for translating into other time zones that by then both Europe and the US have gone off DST.
 
-Note that this meeting, like all O\|B\|F Board meetings, is public; every member may call in at their leisure. Please see the [agenda of the meeting](/wiki/Minutes:2011_ConfCall) (including dial-in information), see also the [current board](/wiki/Board).
+Note that this meeting, like all O\|B\|F Board meetings, is public; every member may call in at their leisure. Please see the [agenda of the meeting](/obf-hugo-test/wiki/Minutes:2011_ConfCall) (including dial-in information), see also the [current board](/obf-hugo-test/wiki/Board).

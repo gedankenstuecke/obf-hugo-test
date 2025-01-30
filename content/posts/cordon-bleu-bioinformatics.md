@@ -5,7 +5,7 @@ category:
   - travel-fellowship
 cover:
   alt: cordon-bleu
-  image: /wp-content/uploads/2019/08/cordon-bleu.jpg
+  image: /obf-hugo-test/wp-content/uploads/2019/08/cordon-bleu.jpg
 date: "2019-08-25T18:08:26+00:00"
 guid: https://www.open-bio.org/?p=3872
 tag:
@@ -14,7 +14,7 @@ title: Cordon Bleu Bioinformatics
 url: /2019/08/25/cordon-bleu-bioinformatics/
 
 ---
-I attended the Bioinformatics Open Source Conference ( [BOSC](/events/bosc/) 2019) organized this year along with [ISMB/ECCB](https://www.iscb.org/ismbeccb2019) in Basel, Switzerland from July 21st-25th. BOSC 2019 was in multiple ways a lot of 'firsts' for me. I was attending my first ISMB/ECCB. It also happened to be my first time in Europe. It was the first time I was putting faces and voices to a lot of names. Like in most of the conferences these days, I met a lot of Twitter-verse friends for the very first time. And above all, this was my first ever BOSC.  I was funded in part by the Open Bioinformatics Foundation’s [Travel Award](/travel-awards/) and ISMB/ECCB’s Travel Fellowship. My travel and the learnings I summarize here would have been impossible without both.  
+I attended the Bioinformatics Open Source Conference ( [BOSC](/obf-hugo-test/events/bosc/) 2019) organized this year along with [ISMB/ECCB](https://www.iscb.org/ismbeccb2019) in Basel, Switzerland from July 21st-25th. BOSC 2019 was in multiple ways a lot of 'firsts' for me. I was attending my first ISMB/ECCB. It also happened to be my first time in Europe. It was the first time I was putting faces and voices to a lot of names. Like in most of the conferences these days, I met a lot of Twitter-verse friends for the very first time. And above all, this was my first ever BOSC.  I was funded in part by the Open Bioinformatics Foundation’s [Travel Award](/obf-hugo-test/travel-awards/) and ISMB/ECCB’s Travel Fellowship. My travel and the learnings I summarize here would have been impossible without both.  
 
 ![](https://lh3.googleusercontent.com/2hnxxOt_KWFjNV-q51dGeodBwJQ_LjK9bom4AP2irMkBE1I6d5YE0eCZ_NrQqqT9_MCJAUAUnfV3cXMzj6CkySLpqdm6u8Pef25o76H9K4BPhMup6DwhNFN1Zf8mKd_fl63fKpCb)Nomi Harris introducing the 20th BOSC 2019 (Couldn't capture Nomi at this angle)
 
@@ -48,7 +48,7 @@ https://twitter.com/GigaScience/status/1154012905639206912?ref\_src=twsrc%5Etfw
 
 ### **BOSC Takeaways**
 
-BOSC happens over two days of the main conference that is often followed by another two days of [C](/wiki/Codefest) [oF](/events/bosc/collaborationfest/) [est](/wiki/Codefest). Unfortunately, I was not able to participate in CoFest. BOSC was packed with sessions on data crunching, data modeling and formats,  containers, open science, workflows and building open source communities. Besides these sessions there were also independent Birds of a Feather sessions (BoFs) which are informal self-organized meetups on [a myriad of topics](http://bit.ly/BOSC2019-bofs), spread over the two days. I participated in the “Reimaging the paper” BoF organized by Dr. Emmy Tsang of eLife Innovation. We discussed how the traditional model of publishing is limited in terms of reproducibility. The journals need to define a minimum standard for ensuring reproducibility, but defining what these gold standards should be, still remains a challenge in itself.
+BOSC happens over two days of the main conference that is often followed by another two days of [C](/obf-hugo-test/wiki/Codefest) [oF](/obf-hugo-test/events/bosc/collaborationfest/) [est](/obf-hugo-test/wiki/Codefest). Unfortunately, I was not able to participate in CoFest. BOSC was packed with sessions on data crunching, data modeling and formats,  containers, open science, workflows and building open source communities. Besides these sessions there were also independent Birds of a Feather sessions (BoFs) which are informal self-organized meetups on [a myriad of topics](http://bit.ly/BOSC2019-bofs), spread over the two days. I participated in the “Reimaging the paper” BoF organized by Dr. Emmy Tsang of eLife Innovation. We discussed how the traditional model of publishing is limited in terms of reproducibility. The journals need to define a minimum standard for ensuring reproducibility, but defining what these gold standards should be, still remains a challenge in itself.
 
 Summarizing all the talks at BOSC would be near impossible here. So I will describe the ones that got me super excited. The first one was by Dr. Malvika Sharan, on how promoting inclusiveness in Open Science communities requires an “open by design” approach where information sharing is scalable, the community is welcoming and supportive of newcomers and there are appropriate channels for skill transfer.
 
@@ -85,7 +85,7 @@ I also had a poster on pysradb on the day of my lightning talk. I got a lot of v
 
 ### **Applying for BOSC Travel Award**  
 
-If you are thinking of traveling to any event promoting open-source bioinformatics software development and open science in the biological research community, OBF covers up to USD 1000 and it is possible to request a higher amount. The [application process](/travel-awards/) is one of the smoothest I have ever come across!  
+If you are thinking of traveling to any event promoting open-source bioinformatics software development and open science in the biological research community, OBF covers up to USD 1000 and it is possible to request a higher amount. The [application process](/obf-hugo-test/travel-awards/) is one of the smoothest I have ever come across!  
 
 Application Deadlines: April 15, August 15, December 15 every year.
 

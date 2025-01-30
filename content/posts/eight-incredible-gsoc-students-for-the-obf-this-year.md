@@ -5,7 +5,7 @@ category:
   - uncategorized
 cover:
   alt: ""
-  image: /wp-content/uploads/2021/06/image-8.png
+  image: /obf-hugo-test/wp-content/uploads/2021/06/image-8.png
 date: "2021-06-17T17:05:36+00:00"
 guid: https://www.open-bio.org/?p=5693
 tag:
@@ -14,7 +14,7 @@ title: Eight incredible GSoC students for the OBF this year ☀️
 url: /2021/06/17/eight-incredible-gsoc-students-for-the-obf-this-year-☀️/
 
 ---
-![sixteen grinning faces of GSoC mentors and students for the OBF.](/wp-content/uploads/2021/06/image-8-1024x591.png)OBF students and mentors at an OBF kickoff call
+![sixteen grinning faces of GSoC mentors and students for the OBF.](/obf-hugo-test/wp-content/uploads/2021/06/image-8-1024x591.png)OBF students and mentors at an OBF kickoff call
 
 Every year the OBF applies to participate as a mentoring organisation for [Google Summer of Code](https://summerofcode.withgoogle.com/), a paid work experience program where students get the chance to do paid work on an open source project and open source organisations host the students to work on their projects. This year, eight projects have participated under the OBF umbrella - read more about these fantastic students and their work below:
 

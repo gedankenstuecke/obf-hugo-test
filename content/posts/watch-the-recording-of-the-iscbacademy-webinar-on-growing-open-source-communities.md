@@ -13,7 +13,7 @@ title: Watch the recording of the ISCBacademy webinar on growing open source com
 url: /2022/02/23/watch-the-recording-of-the-iscbacademy-webinar-on-growing-open-source-communities/
 
 ---
-Yesterday we [hosted the OBF/BOSC contribution to the ISCBacademy webinar](/2022/01/20/iscbacademy-webinar-feb-22-yo-yehudi/). Our former OBF-board member and _Open Life Science_ co-lead [Yo Yehudi](https://twitter.com/yoyehudi/) presented how internship programs such as _Google Summer of Code_ or _Outreachy_ can be a great way to grow your open source community. If you missed the event, you can now [watch the recording on YouTube](https://www.youtube.com/watch?v=h4GVFMlUnMc).
+Yesterday we [hosted the OBF/BOSC contribution to the ISCBacademy webinar](/obf-hugo-test/2022/01/20/iscbacademy-webinar-feb-22-yo-yehudi/). Our former OBF-board member and _Open Life Science_ co-lead [Yo Yehudi](https://twitter.com/yoyehudi/) presented how internship programs such as _Google Summer of Code_ or _Outreachy_ can be a great way to grow your open source community. If you missed the event, you can now [watch the recording on YouTube](https://www.youtube.com/watch?v=h4GVFMlUnMc).
 
 {{< youtube h4GVFMlUnMc >}}
 

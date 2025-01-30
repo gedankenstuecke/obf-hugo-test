@@ -4,7 +4,7 @@ category:
   - bosc/ismb
 cover:
   alt: Jason-Williams-keynote2022
-  image: /wp-content/uploads/2022/08/image5-e1675318372322.jpg
+  image: /obf-hugo-test/wp-content/uploads/2022/08/image5-e1675318372322.jpg
 date: "2023-02-02T06:06:58+00:00"
 guid: https://www.open-bio.org/?p=6837
 tag:

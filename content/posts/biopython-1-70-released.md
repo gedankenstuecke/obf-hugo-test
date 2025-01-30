@@ -9,7 +9,7 @@ category:
   - obf-projects
 cover:
   alt: biopython_2017_banner_white_bg
-  image: /wp-content/uploads/2017/07/biopython_2017_banner_white_bg.png
+  image: /obf-hugo-test/wp-content/uploads/2017/07/biopython_2017_banner_white_bg.png
 date: "2017-07-11T10:45:49+00:00"
 guid: https://news.open-bio.org/?p=1683
 tag:

@@ -11,7 +11,7 @@ url: /2012/11/13/minutes2012-nov-confcall/
 ### Agenda
 
 1. Old business
-   - [Sep 2012 BoD meeting minutes](/wiki/Minutes:2012_Sep_ConfCall)
+   - [Sep 2012 BoD meeting minutes](/obf-hugo-test/wiki/Minutes:2012_Sep_ConfCall)
 1. New business
    1. Election of new Board members. Nominated candidate is Chris Fields.
    1. Review and possibly revamping of the procedure for joining and maintaining the OBF membership
@@ -32,7 +32,7 @@ Hilmar called meeting to order at 11:34am EST.
 
 #### Old business:
 
-- Hilmar moved to approve [Sep 2012 BoD meeting minutes](/wiki/Minutes:2012_Sep_ConfCall). Motion approved with unanimous consent.
+- Hilmar moved to approve [Sep 2012 BoD meeting minutes](/obf-hugo-test/wiki/Minutes:2012_Sep_ConfCall). Motion approved with unanimous consent.
 
 #### New business:
 

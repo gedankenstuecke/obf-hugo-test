@@ -24,7 +24,7 @@ Thanks to those who participated in the [BOSC 2014 Keynote Competition](http://n
 
 https://twitter.com/manuelcorpas/status/412520369044463616
 
-(In fact, we had already confirmed Philip Bourne as our second keynote speaker _before_ his new job at NIH was announced.) Congratulations, Manuel, on winning free admission to [BOSC 2014](/wiki/BOSC_2014)!
+(In fact, we had already confirmed Philip Bourne as our second keynote speaker _before_ his new job at NIH was announced.) Congratulations, Manuel, on winning free admission to [BOSC 2014](/obf-hugo-test/wiki/BOSC_2014)!
 
 Dr. Bourne's keynote talk will be entitled "Biomedical Research as an Open Digital Enterprise":
 

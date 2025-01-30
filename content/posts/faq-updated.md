@@ -8,4 +8,4 @@ title: FAQ updated
 url: /2005/11/19/faq-updated/
 
 ---
-The Frequently Asked Questions have been entered into the Wiki and is [available](/wiki/FAQ).
+The Frequently Asked Questions have been entered into the Wiki and is [available](/obf-hugo-test/wiki/FAQ).

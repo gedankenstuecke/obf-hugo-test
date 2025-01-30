@@ -14,11 +14,11 @@ The meeting was held conference call.
 
 1. Old business
 
-   - [2010 Financial Report](/wiki/Minutes:2010_Financial_report)
+   - [2010 Financial Report](/obf-hugo-test/wiki/Minutes:2010_Financial_report)
 
-   - [2011 BoD meeting minutes](/wiki/Minutes:2011_ConfCall)
+   - [2011 BoD meeting minutes](/obf-hugo-test/wiki/Minutes:2011_ConfCall)
 1. New business
-   1. Treasurer's 2011 report: [File:2011-OBF-Treasurers-Report v1.pdf](/wiki/File:2011-OBF-Treasurers-Report_v1.pdf) (Chris Dagdigian)
+   1. Treasurer's 2011 report: [File:2011-OBF-Treasurers-Report v1.pdf](/obf-hugo-test/wiki/File:2011-OBF-Treasurers-Report_v1.pdf) (Chris Dagdigian)
    1. Elections:
       - Hilmar Lapp, running for office of President
       - Nomi Harris, running for office of Parliamentarian

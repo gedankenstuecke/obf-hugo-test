@@ -33,6 +33,6 @@ Other major news from the meeting:
 Links to meeting minutes and Election Bylaws follow are below ...
 
 The new Election bylaws adopted by the Board can be found here:
-[Download file](/archives/uploads/OBF-Election-Bylaws-1.pdf)
+[Download file](/obf-hugo-test/archives/uploads/OBF-Election-Bylaws-1.pdf)
 
 Meeting minutes are still being approved; when they are ready this article will be edited and a download link will be inserted here.

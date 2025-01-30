@@ -11,20 +11,20 @@ url: /2009/12/14/minutes2009-confcall/
 ### Agenda
 
 1. Old business
-   - [2008 BoD meeting minutes](/wiki/Minutes:2008_ConfCall)
+   - [2008 BoD meeting minutes](/obf-hugo-test/wiki/Minutes:2008_ConfCall)
 1. New business
    1. BOSC
       - BOSC 2009 (Kam)
         - Money spent/made attendee number, any other feedback
       - BOSC 2010 - held with ISMB2010 in Boston, MA, USA
    1. Treasurer's 2009 report (ChrisD)
-      - [2009 Financial report](/wiki/Minutes:2009_Financial_report)
+      - [2009 Financial report](/obf-hugo-test/wiki/Minutes:2009_Financial_report)
    1. BoD membership and succession.
       - Nomination of Nomi Harris for election to the BoD
       - Need plan to elect new BoD members and rotate officers.
    1. OBF Hardware & Sysadmin report (JasonS and ChrisD)
       - Domain names currently registered, upcoming expirations, newly purchased names
-      - Proposal to purchase new hardware - [2009 hardware purchase proposal](/wiki/2009_hardware_purchase_proposal)
+      - Proposal to purchase new hardware - [2009 hardware purchase proposal](/obf-hugo-test/wiki/2009_hardware_purchase_proposal)
       - Proposal to purchase box for upstream SPAM filtering
       - System Administration status & coverage report (who, what, issues, future)
       - Consider possibility of moving code mirroring to public (code.google.com; etc) mailling lists to googlegroups?

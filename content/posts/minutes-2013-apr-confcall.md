@@ -15,8 +15,8 @@ Dial-in Number: 1-605-475-5950 (Midwest) 
 Participant Access Code: 279610
 
 1. Old business
-   - [Nov 2012 BoD meeting minutes](/wiki/Minutes:2012_Nov_ConfCall)
-   - [Treasurer's 2012 report](/w/images/1/11/2012-OBF-Treasurers-Report.pdf) (Chris Dagdigian)
+   - [Nov 2012 BoD meeting minutes](/obf-hugo-test/wiki/Minutes:2012_Nov_ConfCall)
+   - [Treasurer's 2012 report](/obf-hugo-test/w/images/1/11/2012-OBF-Treasurers-Report.pdf) (Chris Dagdigian)
 1. New business
    1. Administration of O\|B\|F's 2013 Google Summer of Code participation (Pjotr Prins)
 
@@ -35,8 +35,8 @@ Meeting called to order at 10.37am PDT
 
 #### Old business:
 
-- [Minutes from previous Sep 2012 meeting](/wiki/Minutes:2012_Sep_ConfCall) are approved by unanimous consent.
-- [Treasurer's 2012 report](/w/images/1/11/2012-OBF-Treasurers-Report.pdf):
+- [Minutes from previous Sep 2012 meeting](/obf-hugo-test/wiki/Minutes:2012_Sep_ConfCall) are approved by unanimous consent.
+- [Treasurer's 2012 report](/obf-hugo-test/w/images/1/11/2012-OBF-Treasurers-Report.pdf):
   - Chris D. summarizes and explains the 2012 expenses and income items, as well those in 2013 up to April 1st, which is when the account was closed in order to transfer our financial assets to SPI.
   - Check was mailed to SPI on April 3, and the SPI Treasurer today has acknowledged receipt of the funds.
   - Closing the account unfortunately means we can no longer obtain online statements for past periods. If we ever need those, Chris D. may have to visit the local branch in person, or we would have to make another formal and authenticated request (which would likely cost a fee).

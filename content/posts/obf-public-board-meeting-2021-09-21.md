@@ -35,7 +35,7 @@ Meeting ID: 973 1275 7115
 ### Voting by OBF membership
 
 - OBF Community Support Sponsorship: a proposed new grant programme, based on the OBF Event Fellowships but aimed at supporting grassroots projects running events in their own communities. Subject to approval by the OBF membership in a formal vote.
-  - [/2021/05/11/obf-community-support-sponsorship/](/2021/05/11/obf-community-support-sponsorship/)
+  - [/2021/05/11/obf-community-support-sponsorship/](/obf-hugo-test/2021/05/11/obf-community-support-sponsorship/)
   - https://github.com/OBF/obf-docs/issues/86
 - Code of Conduct: BOSC has a code of conduct, as part of the parent conference, but OBF does not yet have its own code of conduct. This pull request lays out a Code of Conduct for the OBF that, if approved by a membership vote, will replace the content on /code-of-conduct/.
   - [https://github.com/OBF/obf-docs/pull/78](https://github.com/OBF/obf-docs/pull/78)

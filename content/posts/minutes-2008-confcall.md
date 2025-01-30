@@ -14,16 +14,16 @@ Scheduled for Nov 19, 12:30 - 2PM PST via Conference call. Please email board@op
 
 #### Old Business
 
-1. Approve [minutes from BOSC 2008 Meeting](/wiki/Minutes:2008_BOSC_Meeting#Minutes)
+1. Approve [minutes from BOSC 2008 Meeting](/obf-hugo-test/wiki/Minutes:2008_BOSC_Meeting#Minutes)
 
 #### New Business
 
 1. To vote on a new member to the board, Kam Dahlquist
 1. Discuss leadership changes and plan how Board membership will be expanded in the next year
-1. [BOSC 2009](/wiki/BOSC_2009): planning is underway by BOSC committee, will discuss any input needed by BoD
-1. [Treasurer's financial report](/w/images/4/4c/2008-OBF-Treasurer-Report_Ammended2.pdf) from summer 2008, with accounts updated to be current for
+1. [BOSC 2009](/obf-hugo-test/wiki/BOSC_2009): planning is underway by BOSC committee, will discuss any input needed by BoD
+1. [Treasurer's financial report](/obf-hugo-test/w/images/4/4c/2008-OBF-Treasurer-Report_Ammended2.pdf) from summer 2008, with accounts updated to be current for
 1. Any purchase or server hosting decisions
-   - I put some thoughts regarding the OSC hosting offer on my talk page: [User:Dag](/wiki/User:Dag) -- [Dag](/wiki/User:Dag) 20:34, 19 November 2008 (UTC)
+   - I put some thoughts regarding the OSC hosting offer on my talk page: [User:Dag](/obf-hugo-test/wiki/User:Dag) -- [Dag](/obf-hugo-test/wiki/User:Dag) 20:34, 19 November 2008 (UTC)
 
 ### Minutes
 
@@ -75,7 +75,7 @@ Hilmar calls meeting to order. All 3 current BoD members are present, so quorum 
   - Regular genomics hackathon being planned concurrent with the tutorials, led by Lonnie Welch and some work of his group.
   - Kam is overseer and chair, Lonnie Welch will be co-chair and help with coordinating between the different theme sessions.
   - ISCB's approval is due Dec 17, plan is to hit the ground running from that point on forward. We will be setting up OCS or EasyChair to manage the conference submissions.
-  - [BOSC 2009](/wiki/BOSC_2009) page and [its discussion page](/wiki/Talk:BOSC_2009) have dates and links.
+  - [BOSC 2009](/obf-hugo-test/wiki/BOSC_2009) page and [its discussion page](/obf-hugo-test/wiki/Talk:BOSC_2009) have dates and links.
 - Lonnie invites ideas and input to the regulatory genomics software and design patterns themes.
 - Kam plans to subscribe all past conference participants to the BOSC-announce list, which is deemed fine unanimously.
 - Plan is to make the submitted planning document public after submission.

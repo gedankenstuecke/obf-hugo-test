@@ -20,7 +20,7 @@ title: First three OBF travel fellowships awarded
 url: /2016/05/23/first-obf-travel-fellowships/
 
 ---
-The first round of the [Open Bioinformatics Foundation travel fellowship program](https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md) has granted funds to three open source bioinformatics software developers to help them attend the [Bioinformatics Open Source Conference (BOSC) 2016](/wiki/BOSC_2016) in Orlando, Florida, this July. The travel fellowship program ( [announced 1 May 2016](https://news.open-bio.org/2016/03/01/obf-travel-fellowship-program/)) aims to increase diverse participation at events promoting open source bioinformatics software development and open science in the biological research community. Applications for the first round in 2016 were due on April 15, with two more due dates this year on August 15 and December 15.
+The first round of the [Open Bioinformatics Foundation travel fellowship program](https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md) has granted funds to three open source bioinformatics software developers to help them attend the [Bioinformatics Open Source Conference (BOSC) 2016](/obf-hugo-test/wiki/BOSC_2016) in Orlando, Florida, this July. The travel fellowship program ( [announced 1 May 2016](https://news.open-bio.org/2016/03/01/obf-travel-fellowship-program/)) aims to increase diverse participation at events promoting open source bioinformatics software development and open science in the biological research community. Applications for the first round in 2016 were due on April 15, with two more due dates this year on August 15 and December 15.
 
 Out of more than a dozen applicants from four different continents, the OBF Board chose the following three recipients:
 

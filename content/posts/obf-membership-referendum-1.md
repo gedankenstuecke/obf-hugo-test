@@ -7,7 +7,7 @@ category:
   - obf
 cover:
   alt: obf_logo_icon-circle-tr
-  image: /wp-content/uploads/2019/02/obf_logo_icon-circle-tr-1.png
+  image: /obf-hugo-test/wp-content/uploads/2019/02/obf_logo_icon-circle-tr-1.png
 date: "2022-01-04T21:44:00+00:00"
 guid: https://www.open-bio.org/?p=5991
 tag:
@@ -17,10 +17,10 @@ title: OBF Membership Referendum
 url: /2022/01/04/obf-membership-referendum/
 
 ---
-During our last [public Board meeting](/2021/10/06/two-new-members-elected-to-obf-board/), the OBF announced two new initiatives that are being proposed for approval by the OBF membership in a formal votes.
+During our last [public Board meeting](/obf-hugo-test/2021/10/06/two-new-members-elected-to-obf-board/), the OBF announced two new initiatives that are being proposed for approval by the OBF membership in a formal votes.
 
 1\. OBF Community Support Sponsorship: a proposed new grant programme, based on the OBF Event Fellowships but aimed at supporting grassroots projects running events in their own communities. For details see:
-\- [/2021/05/11/obf-community-support-sponsorship/](/2021/05/11/obf-community-support-sponsorship/)
+\- [/2021/05/11/obf-community-support-sponsorship/](/obf-hugo-test/2021/05/11/obf-community-support-sponsorship/)
 \- [https://github.com/OBF/obf-docs/issues/86](https://github.com/OBF/obf-docs/issues/86)
 
 2\. Code of Conduct: BOSC has a code of conduct, as part of the parent conference, but OBF does not yet have its own code of conduct. This pull request lays out a Code of Conduct for the OBF that, if approved by a membership vote, will replace the content on /code-of-conduct/. For details see:

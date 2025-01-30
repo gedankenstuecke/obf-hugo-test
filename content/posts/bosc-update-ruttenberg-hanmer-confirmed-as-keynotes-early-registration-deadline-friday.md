@@ -12,7 +12,7 @@ title: 'BOSC Update: Ruttenberg, Hanmer confirmed as Keynotes, Early Registratio
 url: /2009/05/13/bosc-update-ruttenberg-hanmer-confirmed-as-keynotes-early-registration-deadline-friday/
 
 ---
-Alan Ruttenberg of Science Commons and Robert Hanmer of the Hillside Group have been confirmed as Keynote Speakers for BOSC 2009.  For more information, see the BOSC 2009 web site at [/wiki/BOSC\_2009](/wiki/BOSC_2009).
+Alan Ruttenberg of Science Commons and Robert Hanmer of the Hillside Group have been confirmed as Keynote Speakers for BOSC 2009.  For more information, see the BOSC 2009 web site at [/wiki/BOSC\_2009](/obf-hugo-test/wiki/BOSC_2009).
 
 Abstract acceptances went out today--stay tuned for the schedule, which will be posted once the speakers have confirmed their invitations.
 

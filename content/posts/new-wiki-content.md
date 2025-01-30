@@ -8,7 +8,7 @@ title: New Wiki Content
 url: /2005/10/29/new-wiki-content/
 
 ---
-I've started migrating content to the [Wiki Site](/wiki). I am hoping this will work out well. We need a couple of things.
+I've started migrating content to the [Wiki Site](/obf-hugo-test/wiki). I am hoping this will work out well. We need a couple of things.
 
 1. Decide on a theme for this site, customize it to make it a Bioperl style. Consider having a unifying style across all the [O\|B\|F](http://www.open-bio.org) sites as Chris started doing with the foundation site.
 

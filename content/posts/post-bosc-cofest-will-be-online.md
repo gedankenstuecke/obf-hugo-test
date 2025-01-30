@@ -5,7 +5,7 @@ category:
   - community
 cover:
   alt: online-collaboration - 1
-  image: /wp-content/uploads/2022/06/online-collaboration-1.jpeg
+  image: /obf-hugo-test/wp-content/uploads/2022/06/online-collaboration-1.jpeg
 date: "2022-06-09T18:31:46+00:00"
 guid: https://www.open-bio.org/?p=6494
 tag:
@@ -16,7 +16,7 @@ url: /2022/06/09/post-bosc-cofest-will-be-online/
 ---
 'ello Co-Fest Friends!
 
-After failing to find a good spot for an in-person [CoFest](/2022/05/17/collaborationfest-2022/), we decided to have the CoFest remotely! I was really excited to meet you all at this event (and have you all meet each other) in the real world, but we'll have to settle for doing that at BOSC (for those who are there).
+After failing to find a good spot for an in-person [CoFest](/obf-hugo-test/2022/05/17/collaborationfest-2022/), we decided to have the CoFest remotely! I was really excited to meet you all at this event (and have you all meet each other) in the real world, but we'll have to settle for doing that at BOSC (for those who are there).
 
 By all means, don't let this stop your in-person innovations! Want to meet up and work at a café? Do it! Hotel room? It's your room! Get some of your newest friends together and collaborate!
 

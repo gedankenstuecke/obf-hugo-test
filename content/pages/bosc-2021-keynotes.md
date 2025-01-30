@@ -6,7 +6,7 @@ title: BOSC 2021 Keynotes
 url: /events/bosc-2021/bosc-2021-keynotes/
 
 ---
-![Dr. Christie Bahlai](/wp-content/uploads/2021/03/christie-bahlai-scaled.jpeg)
+![Dr. Christie Bahlai](/obf-hugo-test/wp-content/uploads/2021/03/christie-bahlai-scaled.jpeg)
 
 ### Christie Bahlai ( [Kent State University](https://www.kent.edu/biology/christie-bahlai))
 
@@ -16,7 +16,7 @@ ABSTRACT: Ecology has undergone several major cultural shifts in the past centur
 
 Christie Bahlai, PhD, is a computational ecologist in the Department of Biological Sciences at Kent State University and a former Mozilla Fellow. She uses approaches from data science to help solve problems in conservation, sustainability, and ecosystem management, partnering with conservation and tech nonprofits. Her current research focuses on developing tools to support information synthesis in temporal ecology. Dr. Bahlai has strong interests in social justice in science, and believes that directly addressing diversity issues through technology and culture change benefits both scientists and science.
 
-![Dr. Thomas Hervé Mboa Nkoudou ](/wp-content/uploads/2021/04/Thomas-Mboa.jpg)
+![Dr. Thomas Hervé Mboa Nkoudou ](/obf-hugo-test/wp-content/uploads/2021/04/Thomas-Mboa.jpg)
 
 ### Thomas Hervé Mboa Nkoudou ( [Mboalab](https://www.mboalab.africa/) and [Open AIR](https://openair.africa/))
 
@@ -36,7 +36,7 @@ In this presentation, I will show evidence of the contribution of the maker move
 [Thomas Hervé Mboa Nkoudou, PhD](https://orcid.org/0000-0001-9678-7765), is a researcher in Open Science and Science Communication. With a background in biochemistry, he works to promote DIYbio and democratize biotechnology in Africa, and aims to help create a more inclusive, data-driven research community.
 He founded the [Mboalab](https://www.mboalab.africa/) innovation lab in Cameroon, and co-leads the African Institute of Open Science and Hardware. Dr. Mboa is also the International President of APSOHA, the Association for the Promotion of Open Science in Haiti and Africa. He is currently a postdoc at the University of Ottawa in Canada, working with the [Open African Innovation Research Partnership](https://openair.africa/). Dr. Mboa was featured in a [recent article in Nature](https://www.nature.com/articles/d41586-021-00956-6?fbclid=IwAR2D7MxjuOKCUU7sEwqYVQx6m30kdh8se9fwKxC0-GMTuuZYzyFp8bjkxxI) about early-career researchers who are leaders.
 
-![Dr. Lara Mangravite](/wp-content/uploads/2021/04/Lara-Mangravite.jpeg)
+![Dr. Lara Mangravite](/obf-hugo-test/wp-content/uploads/2021/04/Lara-Mangravite.jpeg)
 
 ### Lara Mangravite ( [Sage Bionetworks](https://sagebionetworks.org/))  
 (Talk co-hosted with [Function-COSI](https://www.biofunctionprediction.org/meetings/))

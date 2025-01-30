@@ -14,7 +14,7 @@ title: 'OBF Travel Fellowship: August 2019 awards'
 url: /2019/09/30/obf-travel-fellowship-august-2019-awards/
 
 ---
-A record number of people applied for the latest round of the [OBF Travel Fellowship](/travel-awards/), which closed on August 15, 2019. Out of this great set of applicants, we offered travel awards to three who epitomize the goal of the awards: to promote diversity in the world of open source bioinformatics / open science.
+A record number of people applied for the latest round of the [OBF Travel Fellowship](/obf-hugo-test/travel-awards/), which closed on August 15, 2019. Out of this great set of applicants, we offered travel awards to three who epitomize the goal of the awards: to promote diversity in the world of open source bioinformatics / open science.
 
 The awardees are **Arunav Konwar,** **Fernanda Troyner and Nicolás Palopoli**.
 

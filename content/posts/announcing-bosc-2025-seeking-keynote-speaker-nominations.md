@@ -5,7 +5,7 @@ category:
   - events
 cover:
   alt: BOSC audience with Jessica - 1
-  image: /wp-content/uploads/2024/12/BOSC-audience-with-Jessica-1.jpeg
+  image: /obf-hugo-test/wp-content/uploads/2024/12/BOSC-audience-with-Jessica-1.jpeg
 date: "2025-01-09T06:33:54+00:00"
 guid: https://www.open-bio.org/?p=8410
 tag:
@@ -16,13 +16,13 @@ title: Announcing BOSC 2025; seeking keynote speaker nominations
 url: /2025/01/09/nominate-keynotes-bosc2025/
 
 ---
-![](/wp-content/uploads/2025/01/ISMB-bosc-2025-banner.png)
+![](/obf-hugo-test/wp-content/uploads/2025/01/ISMB-bosc-2025-banner.png)
 
 ## We invite you to join us for BOSC 2025, a vibrant gathering at the forefront of open-source bioinformatics and open science!
 
 - **Location**: Liverpool, UK, and virtual
 - **Dates:** July 21-22, 2025
-- **Website**: [/events/bosc/](/events/bosc/)
+- **Website**: [/events/bosc/](/obf-hugo-test/events/bosc/)
 - **LinkedIn**: [https://www.linkedin.com/groups/14344023/](https://www.linkedin.com/groups/14344023/)
 - **Bluesky**: [https://bsky.app/profile/bosc.bsky.social](https://bsky.app/profile/bosc.bsky.social)
 - **Slack**: [https://join.slack.com/t/obf-bosc/shared\_invite/zt-n5ur1gsj-z2C~69\_4lYTFPg5tbWA8Ew](https://join.slack.com/t/obf-bosc/shared_invite/zt-n5ur1gsj-z2C~69_4lYTFPg5tbWA8Ew)

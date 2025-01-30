@@ -4,7 +4,7 @@ category:
   - community
 cover:
   alt: photo-1522202176988-66273c2fd55f
-  image: /wp-content/uploads/2019/11/photo-1522202176988-66273c2fd55f.jpeg
+  image: /obf-hugo-test/wp-content/uploads/2019/11/photo-1522202176988-66273c2fd55f.jpeg
 date: "2019-11-12T21:32:34+00:00"
 guid: https://www.open-bio.org/?p=4283
 tag:

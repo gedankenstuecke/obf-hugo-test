@@ -15,7 +15,7 @@ Dial-in Number: 1-605-475-5950 (US Midwest) 
 Participant Access Code: 279610
 
 1. Old business
-   - [Apr 2013 BoD meeting minutes](/wiki/Minutes:2013_Apr_ConfCall)
+   - [Apr 2013 BoD meeting minutes](/obf-hugo-test/wiki/Minutes:2013_Apr_ConfCall)
 1. New business
    1. Board elections (by [secret electronic ballot](https://vote.heliosvoting.org/helios/e/obf-board-dec2013)):
       - Hilmar Lapp, running for a 2nd term as President
@@ -40,7 +40,7 @@ Attendees: Board: Hilmar Lapp, Nomi Harris, Chris Dagdigian, Chris Fields, Jason
 
 Meeting called to order at 17:04 UTC. Roll call yields all 6 Board members present. Quorum is therefore established.
 
-1. Approval of [April 2013 Board meeting minutes](/wiki/Minutes:2013_Apr_ConfCall). The minutes were approved with unanimous consent.
+1. Approval of [April 2013 Board meeting minutes](/obf-hugo-test/wiki/Minutes:2013_Apr_ConfCall). The minutes were approved with unanimous consent.
 1. New business.
    - Board elections. Hilmar remarked that he wants to get aware from implicit continuation of posts, both as a way for the post-holder to explicitly express their interest, and for the board to explicitly re-endorse them.
      - Hilmar was elected President in Dec 2011. He is standing for re-election despite having previously planned to step down as he enjoyed it more than he expected and realised there is still more that he can do.

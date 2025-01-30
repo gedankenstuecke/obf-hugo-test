@@ -30,7 +30,7 @@ Maybe the most difficult part is choosing the right project to work for (the sec
 
 ## Open Bioinformatics Foundation
 
-The [OBF](/) is an umbrella mentoring organization that promotes the practice and philosophy of open source software development within the biological research community. Under its umbrella there are other organizations that have projects involved in GSoC. The project I am taking part of is with the global charitable foundation **Wellcome Trust** with my super mentor [Antonio Campello](https://github.com/aCampello).
+The [OBF](/obf-hugo-test/) is an umbrella mentoring organization that promotes the practice and philosophy of open source software development within the biological research community. Under its umbrella there are other organizations that have projects involved in GSoC. The project I am taking part of is with the global charitable foundation **Wellcome Trust** with my super mentor [Antonio Campello](https://github.com/aCampello).
 
 ## **Developing WellcomeML further for the visualisation of academic research data**
 

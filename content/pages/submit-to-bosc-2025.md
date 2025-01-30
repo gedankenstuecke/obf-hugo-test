@@ -2,7 +2,7 @@
 author: khokamp
 cover:
   alt: BOSC2023-crowded-room-Bastian - 1 (1)
-  image: /wp-content/uploads/2023/08/BOSC2023-crowded-room-Bastian-1-1.png
+  image: /obf-hugo-test/wp-content/uploads/2023/08/BOSC2023-crowded-room-Bastian-1-1.png
 date: "2024-01-24T16:09:52+00:00"
 guid: https://www.open-bio.org/?page_id=7623
 title: Submit to BOSC 2025
@@ -23,9 +23,9 @@ The second day of BOSC will be a joint session with the newly renamed Bio-Ontolo
 
 Please see below for submission instructions.
 
-![Poster from BOSC 2022](/wp-content/uploads/2022/11/Festus-Nyastimi-poster-BOSC2022.png)
+![Poster from BOSC 2022](/obf-hugo-test/wp-content/uploads/2022/11/Festus-Nyastimi-poster-BOSC2022.png)
 
-![Photo of some speakers at BOSC 2024](/wp-content/uploads/2024/08/speakers-in-Standards-and-frameworks-for-open-science-session-1.jpeg)
+![Photo of some speakers at BOSC 2024](/obf-hugo-test/wp-content/uploads/2024/08/speakers-in-Standards-and-frameworks-for-open-science-session-1.jpeg)
 
 ### Key Dates
 
@@ -88,10 +88,10 @@ In addition to the requirements listed at left, we consider the following when s
 - If you want to be considered for a talk, you also MUST submit a 1-2 page "long abstract" as a PDF. (Yes, we did suggest to ISMB that calling both of these things "abstracts" was confusing.)
 - If you submit for a talk but your abstract is not chosen for a talk, it will automatically be considered for a poster.
 - New ISMB rule this year: a presenting author may present NO MORE THAN ONE talk or poster. If you want your work to be presented as both a talk and a poster, a different presenting author needs to submit for a poster.
-- Abstract template (optional): [bosc-abstract-template](/wp-content/uploads/2022/04/bosc2022-abstract-template.docx) (MS Word)
+- Abstract template (optional): [bosc-abstract-template](/obf-hugo-test/wp-content/uploads/2022/04/bosc2022-abstract-template.docx) (MS Word)
 - You don't need to register before you submit your abstract, but to present your talk or poster you will need to register for ISMB.
 
-![](/wp-content/uploads/2022/01/Screen-Shot-2022-01-19-at-3.59.31-PM.png)
+![](/obf-hugo-test/wp-content/uploads/2022/01/Screen-Shot-2022-01-19-at-3.59.31-PM.png)
 
 Watch a video of [BOSC organizing committee member Jason Williams discussing how to write a great BOSC abstract](https://youtu.be/DwJRrh1Tpew)!  
 
@@ -99,7 +99,7 @@ Watch a video of [BOSC organizing committee member Jason Williams discussing how
 
 # BOSC Open Content Requirement
 
-The [Open Bioinformatics Foundation](/wiki/OBF), which coordinates BOSC, is dedicated to promoting the practice and philosophy of Open Source Software Development and Open Science within the biological research community.
+The [Open Bioinformatics Foundation](/obf-hugo-test/wiki/OBF), which coordinates BOSC, is dedicated to promoting the practice and philosophy of Open Source Software Development and Open Science within the biological research community.
 
 For this reason, if a submitted abstract concerns a specific software system for use by the research community, then that software must include a recognized Open Source License or Public Domain dedication, and be available for download, including source code. We recommend Open Source Initiative (OSI) Approved Licenses where appropriate.  
 Similarly, abstracts with a focus on data, analysis methods, and/or documentation must make these available in a manner consistent with Open Science standards, utilizing appropriate licensing and approaches that promote open sharing, reuse, and redistribution.
@@ -124,6 +124,6 @@ Abstracts submitted to BOSC are reviewed by at least three reviewers. Our review
 
 ### Requesting registration fee assistance
 
-We realize that the cost of ISMB may be prohibitive for some. If you are submitting an abstract to BOSC and would have difficulty covering the cost of registration, you can request registration fee assistance. To make it easy, this request can be made right on the abstract submission form. (Only the conference chairs will see these fee assistance requests -- the abstract reviewers will not.) Last year, thanks to help from our [sponsors](/events/bosc-2024-sponsors/), we were able to grant free registration to 15 participants.
+We realize that the cost of ISMB may be prohibitive for some. If you are submitting an abstract to BOSC and would have difficulty covering the cost of registration, you can request registration fee assistance. To make it easy, this request can be made right on the abstract submission form. (Only the conference chairs will see these fee assistance requests -- the abstract reviewers will not.) Last year, thanks to help from our [sponsors](/obf-hugo-test/events/bosc-2024-sponsors/), we were able to grant free registration to 15 participants.
 
 [Submit Abstract]( https://easychair.org/conferences/?conf=ismbeccb2025)

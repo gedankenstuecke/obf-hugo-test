@@ -29,11 +29,11 @@ We are pleased to announce that abstract submission and early registration for 
 
 **Dates**: June 25-30, 2018
 **Location**: Reed College, Portland, OR
-**GCCBOSC website**: [https://gccbosc2018.sched.com/](https://gccbosc2018.sched.com/) **BOSC website:** [/wiki/BOSC\_2018](/wiki/BOSC_2018) **Email BOSC organizers** [bosc@open-bio.org](mailto:bosc@open-bio.org) **BOSC announcements mailing list**: [http://lists.open-bio.org/mailman/listinfo/bosc-announce](http://lists.open-bio.org/mailman/listinfo/bosc-announce) **Twitter**: [@OBF\_BOSC](https://twitter.com/OBF_BOSC), [#GCCBOSC](https://twitter.com/search?q=%23GCCBOSC)
+**GCCBOSC website**: [https://gccbosc2018.sched.com/](https://gccbosc2018.sched.com/) **BOSC website:** [/wiki/BOSC\_2018](/obf-hugo-test/wiki/BOSC_2018) **Email BOSC organizers** [bosc@open-bio.org](mailto:bosc@open-bio.org) **BOSC announcements mailing list**: [http://lists.open-bio.org/mailman/listinfo/bosc-announce](http://lists.open-bio.org/mailman/listinfo/bosc-announce) **Twitter**: [@OBF\_BOSC](https://twitter.com/OBF_BOSC), [#GCCBOSC](https://twitter.com/search?q=%23GCCBOSC)
 
 # Important Dates
 
-- **[Abstract submission](/wiki/BOSC_Abstract_Submission) deadline: March 16, 2018**
+- **[Abstract submission](/obf-hugo-test/wiki/BOSC_Abstract_Submission) deadline: March 16, 2018**
 - Authors notified: April 10, 2018
 - [Travel fellowship](https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md) application deadline: April 15, 2017
 - GCCBOSC 2018 Training: June 25-26, 2018
@@ -54,7 +54,7 @@ As always, BOSC 2018 will include two days of talks and posters, two [keynote s
 
 # Abstract submission
 
-We encourage you to submit one-page abstracts (due March 16) on any topic relevant to open source bioinformatics or open science. After review, some abstracts will be selected for lightning talks, longer talks, demos and/or posters. Abstract submission instructions and a link to the EasyChair submission portal can be found on [/wiki/BOSC\_Abstract\_Submission](/wiki/BOSC_Abstract_Submission) **BOSC session topics include** (but are not limited to):
+We encourage you to submit one-page abstracts (due March 16) on any topic relevant to open source bioinformatics or open science. After review, some abstracts will be selected for lightning talks, longer talks, demos and/or posters. Abstract submission instructions and a link to the EasyChair submission portal can be found on [/wiki/BOSC\_Abstract\_Submission](/obf-hugo-test/wiki/BOSC_Abstract_Submission) **BOSC session topics include** (but are not limited to):
 
 - Open Science and Reproducible Research
 - Open Biomedical Data
@@ -73,4 +73,4 @@ Sincerely,
 
 BOSC 2018 Organizing Committee: Nomi Harris (chair), Heather Wiencko (co-chair), Brad Chapman (co-chair), Peter Cock, Christopher Fields, Bastian Greshake, Karsten Hokamp, Hilmar Lapp, Monica Munoz-Torres
 
-P.S. Don't forget to submit your BOSC abstract by March 16 at [/wiki/BOSC\_Abstract\_Submission](/wiki/BOSC_Abstract_Submission)! Please share this announcement with your colleagues!
+P.S. Don't forget to submit your BOSC abstract by March 16 at [/wiki/BOSC\_Abstract\_Submission](/obf-hugo-test/wiki/BOSC_Abstract_Submission)! Please share this announcement with your colleagues!

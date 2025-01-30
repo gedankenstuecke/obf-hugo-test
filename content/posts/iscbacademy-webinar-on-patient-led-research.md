@@ -5,7 +5,7 @@ category:
   - events
 cover:
   alt: Hannah_Wei_Profile
-  image: /wp-content/uploads/2023/02/Hannah_Wei_Profile.jpg
+  image: /obf-hugo-test/wp-content/uploads/2023/02/Hannah_Wei_Profile.jpg
 date: "2023-03-07T10:53:00+00:00"
 guid: https://www.open-bio.org/?p=6850
 tag:
@@ -24,7 +24,7 @@ Topic: Re-Thinking the Patient's Role in a Learning Health System: Lessons from 
 
 > The ISCB, which runs the annual ISMB conference, is offering a series of [ISCBacademy webinars](https://www.iscb.org/iscbacademy) hosted by the Communities of Special Interest (COSIs), which include BOSC/OBF. These webinars are now open to the public; you'll just need to create an ISCB Nucleus account to [register for the webinar](https://iscb.junolive.co/Nucleus/live/mainstage/iscbacademycosi79).
 
-![Photo of Hannah Wei](/wp-content/uploads/2023/02/Hannah_Wei_Profile.jpg)
+![Photo of Hannah Wei](/obf-hugo-test/wp-content/uploads/2023/02/Hannah_Wei_Profile.jpg)
 
 So often, a patient’s role in research has been limited to the donor of data and receiver of care, limiting the possibilities in between for participatory methodologies and open science collaboration.
 

@@ -12,9 +12,9 @@ url: /2011/11/08/minutes2011-confcall/
 
 1. Old business
 
-   - [2010 BoD meeting minutes](/wiki/Minutes:2010_ConfCall)
+   - [2010 BoD meeting minutes](/obf-hugo-test/wiki/Minutes:2010_ConfCall)
 
-   - [2010 Financial Report](/wiki/Minutes:2010_Financial_report)
+   - [2010 Financial Report](/obf-hugo-test/wiki/Minutes:2010_Financial_report)
 1. Action items from the 2010 meeting
 1. New business
    1. BOSC
@@ -25,7 +25,7 @@ url: /2011/11/08/minutes2011-confcall/
         - Plans for the conference
    1. Google Summer of Code
       - Org admin's summary report (Rob Buels)
-   1. Treasurer's 2011 report: [File:2011-OBF-Treasurers-Report v1.pdf](/wiki/File:2011-OBF-Treasurers-Report_v1.pdf) (Chris Dagdigian)
+   1. Treasurer's 2011 report: [File:2011-OBF-Treasurers-Report v1.pdf](/obf-hugo-test/wiki/File:2011-OBF-Treasurers-Report_v1.pdf) (Chris Dagdigian)
    1. BoD membership and succession.
       - Nominations: Peter Cock
       - Plan to elect new BoD members and rotate officers.
@@ -131,7 +131,7 @@ Adjourned at 1.03pm. Board elections could not be held as planned due to loss of
 Prepared by Rob Buels, who served as organization administrator for the OBF.
 
 > We had 6 students this year, the same number as last year. I had hoped we might grow the program somewhat over last year's numbers, but the number and quality of applications turned out approximately the same. However, the solicitations for student applications went out quite a bit later this year than last year. I think us having a similar applicant pool despite the late solicitations may point to there being a latent potential to grow the program next year, if I make sure to be more on top of the schedule, which I intend to do.  
-As for this year's 6 students, they were quite a good group. Pasted from the [OBF GSoC page](/wiki/Google_Summer_of_Code), the 6 student projects were:
+As for this year's 6 students, they were quite a good group. Pasted from the [OBF GSoC page](/obf-hugo-test/wiki/Google_Summer_of_Code), the 6 student projects were:
 >
 > BioPython  
 
@@ -152,6 +152,6 @@ Mikael Eric Trellet, mentored by João Rodrigues and Eric Talevich: Interface an
 >
 > Happily, all of the students accomplished their project objectives and were eligible for full stipend payments from Google. This is a bit better than last year, when we had one student who failed to complete the program.
 >
-> I myself only have direct experience with the BioPerl project, which I also mentored, but all of the projects turned their evaluations in on time, and all of them also satisfactorily maintained frequently-updated progress report pages (which are [linked from the OBF wiki](/wiki/Google_Summer_of_Code)).
+> I myself only have direct experience with the BioPerl project, which I also mentored, but all of the projects turned their evaluations in on time, and all of them also satisfactorily maintained frequently-updated progress report pages (which are [linked from the OBF wiki](/obf-hugo-test/wiki/Google_Summer_of_Code)).
 >
 > Based on conversations I had with other organization administrators at the Google Summer of Code Mentor Summit (a GSoC unconference held a couple of weeks ago at the Google headquarters in California), the OBF is very fortunate in having a very GSoC-ready pool of project members on which to draw. That is, since most participants in OBF projects come from academia, they are already quite familiar with the process of mentoring students to complete projects, and generally need relatively little prompting to keep their students on track.This contrasts with the stories I heard from other organization administrators at the mentor summit: apparently, many other organizations have considerably more difficulties with mentors and students failing to complete projects, turning evaluations in late or failing to turn them in at all, and so forth. This makes me feel quite optimistic for the continued success of the GSoC students mentored by OBF organizations.

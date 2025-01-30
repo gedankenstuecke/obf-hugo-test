@@ -10,17 +10,17 @@ title: 'Zehra Köksal: My unforgettable experience presenting accessible softwar
 url: /2024/09/26/zehra-koksal-isfg-experience/
 
 ---
-_The_ [_Open Bioinformatics Foundation (OBF) Event Fellowship program_](/travel-awards) _aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community. Zehra Köksal, a Research assistant at_ _the University Of Copenhagen_ _and Karolinska Institute was awarded an OBF Event Fellowship to attend_ _the [30th Congress of the International Society for Forensic Genetics](https://isfg2024.com/)_.
+_The_ [_Open Bioinformatics Foundation (OBF) Event Fellowship program_](/obf-hugo-test/travel-awards) _aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community. Zehra Köksal, a Research assistant at_ _the University Of Copenhagen_ _and Karolinska Institute was awarded an OBF Event Fellowship to attend_ _the [30th Congress of the International Society for Forensic Genetics](https://isfg2024.com/)_.
 
 In September 2024, the Open Bioinformatics Foundation enabled me to attend the biennial conference for Forensic Geneticists from the biggest forensic genetics society worldwide – the International Society of Forensic Genetics (ISFG) - that took place in Santiago de Compostela in beautiful Spain.
 
-![](/wp-content/uploads/2024/09/image-2.png)
+![](/obf-hugo-test/wp-content/uploads/2024/09/image-2.png)
 
 _River in Ribadeo, Ría de Ribadeo o del Eo, separating Galicia and Asturias._
 
 To appreciate the beauty of Spain prior to the conference, I embarked on a journey along the northern coast of Spain from Cantabria over Asturias and finally to Galicia, where the pilgrimage town Santiago de Compostela is located. My first lesson from this journey was that the north of Spain is not called “Green Spain” for no reason.
 
-![](/wp-content/uploads/2024/09/image-3.png)
+![](/obf-hugo-test/wp-content/uploads/2024/09/image-3.png)
 
 _Cathedral in Santiago de Compostela._
 
@@ -40,13 +40,13 @@ The scientific program was extremely stimulating, with great key notes and prese
 
 **#4 My talk**
 
-![](/wp-content/uploads/2024/09/image.png)
+![](/obf-hugo-test/wp-content/uploads/2024/09/image.png)
 
 _Starting my presentation on our software PhyloImpute._
 
 This leads me to presenting my work in a 10-minute talk in front of 1000 experts. In my talk “PHYLOIMPUTE – Impute missing data on non-recombining DNA using SNP phylogeny” I presented a new software I was working on over the last months for imputing missing SNP data. The main goals of my talk were to convey the need for my tool and its algorithm in a simple and entertaining way with interesting storytelling and visual aids. Further, I wanted to make my tool accessible to people with different degrees of experience and interest in programming. Thus, I provided both a command-line tool (available via [https://github.com/ZehraKoksal/PhyloImpute](https://github.com/ZehraKoksal/PhyloImpute)) and a graphical user interface (available via [https://zehrakoksal.com/Y\_software.html](https://zehrakoksal.com/Y_software.html)). With accessibility being a major goal, I had also made a video tutorial that I uploaded on my new webpage. Since one rarely gets an audience that big, I used this opportunity well and received great interest after my talk. Although nerve-wracking beforehand, presenting my work in front of so many experts was also a very calming and extremely rewarding experience that I will not forget so easily.
 
-![](/wp-content/uploads/2024/09/image-1.png)
+![](/obf-hugo-test/wp-content/uploads/2024/09/image-1.png)
 
 _Concluding my presentation on our software PhyloImpute._
 

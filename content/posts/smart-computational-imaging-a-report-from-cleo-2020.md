@@ -5,7 +5,7 @@ category:
   - travel-fellowship
 cover:
   alt: pengfei
-  image: /wp-content/uploads/2020/08/pengfei.png
+  image: /obf-hugo-test/wp-content/uploads/2020/08/pengfei.png
 date: "2020-08-25T12:23:51+00:00"
 guid: https://www.open-bio.org/?p=4900
 tag:
@@ -15,13 +15,13 @@ title: 'Smart computational imaging: a report from CLEO 2020'
 url: /2020/08/25/cleo2020-pengfei-fan/
 
 ---
-_The [Open Bioinformatics Foundation (OBF)](https://www.open-bio.org) Event Fellowship program aims to promote diverse participation at events promoting open source bioinformatics software development and open science practices in the biological research community. Pengfei Fan, a researcher from Queen Mary University of London, was supported to participate in [CLEO 2020](https://www.cleoconference.org/) by this fellowship granted to him in the application round-1 of 2020. Find more information [here.](/travel-awards/)_
+_The [Open Bioinformatics Foundation (OBF)](https://www.open-bio.org) Event Fellowship program aims to promote diverse participation at events promoting open source bioinformatics software development and open science practices in the biological research community. Pengfei Fan, a researcher from Queen Mary University of London, was supported to participate in [CLEO 2020](https://www.cleoconference.org/) by this fellowship granted to him in the application round-1 of 2020. Find more information [here.](/obf-hugo-test/travel-awards/)_
 
 During the last two decades, we are witnessing a fascinating growth of computational imaging (CI) methods, e.g. tomography, compressive sensing and 3D/super-resolved/lensless microscopy, and artificial intelligence (AI) algorithms, mainly machine learning and deep learning, both from the theoretical (mathematical) and practical (experimental) point of view. New computational capabilities in terms of, e.g., big data, large scale optimisation, neural networks and highly parallel computing, are facilitating further improvements in numerically enhanced imaging surpassing the limitations imposed by 'classical' all-optical information processing systems. It is joyful to observe how CI and AI merge to innovatively address challenging tasks fuelled by wide-spreading applications in 3D imaging, biomedicine, microscopy and general physics of light propagation in scattering media, to name just a few. When designing a computational imaging technique, one needs to originally link the applicable data acquisition scheme with the capable image reconstruction algorithm, often aided by learning-based frameworks employed not only for image classification and interpretation but also for image formation and final outcome restoration. As the AI stimulatory development continues to flourish, open-source tools and software, especially deep learning framework and platform, have become a key ingredient of modern science. Hundreds of software packages, libraries, and applications have become essential tools.
 
 We count on open-source software and tools in almost every research project, and it is also our responsibility to maintain and develop them. I have been engaging in a research project on deep learning for optical imaging and sensing, and our group at Queen Mary University of London are developing a robust ultrathin multimode fibre based endoscope. Progress in bioinformatics relies on new techniques for investigating the complex dynamics of biological systems. This research theme will develop the crucial role for Data Science and Artificial Intelligence in answering many fundamental questions in genomics and biology regarding the structure and function of genomes, the molecular interplay within cells and organs, the role, shape and functions of proteins as well as advancing imaging techniques.
 
-![](/wp/wp-content/uploads/2020/08/pengfei-1024x684.png)_An All-virtual Presentation of CLEO 2020 Technical Conference_ (Screenshot from the event, shared with permission)
+![](/obf-hugo-test/wp/wp-content/uploads/2020/08/pengfei-1024x684.png)_An All-virtual Presentation of CLEO 2020 Technical Conference_ (Screenshot from the event, shared with permission)
 
 CLEO is the world's premier international forum to learn about innovative advances, research and new technologies from the optical science industry. Biomedical imaging and sensing is always an essential part of CLEO every year. The  [CLEO 2020](https://www.cleoconference.org/) Technical Conference was held as scheduled in a first-ever, all-virtual format. The conference reached almost 20,000 registrants from 75 countries. By the end of the conference, 33,322 minutes of programming was presented. 248 Technical, Poster and Dynamic ePoster Sessions equated to more than 2,000 scientific presentations — all delivered in a combination of live and pre-recorded sessions and demonstrating a wide breadth of advancements and discoveries. The session recordings are now available on the conference website for individuals who registered for CLEO.
 

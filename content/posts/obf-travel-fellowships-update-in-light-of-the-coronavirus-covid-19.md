@@ -15,7 +15,7 @@ url: "/2020/03/13/obf-travel-fellowships-update-in-light-of-the-coronavirus-covi
 ---
 In light of the current outbreak, we urge everyone to avoid travelling if possible, in order to slow the rate at which the virus spreads to vulnerable people. You may have read that the [BCC (BOSC+Galaxy) committee is delaying registration whilst considering the best options](https://bcc2020.github.io/blog/postponement).  
 
-With the next [travel fellowship deadline](/travel-awards/) approaching on April 1st, we are issuing slightly different advice regarding the types of applications we’d like to see, compared to previous years.
+With the next [travel fellowship deadline](/obf-hugo-test/travel-awards/) approaching on April 1st, we are issuing slightly different advice regarding the types of applications we’d like to see, compared to previous years.
 
 ## Let’s go remote
 

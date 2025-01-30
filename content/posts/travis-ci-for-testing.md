@@ -30,4 +30,4 @@ However, Travis-CI are working on a new feature - [automatic testing of pull req
 
 What this means is that when a contributor has some code ready for integration, they can issue a [GitHub pull request](https://help.github.com/articles/using-pull-requests/), and then Travis-CI will automatically run the unit tests with those proposed changes. This is something that currently the core-developers would normally do manually as part of evaluating proposed changes, so having this happen automatically should be a big help.
 
-We're excited about making more use of Travis-CI for other [OBF projects](/wiki/Projects). Thus far we've been really impressed with Travis-CI.
+We're excited about making more use of Travis-CI for other [OBF projects](/obf-hugo-test/wiki/Projects). Thus far we've been really impressed with Travis-CI.

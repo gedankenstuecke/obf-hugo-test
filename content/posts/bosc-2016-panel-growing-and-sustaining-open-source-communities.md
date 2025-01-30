@@ -9,7 +9,7 @@ title: 'BOSC 2016 Panel: Growing and Sustaining Open Source Communities'
 url: /2016/05/27/bosc-2016-panel-growing-and-sustaining-open-source-communities/
 
 ---
-Every year, [BOSC](/wiki/BOSC_2016) includes a panel discussion that offers attendees the chance to engage in conversation with the panelists and each other. BOSC is all about community, so this year's panel topic-- [Growing and Sustaining Open Source Communities](/wiki/BOSC_2016_Panel)--is right at the heart of what we do. Since the first BOSC in 2000, we have focused on bringing together open source bioinformatics developers and users to form and expand collaborations and grow the communities that use and improve their tools and resources.
+Every year, [BOSC](/obf-hugo-test/wiki/BOSC_2016) includes a panel discussion that offers attendees the chance to engage in conversation with the panelists and each other. BOSC is all about community, so this year's panel topic-- [Growing and Sustaining Open Source Communities](/obf-hugo-test/wiki/BOSC_2016_Panel)--is right at the heart of what we do. Since the first BOSC in 2000, we have focused on bringing together open source bioinformatics developers and users to form and expand collaborations and grow the communities that use and improve their tools and resources.
 
 Community projects have resulted in some of the most popular bioinformatics resources. However, there are many challenges that may be encountered as a community effort develops and evolves. For example:
 
@@ -19,7 +19,7 @@ Community projects have resulted in some of the most popular bioinformatics reso
 - What technologies have helped open source communities coordinate efficient communication and planning across multiple locations?
 - What organizational models have some of these communities followed?
 
-[This panel](/wiki/BOSC_2016_Panel) brings together six people (five panelists plus a moderator) who have worked to sustain open source communities. They will join audience members in an open dialog about challenges encountered during the life cycle of these communities and approaches to addressing them.
+[This panel](/obf-hugo-test/wiki/BOSC_2016_Panel) brings together six people (five panelists plus a moderator) who have worked to sustain open source communities. They will join audience members in an open dialog about challenges encountered during the life cycle of these communities and approaches to addressing them.
 
 Panel chair **Mónica Muñoz-Torres** is the biocuration lead for Berkeley Bioinformatics Open-Source Projects (BBOP) at [Lawrence Berkeley National Laboratory](http://www.lbl.gov).
 
@@ -33,4 +33,4 @@ Panel chair **Mónica Muñoz-Torres** is the biocuration lead for Berkeley Bio
 
 **Natasha Wood** of the University of Cape Town is the co-founder of the [Cape Unseminars in Bioinformatics](https://thecubhub.wordpress.com/).
 
-Please see [/wiki/BOSC\_2016\_Panel](/wiki/BOSC_2016_Panel) for more information about the panelists.
+Please see [/wiki/BOSC\_2016\_Panel](/obf-hugo-test/wiki/BOSC_2016_Panel) for more information about the panelists.

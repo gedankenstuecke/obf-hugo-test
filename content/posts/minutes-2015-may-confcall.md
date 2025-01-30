@@ -14,7 +14,7 @@ url: /2015/05/12/minutes2015-may-confcall/
 Dial-in Information: +1-857-216-2939 PIN: 62534 [http://www.uberconference.com/hlapp](http://www.uberconference.com/hlapp)
 
 1. Old business
-   - [Nov 2014 BoD meeting minutes](/wiki/Minutes:2014_Nov_ConfCall)
+   - [Nov 2014 BoD meeting minutes](/obf-hugo-test/wiki/Minutes:2014_Nov_ConfCall)
 1. New business
    1. Term expirations and Elections for the Board
    1. BOSC 2015: update from the 2015 chairs (Nomi, Peter)
@@ -34,7 +34,7 @@ Etherpad for notes: [https://etherpad.mozilla.org/OBF-BoD-Meeting-May2015](http
 UTC/GMT 17:05- Hilmar called the meeting to order.
 
 1. **Old business**
-   - Unanimous approval of [minutes from Public Board meeting of Nov 2014](/wiki/Minutes:2014_Nov_ConfCall).
+   - Unanimous approval of [minutes from Public Board meeting of Nov 2014](/obf-hugo-test/wiki/Minutes:2014_Nov_ConfCall).
    - Future public meeting will have to present the financial report 2014 (with amendment to 2013 report for late BOSC reimbursement).
 1. **Elections for the board.**
    - One candidate, Karen Cranston.

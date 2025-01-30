@@ -11,7 +11,7 @@ url: /2012/09/11/minutes2012-sep-confcall/
 ### Agenda
 
 1. Old business
-   - [2011 December BoD meeting minutes](/wiki/Minutes:2011_Dec_ConfCall)
+   - [2011 December BoD meeting minutes](/obf-hugo-test/wiki/Minutes:2011_Dec_ConfCall)
 1. New business
    1. Approval of [changes to O\|B\|F Bylaws](https://github.com/OBF/obf-docs/pull/8)
 
@@ -30,7 +30,7 @@ Hilmar called meeting to order at 11:38am EDT.
 
 #### Old business:
 
-- Hilmar moves to approve [Dec 11 meeting minutes](/wiki/Minutes:2011_Dec_ConfCall). Motion approved with unanimous consent.
+- Hilmar moves to approve [Dec 11 meeting minutes](/obf-hugo-test/wiki/Minutes:2011_Dec_ConfCall). Motion approved with unanimous consent.
 
 #### New business:
 

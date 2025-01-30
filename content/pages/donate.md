@@ -10,7 +10,7 @@ url: /donate/
 
 ### Sponsorship opportunities
 
-Our annual meetings, [BOSC](/events/bosc/) and the [CollaborationFest](/events/bosc/collaborationfest/), are supported in part by sponsorships. Please see the [Sponsors](/events/bosc/sponsors/) page for more information.
+Our annual meetings, [BOSC](/obf-hugo-test/events/bosc/) and the [CollaborationFest](/obf-hugo-test/events/bosc/collaborationfest/), are supported in part by sponsorships. Please see the [Sponsors](/obf-hugo-test/events/bosc/sponsors/) page for more information.
 
 ### Tax-free donations
 

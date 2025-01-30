@@ -18,11 +18,11 @@ title: BOSC 2016 Keynote Speakers
 url: /2016/03/22/bosc-2016-keynote-speakers/
 
 ---
-We're delighted to announce the keynote speakers for the [Bioinformatics Open Source Conference, BOSC 2016](/wiki/BOSC_2016):
+We're delighted to announce the keynote speakers for the [Bioinformatics Open Source Conference, BOSC 2016](/obf-hugo-test/wiki/BOSC_2016):
 
 # Jennifer Gardy
 
-[![Jennifer Gardy](/w/images/thumb/0/04/JenniferGardy.jpg/240px-JenniferGardy.jpg)](/wiki/File:JenniferGardy.jpg "Jennifer Gardy")
+[![Jennifer Gardy](/obf-hugo-test/w/images/thumb/0/04/JenniferGardy.jpg/240px-JenniferGardy.jpg)](/obf-hugo-test/wiki/File:JenniferGardy.jpg "Jennifer Gardy")
 
 Dr. Jennifer Gardy is both a scientist and science communicator. She holds a PhD in Bioinformatics, and is an Assistant Professor of Population and Public Health at the University of British Columbia and a Senior Scientist at the British Columbia Centre for Disease Control (BCCDC). At the BCCDC, she pioneered a new way of investigating outbreaks of infectious diseases – "genomic epidemiology", which uses a pathogen's genome sequence as a tool for understanding how an infectious disease spreads. Her group was the first to use genome sequencing to reconstruct a large outbreak of tuberculosis, and she is continuing to apply this novel technique to other outbreak scenarios. She is also involved in other genomics-related research, including replacing traditional laboratory microbiology protocols with single genomic analyses. In 2014, she was appointed the Canada Research Chair in Public Health Genomics, and is Senior Editor at the new open data, open access journal Microbial Genomics.
 
@@ -38,7 +38,7 @@ Homepage: [Jennifer Gardy](http://www.jennifergardy.com), Twitter: [@JenniferGar
 
 # Steven Salzberg
 
-[![Steven Salzberg](/w/images/thumb/3/3b/StevenSalzberg.jpg/210px-StevenSalzberg.jpg)](/wiki/File:StevenSalzberg.jpg "Steven Salzberg")
+[![Steven Salzberg](/obf-hugo-test/w/images/thumb/3/3b/StevenSalzberg.jpg/210px-StevenSalzberg.jpg)](/obf-hugo-test/wiki/File:StevenSalzberg.jpg "Steven Salzberg")
 
 Dr. Steven Salzberg is the Bloomberg Distinguished Professor of Biomedical Engineering, Computer Science, and Biostatistics and the Director of the Center for Computational Biology in the McKusick-Nathans Institute of Genetic Medicine at Johns Hopkins University. From 2005-2011, he was the Director of the Center for Bioinformatics and Computational Biology and the Horvitz Professor of Computer Science at the University of Maryland, College Park. From 1997-2005 he was Senior Director of Bioinformatics at The Institute for Genomic Research (TIGR) in Rockville, Maryland, one of the world's leading DNA sequencing centers at the time.
 
@@ -54,4 +54,4 @@ Homepage: [Steven Salzberg](https://salzberg-lab.org/), Twitter: [@StevenSalzber
 
 * * *
 
-The [BOSC 2016 call for abstracts is currently open](/2016/03/01/bosc-2016-call-for-abstracts/), and [BOSC/ISMB 2016 registration](https://www.iscb.org/ismb2016-registration) will open next week. We hope to see you in Florida!
+The [BOSC 2016 call for abstracts is currently open](/obf-hugo-test/2016/03/01/bosc-2016-call-for-abstracts/), and [BOSC/ISMB 2016 registration](https://www.iscb.org/ismb2016-registration) will open next week. We hope to see you in Florida!

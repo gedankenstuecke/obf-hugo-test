@@ -6,7 +6,7 @@ category:
   - uncategorized
 cover:
   alt: bosc-2021-org-committee
-  image: /wp-content/uploads/2021/01/bosc-2021-org-committee-1.jpg
+  image: /obf-hugo-test/wp-content/uploads/2021/01/bosc-2021-org-committee-1.jpg
 date: "2021-02-12T06:22:49+00:00"
 guid: https://www.open-bio.org/?p=5271
 tag:
@@ -22,6 +22,6 @@ BOSC is returning to ISMB in 2021, after a successful partnership with Galaxy fo
 
 ### Requesting registration fee assistance
 
-We realize that the cost of ISMB/ECCB may be prohibitive for some. If you are [submitting an abstract to BOSC](/events/bosc-2021/submit/) and would have difficulty covering the cost of registration, you can request registration fee assistance. To make it easy, this request can be made right on the abstract submission form. (Only the conference chairs will see these fee assistance requests -- the abstract reviewers will not.) We regret that we will not be able to offer registration fee assistance for those who are not submitting abstracts. (But you should consider submitting an abstract! Even if your work is preliminary, it may qualify for a poster.)
+We realize that the cost of ISMB/ECCB may be prohibitive for some. If you are [submitting an abstract to BOSC](/obf-hugo-test/events/bosc-2021/submit/) and would have difficulty covering the cost of registration, you can request registration fee assistance. To make it easy, this request can be made right on the abstract submission form. (Only the conference chairs will see these fee assistance requests -- the abstract reviewers will not.) We regret that we will not be able to offer registration fee assistance for those who are not submitting abstracts. (But you should consider submitting an abstract! Even if your work is preliminary, it may qualify for a poster.)
 
 We hope to see you online at BOSC 2021!

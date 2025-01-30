@@ -5,7 +5,7 @@ category:
   - event-fellowship
 cover:
   alt: Beatrice Mihalache with BOSC poster
-  image: /wp-content/uploads/2024/08/Beatrice-Mihalache-with-BOSC-poster.jpg
+  image: /obf-hugo-test/wp-content/uploads/2024/08/Beatrice-Mihalache-with-BOSC-poster.jpg
 date: "2024-08-02T18:00:06+00:00"
 guid: https://www.open-bio.org/?p=8033
 title: My Amazing BOSC 2024 Experience

@@ -7,7 +7,7 @@ category:
   - website
 cover:
   alt: New OBF logo
-  image: /wp-content/uploads/2018/08/OBF-2018.png
+  image: /obf-hugo-test/wp-content/uploads/2018/08/OBF-2018.png
 date: "2018-11-05T22:00:53+00:00"
 guid: https://news.open-bio.org/?p=2084
 tag:
@@ -24,4 +24,4 @@ We have successfully crowd-sourced a new OBF logo! The process started at the [O
 
 The OBF is delighted that community members responded to our request for new logo designs with creativity and focus--attributes that are valuable in the open source community.
 
-If you're interested in joining the OBF and getting on our (low-traffic) mailing list, please fill out a membership application [here](/wiki/Membership)!
+If you're interested in joining the OBF and getting on our (low-traffic) mailing list, please fill out a membership application [here](/obf-hugo-test/wiki/Membership)!

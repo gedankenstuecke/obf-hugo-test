@@ -14,4 +14,4 @@ O\|B\|F Board of Director meetings are public - anyone interested in O\|B\|F bus
 
 All you need to participate is a telephone (this is a US toll number, and if you are located international or outside of the area code, pertinent charges from your phone carrier will apply). Or use SkypeOut, which costs a few cents per minute from many locations (check SkypeOut rates).
 
-The [agenda for the meeting](/wiki/Minutes:2009_ConfCall) is on the OBF wiki (and minutes will be posted there later).
+The [agenda for the meeting](/obf-hugo-test/wiki/Minutes:2009_ConfCall) is on the OBF wiki (and minutes will be posted there later).

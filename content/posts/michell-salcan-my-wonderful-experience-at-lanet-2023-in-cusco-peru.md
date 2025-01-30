@@ -4,7 +4,7 @@ category:
   - event-fellowship
 cover:
   alt: Shirley
-  image: /wp-content/uploads/2023/09/Shirley.png
+  image: /obf-hugo-test/wp-content/uploads/2023/09/Shirley.png
 date: "2023-09-16T08:28:55+00:00"
 guid: https://www.open-bio.org/?p=7317
 tag:
@@ -14,7 +14,7 @@ title: 'Michell Salcan: My Wonderful Experience at LANET 2023 in Cusco, Peru'
 url: /2023/09/16/my-wonderful-experience-at-lanet-2023/
 
 ---
-**_The_** [**_Open Bioinformatics Foundation (OBF) Event Fellowship program_**](/travel-awards) **_aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community. Michell Salcan,_** _**an undergraduate at**_ _**the Universidad Regional Amazonica Ikiami**_, **_was awarded an OBF Event Fellowship to atten_** d _**[The 3rd Latin American Conference on Complex Networks in Cusco, Peru](https://lanet2023.uandina.edu.pe/).**_
+**_The_** [**_Open Bioinformatics Foundation (OBF) Event Fellowship program_**](/obf-hugo-test/travel-awards) **_aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community. Michell Salcan,_** _**an undergraduate at**_ _**the Universidad Regional Amazonica Ikiami**_, **_was awarded an OBF Event Fellowship to atten_** d _**[The 3rd Latin American Conference on Complex Networks in Cusco, Peru](https://lanet2023.uandina.edu.pe/).**_
 
 The week of August 21 to 25 has been one of the most beautiful and satisfying experiences of my personal life and the beginning of my professional life because I had the opportunity to attend and present my undergraduate thesis at the LANET 2023 event.
 

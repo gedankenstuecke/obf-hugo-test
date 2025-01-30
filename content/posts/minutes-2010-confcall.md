@@ -11,7 +11,7 @@ url: /2010/10/05/minutes2010-confcall/
 ### Agenda
 
 1. Old business
-   - [2009 BoD meeting minutes](/wiki/Minutes:2009_ConfCall)
+   - [2009 BoD meeting minutes](/obf-hugo-test/wiki/Minutes:2009_ConfCall)
 1. New business
    1. BOSC
       - BOSC 2010 (Kam) - held with [ISMB2010](http://www.iscb.org/ismb2010) in Boston, MA, USA
@@ -20,7 +20,7 @@ url: /2010/10/05/minutes2010-confcall/
         - 2011 Organizing Committee chairs
         - Plans for the conference
    1. Treasurer's 2010 report (ChrisD)
-      - [2010 Financial report](/wiki/Minutes:2010_Financial_report)
+      - [2010 Financial report](/obf-hugo-test/wiki/Minutes:2010_Financial_report)
    1. BoD membership and succession.
       - Kam Dahlquist is resigning from the BoD. Jason Stajich wants to resign in the near future, too.
       - Nominations

@@ -4,7 +4,7 @@ category:
   - bosc/ismb
 cover:
   alt: pears-with-posters1
-  image: /wp-content/uploads/2024/02/pears-with-posters1.jpg
+  image: /obf-hugo-test/wp-content/uploads/2024/02/pears-with-posters1.jpg
 date: "2024-02-18T23:20:16+00:00"
 guid: https://www.open-bio.org/?p=7670
 tag:
@@ -14,9 +14,9 @@ title: Early Poster Acceptance Round 2024
 url: /2024/02/18/early-poster-acceptance-2024/
 
 ---
-Abstract submission for BOSC 2024 is now open! Since some people can’t get conference travel approval from their institution until they get confirmation that their abstract has been accepted for a presentation, we started offering **Early Poster Acceptance** last year, and we are continuing the experiment this year. If you [submit your abstract](/events/bosc-2024/submit/) by March 21, 2024, we will notify you by March 29 whether it has been accepted or not for (at least) a poster.
+Abstract submission for BOSC 2024 is now open! Since some people can’t get conference travel approval from their institution until they get confirmation that their abstract has been accepted for a presentation, we started offering **Early Poster Acceptance** last year, and we are continuing the experiment this year. If you [submit your abstract](/obf-hugo-test/events/bosc-2024/submit/) by March 21, 2024, we will notify you by March 29 whether it has been accepted or not for (at least) a poster.
 
-![](/wp-content/uploads/2024/02/pears-with-posters1.jpg)
+![](/obf-hugo-test/wp-content/uploads/2024/02/pears-with-posters1.jpg)
 
 When you submit your abstract, you can choose to apply for a poster, or to try for a talk. If you choose talk, then after the Early Poster Acceptance round your abstract will stay in the pool for the regular review round and you will find out on May 13 whether your abstract was chosen for a talk -- but you will still get early notification on March 29 that you got at least a poster slot!
 
@@ -31,7 +31,7 @@ May 13: Notification of talk (or poster) acceptance
 ### FAQ
 
 Q: How do I submit my abstract for the Early Poster Acceptance round?
-A: The same way all abstracts are submitted to BOSC: via the ISMB EasyChair submission portal. Please see [/events/bosc-2024/submit/](/events/bosc-2024/submit/) for instructions and submission link.
+A: The same way all abstracts are submitted to BOSC: via the ISMB EasyChair submission portal. Please see [/events/bosc-2024/submit/](/obf-hugo-test/events/bosc-2024/submit/) for instructions and submission link.
 
 Q: Can I submit in the Early Poster Acceptance round if I want to be considered for a talk?
 A: Yes, though you won’t get early notification about whether your abstract was chosen for a talk. All abstracts submitted early will be reviewed for possible talk acceptance in the regular review round, and you will be informed on May 13 whether you got a talk.
@@ -40,7 +40,7 @@ Q: Will I get a full review of my submission in the Early Poster Acceptance roun
 A: No, you will just get “accepted for poster” or “declined for poster”. However, your abstract will get a full review in the regular round, and the reviews will be sent to you on May 13.
 
 Q: What are the criteria for poster acceptance in the Early Poster Acceptance round?
-A: Please see [/events/bosc-2024/submit/](/events/bosc-2024/submit/) for the criteria, but note that early submissions will receive a streamlined review in the Early Poster Acceptance round. They will go through a full review in the regular round.
+A: Please see [/events/bosc-2024/submit/](/obf-hugo-test/events/bosc-2024/submit/) for the criteria, but note that early submissions will receive a streamlined review in the Early Poster Acceptance round. They will go through a full review in the regular round.
 
 Q: What are the possible outcomes in this Early Poster Acceptance round?
 A: 1. Accepted for poster (to be considered for talk in the regular round, if you requested a talk)

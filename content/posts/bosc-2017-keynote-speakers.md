@@ -15,7 +15,7 @@ title: BOSC 2017 keynote speakers
 url: /2017/04/13/bosc-2017-keynote-speakers/
 
 ---
-We’re delighted to announce the keynote speakers for the [Bioinformatics Open Source Conference, BOSC 2017](/wiki/BOSC_2017), and our first sponsors.
+We’re delighted to announce the keynote speakers for the [Bioinformatics Open Source Conference, BOSC 2017](/obf-hugo-test/wiki/BOSC_2017), and our first sponsors.
 
 But first a final reminder - today (Thursday 13 April 2017) is our deadline for submitting a full length talk abstract to BOSC 2017.
 

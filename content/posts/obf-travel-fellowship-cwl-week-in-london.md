@@ -9,7 +9,7 @@ category:
   - travel-fellowship
 date: "2017-04-05T19:01:00+00:00"
 guid: https://news.open-bio.org/?p=1585
-summary: _This is a guest blog post from Anton Khodak, who was supported by the ongoing [Open Bioinformatics Foundation travel fellowship program](https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md) to attend a week long [Common Workflow Language (CWL)](http://www.commonwl.org/) workshop in London, November 2016. This was a natural continuation of Anton's work on [porting tools to the CWL](https://anton-khodak.github.io/argparse2cwl-blog/2016/08/11/gentle-introduction.html) as one of the [OBF's Google Summer of Code 2016 students](/2016/04/25/welcome-gsoc-2016-students/)._ _The OBF's Travel Fellowship program continues to help open source bioinformatics software developers with funding to attend conferences or workshops. The current call closes 15 April 2017 - if you're planning to attend the OBF's annual [Bioinformatics Open Source Conference (BOSC) 2017 in Prague](https://www.open-bio.org/wiki/BOSC_2017), you might want to apply?_
+summary: _This is a guest blog post from Anton Khodak, who was supported by the ongoing [Open Bioinformatics Foundation travel fellowship program](https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md) to attend a week long [Common Workflow Language (CWL)](http://www.commonwl.org/) workshop in London, November 2016. This was a natural continuation of Anton's work on [porting tools to the CWL](https://anton-khodak.github.io/argparse2cwl-blog/2016/08/11/gentle-introduction.html) as one of the [OBF's Google Summer of Code 2016 students](/obf-hugo-test/2016/04/25/welcome-gsoc-2016-students/)._ _The OBF's Travel Fellowship program continues to help open source bioinformatics software developers with funding to attend conferences or workshops. The current call closes 15 April 2017 - if you're planning to attend the OBF's annual [Bioinformatics Open Source Conference (BOSC) 2017 in Prague](https://www.open-bio.org/wiki/BOSC_2017), you might want to apply?_
 tag:
   - codefest
   - community
@@ -20,7 +20,7 @@ title: OBF Travel Fellowship - CWL week in London
 url: /2017/04/05/obf-travel-fellowship-anton-khodak/
 
 ---
-_This is a guest blog post from Anton Khodak, who was supported by the ongoing [Open Bioinformatics Foundation travel fellowship program](https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md) to attend a week long [Common Workflow Language (CWL)](http://www.commonwl.org/) workshop in London, November 2016. This was a natural continuation of Anton's work on [porting tools to the CWL](https://anton-khodak.github.io/argparse2cwl-blog/2016/08/11/gentle-introduction.html) as one of the [OBF's Google Summer of Code 2016 students](/2016/04/25/welcome-gsoc-2016-students/)._ _The OBF's Travel Fellowship program continues to help open source bioinformatics software developers with funding to attend conferences or workshops. The current call closes 15 April 2017 - if you're planning to attend the OBF's annual [Bioinformatics Open Source Conference (BOSC) 2017 in Prague](/wiki/BOSC_2017), you might want to apply?_
+_This is a guest blog post from Anton Khodak, who was supported by the ongoing [Open Bioinformatics Foundation travel fellowship program](https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md) to attend a week long [Common Workflow Language (CWL)](http://www.commonwl.org/) workshop in London, November 2016. This was a natural continuation of Anton's work on [porting tools to the CWL](https://anton-khodak.github.io/argparse2cwl-blog/2016/08/11/gentle-introduction.html) as one of the [OBF's Google Summer of Code 2016 students](/obf-hugo-test/2016/04/25/welcome-gsoc-2016-students/)._ _The OBF's Travel Fellowship program continues to help open source bioinformatics software developers with funding to attend conferences or workshops. The current call closes 15 April 2017 - if you're planning to attend the OBF's annual [Bioinformatics Open Source Conference (BOSC) 2017 in Prague](/obf-hugo-test/wiki/BOSC_2017), you might want to apply?_
 
 # CWL week in London
 
@@ -38,6 +38,6 @@ Overall, it was a highly intensive and productive hackathon. I was very happy to
 
 P.S. A year after, I became a mentor on a CWL project myself! Check the idea here: [CWL reference implementation](https://obf.github.io/GSoC/ideas/#cwl-reference-implementation-cwltool).
 
-P.P.S. Special thanks to [Open Bioinformatics Foundation](/) for awarding me with the travel fellowship and reimbursing with that a significant part of my travel expenses.
+P.P.S. Special thanks to [Open Bioinformatics Foundation](/obf-hugo-test/) for awarding me with the travel fellowship and reimbursing with that a significant part of my travel expenses.
 
 _(Above post contributed by Anton Khodak, [originally on his blog](https://anton-khodak.github.io/argparse2cwl-blog/2017/03/17/cwl-hackathon.html), with our introduction added.)_

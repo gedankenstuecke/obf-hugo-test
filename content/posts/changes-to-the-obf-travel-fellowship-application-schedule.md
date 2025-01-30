@@ -4,7 +4,7 @@ category:
   - travel-fellowship
 cover:
   alt: obf_logo_icon-circle-tr
-  image: /wp-content/uploads/2018/12/obf_logo_icon-circle-tr.png
+  image: /obf-hugo-test/wp-content/uploads/2018/12/obf_logo_icon-circle-tr.png
 date: "2019-11-14T16:50:00+00:00"
 guid: https://www.open-bio.org/?p=4098
 tag:
@@ -13,7 +13,7 @@ title: Changes to the OBF Travel Fellowship application schedule
 url: /2019/11/14/obf-travel-fellowship-schedule/
 
 ---
-The [OBF Travel Fellowship program](/travel-awards/), which was started in 2016, will be making some changes to the schedule. Until now, there have been three application rounds per year, with deadlines April 15, August 15 and December 15.
+The [OBF Travel Fellowship program](/obf-hugo-test/travel-awards/), which was started in 2016, will be making some changes to the schedule. Until now, there have been three application rounds per year, with deadlines April 15, August 15 and December 15.
 
 For the next round, we are moving our December deadline two weeks earlier, to December 1, 2019.
 

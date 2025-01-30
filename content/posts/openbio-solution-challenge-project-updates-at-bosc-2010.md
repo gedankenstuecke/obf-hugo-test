@@ -14,7 +14,7 @@ url: /2010/01/28/openbio-solution-challenge-project-updates-at-bosc-2010/
 The BOSC 2010 organizing committee is hard at work getting prepared for this
 July's meeting in Boston:
 
-[/wiki/BOSC\_2010](/wiki/BOSC_2010)
+[/wiki/BOSC\_2010](/obf-hugo-test/wiki/BOSC_2010)
 
 One of the items we've traditionally had at the conference is a project
 update from each of the OpenBio affiliated groups. This year, we're thinking

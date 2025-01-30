@@ -7,7 +7,7 @@ category:
   - obf-projects
 cover:
   alt: Biopython logo
-  image: /wp-content/uploads/2023/09/biopython_logo_s.png
+  image: /obf-hugo-test/wp-content/uploads/2023/09/biopython_logo_s.png
 date: "2024-01-10T13:46:10+00:00"
 guid: https://www.open-bio.org/?p=7593
 tag:

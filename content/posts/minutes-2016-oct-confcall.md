@@ -14,7 +14,7 @@ url: /2016/10/04/minutes2016-oct-confcall/
 **Dial-in Information:** +1-857-216-2939 PIN: 62534 [http://www.uberconference.com/hlapp](http://www.uberconference.com/hlapp)
 
 1. Old business
-   - [May 2015 BoD meeting minutes](/wiki/Minutes:2015_May_ConfCall)
+   - [May 2015 BoD meeting minutes](/obf-hugo-test/wiki/Minutes:2015_May_ConfCall)
    - [Amendments to the 2013 Financial Report](https://github.com/OBF/obf-docs/pull/33)
    - [2014 Financial Report](https://github.com/OBF/obf-docs/pull/34)
 1. New business

@@ -11,7 +11,7 @@ category:
   - obf-projects
 cover:
   alt: GSoC 2014 banner
-  image: /wp-content/uploads/2014/04/Banner-gsoc2014.png
+  image: /obf-hugo-test/wp-content/uploads/2014/04/Banner-gsoc2014.png
 date: "2014-04-26T18:45:49+00:00"
 guid: http://news.open-bio.org/news/?p=1160
 tag:

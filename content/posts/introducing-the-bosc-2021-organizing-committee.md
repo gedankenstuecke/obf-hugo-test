@@ -5,7 +5,7 @@ category:
   - community
 cover:
   alt: bosc-2021-org-committee-for-website
-  image: /wp-content/uploads/2021/03/bosc-2021-org-committee-for-website.jpg
+  image: /obf-hugo-test/wp-content/uploads/2021/03/bosc-2021-org-committee-for-website.jpg
 date: "2021-05-09T21:07:13+00:00"
 guid: https://www.open-bio.org/?p=5492
 title: Introducing the BOSC 2021 Organizing Committee!
@@ -18,7 +18,7 @@ BOSC is organized entirely by volunteers. We are lucky to have these amazing peo
 
 ![](https://lh3.googleusercontent.com/MGqlLng2xb8rlZsOYSgsHdNrLBSIGtqXSon8Dsf5YuE_Ql6eUX7455qn7O7NPXofMow4jpTKxRbcHM7-0QyLyD7bwBDM_GBh03p7TOqDIGX98efpIXM6cNOgIqFFkdw7yUbO813f)
 
-**Jason Williams**( [@JasonWilliamsNY](https://twitter.com/JasonWilliamsNY)) is a new member of the BOSC Organizing Committee, though he’s been a BOSC participant and an abstract reviewer for years. Jason was a BOSC panelist in 2015 on a [panel about increasing diversity in open source bioinformatics](/wiki/BOSC_2015_Panel), and again in 2018 for a [panel about training and documentation in open source bioinformatics](https://gccbosc2018.sched.com/event/Dup7/panel-training-and-documentation-in-bioinformatics).
+**Jason Williams**( [@JasonWilliamsNY](https://twitter.com/JasonWilliamsNY)) is a new member of the BOSC Organizing Committee, though he’s been a BOSC participant and an abstract reviewer for years. Jason was a BOSC panelist in 2015 on a [panel about increasing diversity in open source bioinformatics](/obf-hugo-test/wiki/BOSC_2015_Panel), and again in 2018 for a [panel about training and documentation in open source bioinformatics](https://gccbosc2018.sched.com/event/Dup7/panel-training-and-documentation-in-bioinformatics).
 
 Jason works for Cold Spring Harbor, where he’s the Assistant Director of External Collaborations for the DNA Learning Center and Lead for CyVerse Education, Outreach, and Training. Jason provides training and support to scientists and educators, as well as serving on several committees and boards for projects that advance science and science education including the Software Carpentry Foundation. In his spare time, Jason plays the cello and whips up amazing multi-course dinners. Read more about Jason and his CSHL journey [here](https://www.cshl.edu/labdish/a-science-career-path-jason-williams/).
 
@@ -30,7 +30,7 @@ Malvika is known as a community builder, open science educator and facilitator o
 
 ![](https://lh4.googleusercontent.com/QCPBRCPYGgVjKKlVc1PfurdbBa7qx8MmxPNUnVRqCiprDCMhrr0C9GmrPznHeTK8esDVS5vmgGwOUZo7T2qeZR2ncfZxvk7TycAJtYQeAfAB1lP-bTnW_No-g6oIusomJvpar-zq)
 
-**Monica Munoz-Torres**( [@monimunozto](https://twitter.com/monimunozto)) has been part of the BOSC Organizing Committee since 2017. She has also chaired several BOSC panels: [Open Source, Open Door: Increasing Diversity in the Bioinformatics Open Source Community](/wiki/BOSC_2015_Panel) (2015), [Growing and sustaining open source communities](/wiki/BOSC_2016_Panel) (2016), and [Open Data: Standards, Opportunities and Challenges](/wiki/BOSC_2017_Panel) (2017).
+**Monica Munoz-Torres**( [@monimunozto](https://twitter.com/monimunozto)) has been part of the BOSC Organizing Committee since 2017. She has also chaired several BOSC panels: [Open Source, Open Door: Increasing Diversity in the Bioinformatics Open Source Community](/obf-hugo-test/wiki/BOSC_2015_Panel) (2015), [Growing and sustaining open source communities](/obf-hugo-test/wiki/BOSC_2016_Panel) (2016), and [Open Data: Standards, Opportunities and Challenges](/obf-hugo-test/wiki/BOSC_2017_Panel) (2017).
 
 Moni is an Associate Research Professor at the University of Colorado School of Medicine. She is Director of Operations for NIH/NCI’s Center for Cancer Data Harmonization and Program Director for the Phenomics First Resource - an NHGRI CEGS. Moni has a strong background in biocuration; she has served as the Chair of the International Society for Biocuration (ISB) and a Steering Committee member for the global initiative to sequence and annotate the genomes of 5,000 arthropods (i5k Initiative).
 

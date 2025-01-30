@@ -17,11 +17,11 @@ title: 'Open Source, Open Door: increasing diversity in the bioinformatics open 
 url: /2015/04/02/bosc-2014-diversity/
 
 ---
-The [Bioinformatics Open Source Conference (BOSC)](/wiki/BOSC_2015) has always been about community. Launched in 2000, BOSC aims to provide a forum for both bioinformatics developers and users to share ideas and code and learn about the latest developments in open source bioinformatics and open science.
+The [Bioinformatics Open Source Conference (BOSC)](/obf-hugo-test/wiki/BOSC_2015) has always been about community. Launched in 2000, BOSC aims to provide a forum for both bioinformatics developers and users to share ideas and code and learn about the latest developments in open source bioinformatics and open science.
 
 Our goal this year is to welcome even greater participation, opening the door even wider to participants who have historically been underrepresented in the world of open source bioinformatics and, therefore, at BOSC. This includes (but is by no means limited to) women, people who aren't white, older people, people from outside North America and Europe, and non-programmers.
 
-During a Birds of a Feather (BoF) session held at [BOSC 2014](/wiki/BOSC_2014), we discussed ways to increase the diversity of BOSC attendees, and gathered many useful suggestions from the participants, some of which we have already acted upon.
+During a Birds of a Feather (BoF) session held at [BOSC 2014](/obf-hugo-test/wiki/BOSC_2014), we discussed ways to increase the diversity of BOSC attendees, and gathered many useful suggestions from the participants, some of which we have already acted upon.
 
 One of the suggestions from the 2014 BoF was to add someone to the organizing committee to focus on outreach and community-building. In January 2015, [we welcomed Dr. Sarah Hird as our new Outreach Coordinator](http://news.open-bio.org/news/2015/01/bosc-welcomes-sarah-hird/). Sarah is currently a UC Davis Chancellor's Postdoctoral Fellow with Jonathan Eisen in the UC Davis Genome Center, where her research interests lie at the intersection of phylogeography, bioinformatics and microbial diversity. Sarah is also known for her focus on [promoting diversity in STEM](https://sites.google.com/site/sarahhird/diversity-in-stem).  " _I am personally and professionally interested in how we can make “the Academy" a more representative sample of the world around us,_" she says.
 
@@ -41,4 +41,4 @@ We are looking for two more panellists, and have some ideas - but your suggestio
 
 [term paper writing service](http://termpapersnetwork.com/)
 
-Finally, please spread the word about BOSC! The deadline for [submitting abstracts](/wiki/BOSC_Abstract_Submission) for regular-length talks is tomorrow (Friday, April 3 _\- update: extended to Tuesday, April 7 due to Easter/Passover weekend_), but there will also be opportunities for last-minute lightning talks and posters.
+Finally, please spread the word about BOSC! The deadline for [submitting abstracts](/obf-hugo-test/wiki/BOSC_Abstract_Submission) for regular-length talks is tomorrow (Friday, April 3 _\- update: extended to Tuesday, April 7 due to Easter/Passover weekend_), but there will also be opportunities for last-minute lightning talks and posters.

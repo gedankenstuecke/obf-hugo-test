@@ -5,7 +5,7 @@ category:
   - travel-fellowship
 cover:
   alt: Basel-bridge
-  image: /wp-content/uploads/2019/10/Basel-bridge.jpeg
+  image: /obf-hugo-test/wp-content/uploads/2019/10/Basel-bridge.jpeg
 date: "2019-10-15T20:52:03+00:00"
 guid: https://www.open-bio.org/?p=3850
 tag:
@@ -19,7 +19,7 @@ title: Computational biology  without borders
 url: /2019/10/15/computational-biology-without-borders/
 
 ---
-_This is a guest blog post from [Aziz Khan](https://twitter.com/khanaziz84), who was supported by the ongoing [Open Bioinformatics Foundation travel fellowship](https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md) program to attend the [ISMB/ECCB](https://www.iscb.org/ismbeccb2019) and [BOSC 2019](/events/bosc/) meeting in Basel, July 2019. The OBF’s Travel Fellowship program aimed at increasing diverse participation at events promoting open source bioinformatics software development and open science in the biological research community. Find more information [here.](/travel-awards/)_
+_This is a guest blog post from [Aziz Khan](https://twitter.com/khanaziz84), who was supported by the ongoing [Open Bioinformatics Foundation travel fellowship](https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md) program to attend the [ISMB/ECCB](https://www.iscb.org/ismbeccb2019) and [BOSC 2019](/obf-hugo-test/events/bosc/) meeting in Basel, July 2019. The OBF’s Travel Fellowship program aimed at increasing diverse participation at events promoting open source bioinformatics software development and open science in the biological research community. Find more information [here.](/obf-hugo-test/travel-awards/)_
 
 * * *
 
@@ -27,7 +27,7 @@ Computational tools and software are now becoming the core of scientific discove
 
 Biology is no longer limited to PCR or gel electrophoresis. The high-throughput approaches to DNA sequencing at the genome and exome level are the state-of-the-art. For example, genomics and epigenomics are shifting from bulk sequencing to single-cell sequencing, which produces even more and sparse data. The (epi)genomics at single-cell can help us to understand the molecular mechanisms more precisely to understand disease and tumor biology. Integrative methods and software are needed to interpret multi-omics data at bulk and single-cell resolution to better understand the heterogeneity between cells, patients, or multi-region biopsies from a tumor. All these require open-source bioinformatics software and resources that are free and accessible for everyone.
 
-The international community that develops such software and methods need a diverse and multidisciplinary platform to meet and share the latest developments in the field, fostering fresh dialogues and perspectives to learn about and shape the future of bioinformatics. And such a platform is provided by ISCB's Intelligent Systems for Molecular Biology (ISMB) and European Conference on Computational Biology (ECCB) when they both meet in Europe every second year with diverse Communities of Special Interest (COSI) such as the [Bioinformatics Open Source Conference (BOSC)](/events/bosc/).
+The international community that develops such software and methods need a diverse and multidisciplinary platform to meet and share the latest developments in the field, fostering fresh dialogues and perspectives to learn about and shape the future of bioinformatics. And such a platform is provided by ISCB's Intelligent Systems for Molecular Biology (ISMB) and European Conference on Computational Biology (ECCB) when they both meet in Europe every second year with diverse Communities of Special Interest (COSI) such as the [Bioinformatics Open Source Conference (BOSC)](/obf-hugo-test/events/bosc/).
 
 ISMB/ECCB is the world’s largest bioinformatics/computational biology meeting. I’ve been very lucky to attend three of those so far. I started my ISMB/ECCB journey when I was a Ph.D. student at Tsinghua University, China. In fact, first I joined the [ISCB Student Council](https://www.iscbsc.org/), a wonderful forum for early career researchers (ECR) in bioinformatics. I was part of the web-committee and later served as co-chair of the committee. I helped the community to organize and review student symposiums. If you’re an ECR in bioinformatics, I would definitely recommend joining the community. So, back to ISMB/ECCB, it was July 2015, I was accepted to present a poster and also to volunteer at ISMB/ECCB 2015 in Dublin. Of course, I saved the registration fee by volunteering but it also gave me an excellent opportunity to network. I met some of the great people in that meeting and we’re still connected. My second ISMB/ECCB was in 2017 in the beautiful city of Prague. Again, I signed up to volunteer and had a wonderful meeting and presented one of our open-source [projects](https://github.com/asntech/intervene) both at the Student Symposium and at the Regulatory and Systems Genomics (RegSys) COSI.
 
@@ -37,7 +37,7 @@ This year, 2019, the ISMB/ECCB came to Basel, a city in the heart of Europe, whi
 
 _The tripoint (Dreiländereck) where the borders of France, Germany and Switzerland meet._
 
-I knew I wanted to attend, especially my favorite ISMB/ECCB COSI on the Regulatory and Systems Genomics (RegSys). And this year, my PI Anthony Mathelier was one of the organizers of RegSys. I always wanted to attend [BOSC](/events/bosc/), so I submitted our community initiative, ECRcentral, that aims to bring ECRs together to discuss funding opportunities, share experiences, and create impact through community engagement. ECRcentral was accepted for a long talk and on top of that, I got a [travel fellowship](/2019/05/31/travel-award-recipients-for-april-2019/) from the [Open Bioinformatics Foundation (OBF)](https://www.open-bio.org) to attend [#ISMBECCB2019](https://twitter.com/hashtag/ISMBECCB2019?src=hash) and present [@ECRcentral](https://twitter.com/ECRcentral) at [#BOSC2019](https://twitter.com/hashtag/BOSC2019?src=hash). What else do you need, right?
+I knew I wanted to attend, especially my favorite ISMB/ECCB COSI on the Regulatory and Systems Genomics (RegSys). And this year, my PI Anthony Mathelier was one of the organizers of RegSys. I always wanted to attend [BOSC](/obf-hugo-test/events/bosc/), so I submitted our community initiative, ECRcentral, that aims to bring ECRs together to discuss funding opportunities, share experiences, and create impact through community engagement. ECRcentral was accepted for a long talk and on top of that, I got a [travel fellowship](/obf-hugo-test/2019/05/31/travel-award-recipients-for-april-2019/) from the [Open Bioinformatics Foundation (OBF)](https://www.open-bio.org) to attend [#ISMBECCB2019](https://twitter.com/hashtag/ISMBECCB2019?src=hash) and present [@ECRcentral](https://twitter.com/ECRcentral) at [#BOSC2019](https://twitter.com/hashtag/BOSC2019?src=hash). What else do you need, right?
 
 > **Welcome to Basel**! We arrived in Basel on July 21st from Oslo, Norway.
 
@@ -47,9 +47,9 @@ I knew I wanted to attend, especially my favorite ISMB/ECCB COSI on the Regulato
 
 Basel was on fire (~40°C), compared with 20°C in Oslo. While walking from the train station towards the hotel, we passed through a bridge (Basel has many bridges over the river Rhine) and saw many people floating down the Rhine to escape from the heat. For a while, it felt like liquid-liquid phase separation in biology, or maybe solid-liquid!
 
-![](/wp/wp-content/uploads/2019/08/Rhine-swimmers-1.jpg)
+![](/obf-hugo-test/wp/wp-content/uploads/2019/08/Rhine-swimmers-1.jpg)
 
-_People are escaping from the heat by floating down the Rhine. [Picture credit](/2019/08/01/meeting-report-bosc-2019/)_
+_People are escaping from the heat by floating down the Rhine. [Picture credit](/obf-hugo-test/2019/08/01/meeting-report-bosc-2019/)_
 
 I quickly checked-in, got fresh and ran to the conference venue. The conference kicked off in the San Francisco hall at Congress Center Basel with over 2,000 participants from all over the world, mainly from developed countries. I love the idea of naming conference rooms of Congress Center after different cities around the world like you could bump in Montreal from Delhi without border control. Anyway, I am not sure how many researchers couldn't make it due to visa denials or solely due to lack of funding. I made it because as a European resident I don't need a visa to enter Switzerland.
 

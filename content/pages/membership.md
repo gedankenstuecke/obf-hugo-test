@@ -2,7 +2,7 @@
 author: kushinauwu
 cover:
   alt: obf_membership
-  image: /wp-content/uploads/2019/02/obf_membership.jpg
+  image: /obf-hugo-test/wp-content/uploads/2019/02/obf_membership.jpg
 date: "2019-02-04T19:04:53+00:00"
 guid: https://www.open-bio.org/wp/?page_id=2546
 title: Membership
@@ -11,11 +11,11 @@ url: /membership/
 ---
 # Membership Application
 
-The Open Bioinformatics Foundation invites anyone who is involved in or plans to become involved in promoting open source or open science in a biological field to apply for membership. There are no dues at present. The best time and place to join is at the annual [BOSC](/events/bosc/) conference, because attendees are automatically deemed eligible based on the fact that they attended BOSC, but you can apply for membership at any time.
+The Open Bioinformatics Foundation invites anyone who is involved in or plans to become involved in promoting open source or open science in a biological field to apply for membership. There are no dues at present. The best time and place to join is at the annual [BOSC](/obf-hugo-test/events/bosc/) conference, because attendees are automatically deemed eligible based on the fact that they attended BOSC, but you can apply for membership at any time.
 
 [Join the OBF now!](https://docs.google.com/forms/d/e/1FAIpQLSflxafcgc7BOLEgppy3h_yMWCIkV_9lJB3Z0a0Y2cJ63sRK-Q/viewform)
 
-![](/wp/wp-content/uploads/2019/02/obf_membership.jpg)
+![](/obf-hugo-test/wp/wp-content/uploads/2019/02/obf_membership.jpg)
 
 # History and Bylaws
 
