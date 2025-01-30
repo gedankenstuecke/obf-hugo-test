@@ -17,7 +17,7 @@ url: /events/bosc-2022/bosc-2022-schedule/
 
 ###### [Keynotes:](/events/bosc-2022/bosc-2022-keynotes/)
 
-![Jason Williams](/wp-content/uploads/2022/05/Jason-Williams-1.jpeg)![Melissa Haendel](/wp-content/uploads/2022/03/Melissa-Haendel-cropped.jpg)Jason Williams (joint keynote with Education COSI): Riding the bicycle — including all scientists on a path to excellence
+![Jason Williams](wp-content/uploads/2022/05/Jason-Williams-1.jpeg)![Melissa Haendel](wp-content/uploads/2022/03/Melissa-Haendel-cropped.jpg)Jason Williams (joint keynote with Education COSI): Riding the bicycle — including all scientists on a path to excellence
 Melissa Haendel (joint keynote with Bio-Ontologies COSI): The open data highway: turbo-boosting translational traffic with ontologies
 
 ###### [Panel: Building and Sustaining Inclusive Open Science Communities](/events/bosc-2022/bosc-2022-panel/)

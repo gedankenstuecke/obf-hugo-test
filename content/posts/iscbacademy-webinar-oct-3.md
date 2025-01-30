@@ -31,7 +31,7 @@ In this talk, which expands on the short talk I gave at BOSC 2023, I will descri
 
 #### About the speaker
 
-![](/wp-content/uploads/2023/08/Sierra-at-podium-1.png)
+![](wp-content/uploads/2023/08/Sierra-at-podium-1.png)
 
 **Sierra Moxon** is a software developer in the Biosystems Data Science group at the Lawrence Berkeley National Laboratory. Sierra’s work focuses on designing and developing reusable software to harmonize diverse scientific research data into findable, accessible, interoperable and reproducible (FAIR) formats, with applications ranging from biomedicine to the environment.
 

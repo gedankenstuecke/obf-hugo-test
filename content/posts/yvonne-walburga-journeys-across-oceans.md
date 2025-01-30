@@ -34,19 +34,19 @@ The first day of the conference (November 2nd, 2023) gave me the opportunity to 
 
 Following the NORA session, the organisers of the NORA consortium carved out time at the end of the session to visit the Island of Gorée. In typing Gorée, my English word editor quickly underlines it; curious as to what suggestions it would give me, I let my mouse hover.. it suggested _“Gore”_ which means _“Blood, Stab, Violence”_. The Gorée Island is unspeakably beautiful; however, within its beauty, along its shores and especially at the “Door of No Return” – _“Porte du Voyage sans Retour”_, we must grapple with our shared history – that of slavery and its consequences – and also of a history stripped with _Gore_ – _blood, stabs and violence_. As a post-doctoral researcher in cancer epidemiology who is now exploring population-level cancer genomics – I constantly think about the consequences of our shared ancestry with African- Americans, the immigrants from the Caribbean to the United Kingdom, and the Africans living on our beautiful African continent. However, there is such under-representation of this vast continent with very diverse populations, and in the era of personalised medicine and personalised risk reduction, we would widen health inequities if we do not improve access to progress in genomics to under-represented populations.
 
-![](/wp-content/uploads/2023/12/Figure1.png)
+![](wp-content/uploads/2023/12/Figure1.png)
 
 Figure 1: The "Door of No Return"/ "Porte du Voyage Sans Retour", Gorée, Senegal
 
 My first oral abstract presentation on November 4th, 2023, was on “Cancer Survival in sub-Saharan Africa”. In this work, we described the population-level cancer survival outcomes of more than 10,000 sub-Saharan African patients with 18 different cancer types. This work was done with data from the African Cancer Registry Network, and in collaboration with the International Agency for Research on Cancer (IARC) and Vital Strategies. We highlighted the disparities in access to care and diagnostics for patients with cancers in sub-Saharan Africa and the resultant disastrous health outcomes. This work would not have been possible without working alongside the cancer registrars to improve the quality and representation of population-level cancer survival data, via the use of the open source CanReg5 software developed by IARC.
 
-![](/wp-content/uploads/2023/12/Figure2.png)
+![](wp-content/uploads/2023/12/Figure2.png)
 
 Figure 2: Oral presentation at the African Organisation for Research and Training in Cancer Meeting, Dakar 2023
 
 My second oral presentation was part of the African Cancer Registry’s Network session on “Cancer Surveillance in sub-Saharan Africa” on November 5th, 2023. In this session, I gave a talk on the “Incidence trends, stage and survival from breast cancer in sub-Saharan Africa”, the subject of my doctoral thesis. Studying trends in cancer incidence requires the availability of good quality data spanning several years. This was possible for 12 sub-Saharan African countries, largely thanks to the work of the AFCRN, on improving data coverage for cancer surveillance in Sub-Saharan Africa.
 
-![](/wp-content/uploads/2023/12/Figure3.png)
+![](wp-content/uploads/2023/12/Figure3.png)
 
 Figure 3: Presenters at the session on "Cancer Surveillance in sub-Saharan Africa", hosted by the African Cancer Registry Network (AFCRN) at the African Organisation for Research on Cancer Conference (AORTIC), Dakar, Senegal.
 

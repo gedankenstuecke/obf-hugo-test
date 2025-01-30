@@ -13,7 +13,7 @@ url: /2022/06/17/furkanmtorun-pycon2022/
 ---
 _The [Open Bioinformatics Foundation (OBF) Event Fellowship program](/travel-awards) aims to promote diverse participation at events promoting open source bioinformatics software development and open science practices in the biological research community. [Furkan M. Torun](https://furkanmtorun.github.io/), Data Scientist at OmicEra Diagnostics & Computational Biologist, attended the [PyCon Italia 2022](https://pycon.it/en), supported by this fellowship granted to him in the first round of 2022._
 
-![](/wp-content/uploads/2022/08/image_1-1024x712.jpeg)
+![](wp-content/uploads/2022/08/image_1-1024x712.jpeg)
 
 ### **Background**
 
@@ -25,29 +25,29 @@ A while ago I came across the [PyCon Italia 2022](https://pycon.it/en) and I hop
 
 When I entered the hotel where the conference was hosted, it started to excite me as all attendees were already chatting! After 2 years of pandemics without any in-person conference, we all looked forward to such events! Then, I learned that more than 700 participants were at the conference. So, after getting my badge, I had a chance to get to know people, including another bioinformatician, share my skills and experiences, and learn from them!
 
-![](/wp-content/uploads/2022/08/image_2-768x1024.jpeg)
+![](wp-content/uploads/2022/08/image_2-768x1024.jpeg)
 
 The schedule of the first day was so exciting. I had already planned what talk to attend as there were several talks going in parallel. The first talk I participated in was “Building data pipelines with Apache Airflow” since I am interested in creating repeatable and reliable workflows in Python, which is an emerging problem in bioinformatic pipelines. Then, I followed the Data Science and Machine Learning tracks as I would like to pursue my future career in those domains. So, overall the talks I attended inspired me and enabled me to make my future work better!
 
 Also, I listened to the keynote talk entitled “Pro tips for writing great unit tests” by Raymond Hettinger and it emphasized the test concepts and writing of unit tests in a readable, fast, clear way.
 
-![](/wp-content/uploads/2022/08/image_3.jpeg)
+![](wp-content/uploads/2022/08/image_3.jpeg)
 
 Afterwards, I joined the next keynote talk entitled “Inclusive community leadership” delivered by Jessica Greene which gave insights into how a community can continue growing and evolving by staying true to its principles.
 
-![](/wp-content/uploads/2022/08/image_4-1024x786.jpeg)
+![](wp-content/uploads/2022/08/image_4-1024x786.jpeg)
 
 In the next days, I was also inspired by another talk namely “Python's Life of the Brain”. In this talk, several open-source Python libraries developed by brain research enthusiasts were presented to analyze, process, and visualize the data coming from the neurons and simulate the whole brain _in silico_, even in a Jupyter notebook!
 
 Also, another really exciting talk was about source code optimisation and code efficiency where I learned how to write faster code in Python 3, which will help me a lot while developing new pipelines for my future projects!
 
-![](/wp-content/uploads/2022/08/image_5-1024x772.jpg)
+![](wp-content/uploads/2022/08/image_5-1024x772.jpg)
 
 Last but not least, there was another fabulous talk delivered by the CEO of Jina AI, Dr. Han Xiao, with the title “DALL·E Flow: when neural search meets generative art”. We all know that the use of deep learning has become ubiquitous in almost every area. But, how about generating an image based on the text user provided? Yes, in this talk, it is demonstrated with examples and here are the some of them (the text on the left-hand side of the image was given and the image on the right was generated based on that text provided):
 
-![](/wp-content/uploads/2022/08/image_7-1024x685.jpg)
+![](wp-content/uploads/2022/08/image_7-1024x685.jpg)
 
-![](/wp-content/uploads/2022/08/image_6-1024x744.jpg)
+![](wp-content/uploads/2022/08/image_6-1024x744.jpg)
 
 ### **To sum up…**
 

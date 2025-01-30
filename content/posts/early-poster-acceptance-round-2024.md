@@ -16,7 +16,7 @@ url: /2024/02/18/early-poster-acceptance-2024/
 ---
 Abstract submission for BOSC 2024 is now open! Since some people can’t get conference travel approval from their institution until they get confirmation that their abstract has been accepted for a presentation, we started offering **Early Poster Acceptance** last year, and we are continuing the experiment this year. If you [submit your abstract](/events/bosc-2024/submit/) by March 21, 2024, we will notify you by March 29 whether it has been accepted or not for (at least) a poster.
 
-![](/wp-content/uploads/2024/02/pears-with-posters1.jpg)
+![](wp-content/uploads/2024/02/pears-with-posters1.jpg)
 
 When you submit your abstract, you can choose to apply for a poster, or to try for a talk. If you choose talk, then after the Early Poster Acceptance round your abstract will stay in the pool for the regular review round and you will find out on May 13 whether your abstract was chosen for a talk -- but you will still get early notification on March 29 that you got at least a poster slot!
 

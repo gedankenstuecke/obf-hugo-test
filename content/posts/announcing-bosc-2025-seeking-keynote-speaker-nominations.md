@@ -16,7 +16,7 @@ title: Announcing BOSC 2025; seeking keynote speaker nominations
 url: /2025/01/09/nominate-keynotes-bosc2025/
 
 ---
-![](/wp-content/uploads/2025/01/ISMB-bosc-2025-banner.png)
+![](wp-content/uploads/2025/01/ISMB-bosc-2025-banner.png)
 
 ## We invite you to join us for BOSC 2025, a vibrant gathering at the forefront of open-source bioinformatics and open science!
 

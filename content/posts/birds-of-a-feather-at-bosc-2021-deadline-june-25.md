@@ -13,7 +13,7 @@ title: Birds of a Feather at BOSC 2021 (deadline June 25)
 url: /2021/06/15/birds-of-a-feather-at-bosc-2021/
 
 ---
-![](/wp-content/uploads/2021/06/partridge-and-pears-stamp.png)
+![](wp-content/uploads/2021/06/partridge-and-pears-stamp.png)
 
 Birds of a Feather (BoFs) are informal, self-organized meetups focused on specific topics. They are a great way to meet other like-minded community members and have an in-depth discussion on a topic of shared interest.
 

@@ -22,9 +22,9 @@ ISMB states: "ISCB/ECCB strongly prefers that scientific research accepted for o
 We welcome submission of your 1-2 page abstract for consideration as a talk or poster. Take advantage of our NEW [Early Poster Acceptance](/2023/03/09/bosc-early-poster-acceptance/) option:
 submit your abstract by March 31, 2023; hear by April 6 whether it’s accepted for (at least) a poster. The regular submission deadline is April 20. The late-poster submission deadline is May 18 (posters only). Please see below for submission instructions.
 
-![Photo from BOSC 2022](/wp-content/uploads/2022/12/Nicole-Nomi-BOSC-poster-Moni-ChrisF-1.jpeg)
+![Photo from BOSC 2022](wp-content/uploads/2022/12/Nicole-Nomi-BOSC-poster-Moni-ChrisF-1.jpeg)
 
-![Poster from BOSC 2022](/wp-content/uploads/2022/11/Festus-Nyastimi-poster-BOSC2022.png)
+![Poster from BOSC 2022](wp-content/uploads/2022/11/Festus-Nyastimi-poster-BOSC2022.png)
 
 ### Key Dates
 
@@ -84,10 +84,10 @@ In addition to the requirements listed at left, we consider the following when s
 - If you want to be considered for a talk, you also MUST submit a 1-2 page "long abstract" as a PDF. (Yes, we did suggest to ISMB that calling both of these things "abstracts" was confusing.)
 - If you submit for a talk but your abstract is not chosen for a talk, it will automatically be considered for a poster.
 - If your work is accepted for a talk, you can decide later whether you also want to present it as a poster.
-- Abstract template (optional): [bosc2022-abstract-template](/wp-content/uploads/2022/04/bosc2022-abstract-template.docx) (MS Word)
+- Abstract template (optional): [bosc2022-abstract-template](wp-content/uploads/2022/04/bosc2022-abstract-template.docx) (MS Word)
 - You don't need to register before you submit your abstract, but to present your talk or poster you will need to register for ISMB/ECCB.
 
-![](/wp-content/uploads/2022/01/Screen-Shot-2022-01-19-at-3.59.31-PM.png)
+![](wp-content/uploads/2022/01/Screen-Shot-2022-01-19-at-3.59.31-PM.png)
 
 Watch a video of [BOSC organizing committee member Jason Williams discussing how to write a great BOSC abstract](https://youtu.be/DwJRrh1Tpew)!  
 

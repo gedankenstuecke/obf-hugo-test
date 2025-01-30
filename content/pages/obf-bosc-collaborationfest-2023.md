@@ -22,7 +22,7 @@ Three easy steps to sign up:
 
 Please register in advance to help us set up everything!
 
-![Attendees at the 2018 GCCBOSC CoFest](/wp-content/uploads/2019/03/codefest-big-group-on-steps.jpg)
+![Attendees at the 2018 GCCBOSC CoFest](wp-content/uploads/2019/03/codefest-big-group-on-steps.jpg)
 
 ## Date
 
@@ -41,7 +41,7 @@ France
 ](https://goo.gl/maps/9qEpK8smZ8TpDFFh9)
 GPS coordinates: (﻿45.729846881035385, ﻿4.828230822514165)
 
-Detailed access instructions are available [here](/wp-content/uploads/2023/07/how_to_come_to_CoFest_2023.pdf)
+Detailed access instructions are available [here](wp-content/uploads/2023/07/how_to_come_to_CoFest_2023.pdf)
 
 ## Public transports
 
@@ -53,10 +53,10 @@ Detailed access instructions are available [here](/wp-content/uploads/2023/07/ho
 [![](https://www.ixxi.fr/ixxi/configuration/fiche-de-configuration-charte-ENS/@@images/logo_site) \
 Complex Systems Institute](https://www.ixxi.fr/)
 
-[![](/wp-content/uploads/2023/06/ens_logo.png) \
+[![](wp-content/uploads/2023/06/ens_logo.png) \
 École Normale Supérieure de Lyon](http://www.ens-lyon.fr)
 
-[![](/wp-content/uploads/2023/06/ens_rdp_logo.jpeg) \
+[![](wp-content/uploads/2023/06/ens_rdp_logo.jpeg) \
 Laboratoire Reproduction et Développement des Plantes](http://www.ens-lyon.fr/RDP/)
 
 [![](https://www.france-bioinformatique.fr/wp-content/uploads/logo-ifb-couleur.svg)](http://www.ens-lyon.fr/RDP/)

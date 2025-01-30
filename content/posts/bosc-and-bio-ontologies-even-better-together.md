@@ -18,7 +18,7 @@ title: 'BOSC and Bio-Ontologies: Even better together!'
 url: /2022/03/02/bosc-and-bio-ontologies-joint-session/
 
 ---
-![](/wp-content/uploads/2022/03/ISMB-Bio-Ontologies-BOSC.jpg)
+![](wp-content/uploads/2022/03/ISMB-Bio-Ontologies-BOSC.jpg)
 
 We are excited to announce that [BOSC](/events/bosc-2022/) and [Bio-Ontologies](https://www.bio-ontologies.org.uk/ismb-annual-meeting) will join forces for part of a day at [ISMB 2022](https://www.iscb.org/ismb2022). The joint session will include talks chosen from abstracts submitted to BOSC or Bio-Ontologies, plus a keynote speaker who is well known in both the ontology and open science communities!
 

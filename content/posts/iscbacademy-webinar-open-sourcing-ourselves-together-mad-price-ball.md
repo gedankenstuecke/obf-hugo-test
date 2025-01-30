@@ -19,7 +19,7 @@ The first BOSC/OBF ISCBacademy COSI webinar will take place on Tuesday, Septembe
 
 **_If you missed the webinar, you can watch the video on YouTube:_ [_https://www.youtube.com/watch?v=vjMb19NxjdM_](https://www.youtube.com/watch?v=vjMb19NxjdM)**
 
-![Dr. Mad Price Ball](/wp-content/uploads/2021/09/MadPriceBall-1.png)
+![Dr. Mad Price Ball](wp-content/uploads/2021/09/MadPriceBall-1.png)
 
 ### Open Sourcing Ourselves - Together
 

@@ -11,9 +11,9 @@ url: /events/gsoc/gsoc-guide/
 ### Before you apply
 
 - Proposals should extend one of affiliated toolkits, not start a new project.
-- If you want to apply with your own idea, it’s best to [contact](/wp/events/gsoc/gsoc-contact) the OBF subproject you’re interested in well before the application deadline, so we can work with you to find a mentor and solidify your project idea and application.
-- [Ask us questions](/wp/events/gsoc/gsoc-contact) on the subproject mailing lists about the project idea you have in mind.
-- Write a project proposal draft, include a project plan (see below), and [send it to a project mailing list](/wp/events/gsoc/gsoc-contact) for comments before submitting it.
+- If you want to apply with your own idea, it’s best to [contact](wp/events/gsoc/gsoc-contact) the OBF subproject you’re interested in well before the application deadline, so we can work with you to find a mentor and solidify your project idea and application.
+- [Ask us questions](wp/events/gsoc/gsoc-contact) on the subproject mailing lists about the project idea you have in mind.
+- Write a project proposal draft, include a project plan (see below), and [send it to a project mailing list](wp/events/gsoc/gsoc-contact) for comments before submitting it.
 
 Again, GSoC contributors are strongly encouraged to contact us as early as possible. Frequent and early communication is extremely valuable for putting together successful projects.
 

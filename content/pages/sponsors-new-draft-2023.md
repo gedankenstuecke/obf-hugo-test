@@ -13,17 +13,17 @@ url: /events/sponsors-new-draft-2023/
 
 ## BOSC 2023 Platinum Sponsor
 
-[![CZI](/wp-content/uploads/2021/06/CZI_Logotype_RGB.jpg)](https://chanzuckerberg.com/)
+[![CZI](wp-content/uploads/2021/06/CZI_Logotype_RGB.jpg)](https://chanzuckerberg.com/)
 
 ## BOSC 2023 Silver Sponsors
 
-[![GigaScience](/wp-content/uploads/2019/05/Gigascience.png)](https://academic.oup.com/gigascience)[![Genevia](/wp-content/uploads/2021/06/genevia_logo_cmyk.png)](https://geneviatechnologies.com/)![](/wp-content/uploads/2023/04/SSI_PRIMARY-LOGO-300x96.png)
+[![GigaScience](wp-content/uploads/2019/05/Gigascience.png)](https://academic.oup.com/gigascience)[![Genevia](wp-content/uploads/2021/06/genevia_logo_cmyk.png)](https://geneviatechnologies.com/)![](wp-content/uploads/2023/04/SSI_PRIMARY-LOGO-300x96.png)
 
 #### If you’re interested in sponsoring BOSC 2023, please contact us at bosc@open-bio.org!
 
 * * *
 
-![Screenshot from BOSC 2021](/wp-content/uploads/2022/01/Geraldine-BoF-composite.png)
+![Screenshot from BOSC 2021](wp-content/uploads/2022/01/Geraldine-BoF-composite.png)
 
 Sponsorships from companies and organizations help to defray some of our costs and enable us to offer registration fee waivers for some conference participants. In 2022, thanks to our sponsors' generous support, we were able to grant free registration to 19 participants at [BOSC 2022](/events/bosc-2022/), offer honoraria to keynote speakers, and cover other expenses.
 
@@ -43,13 +43,13 @@ Most years, BOSC has been part of the Intelligent Systems for Molecular Biology 
 
 [BOSC 2023](/events/bosc-2023/), the 24th annual Bioinformatics Open Source Conference, will take place July 24-25 as part of ISMB/ECCB 2023 in Lyon, France and online. Like last year, we will join forces with Bio-Ontologies for part of a day!
 
-![](/wp/wp-content/uploads/2019/03/OBF-BoF-2018-25-300x225.jpg)
+![](wp/wp-content/uploads/2019/03/OBF-BoF-2018-25-300x225.jpg)
 
-![](/wp/wp-content/uploads/2019/03/43248502932_2395bc3cc6_z-300x200.jpg)
+![](wp/wp-content/uploads/2019/03/43248502932_2395bc3cc6_z-300x200.jpg)
 
-![](/wp/wp-content/uploads/2019/03/BOSC2017-panel-1.jpg)![](/wp/wp-content/uploads/2019/03/BOSC2015-panel-1-1024x521.jpg)
+![](wp/wp-content/uploads/2019/03/BOSC2017-panel-1.jpg)![](wp/wp-content/uploads/2019/03/BOSC2015-panel-1-1024x521.jpg)
 
-![](/wp-content/uploads/2022/01/Jason-PeterSelby-FotisPsomopoulos-DhrithiDespande.png)
+![](wp-content/uploads/2022/01/Jason-PeterSelby-FotisPsomopoulos-DhrithiDespande.png)
 
 BOSC​ ​participants​ ​come​ ​from​ ​a​ ​wide​ ​variety​ ​of​ ​research​ ​environments​ ​and​ ​backgrounds:
 
@@ -79,13 +79,13 @@ We gratefully accept sponsorships from private companies and organizations. In t
 - offer honoraria to keynote speakers
 - pay for captioning and translations
 
-![](/wp-content/uploads/2020/09/BOSC2020-party-attendees-e1609719125821.png)
+![](wp-content/uploads/2020/09/BOSC2020-party-attendees-e1609719125821.png)
 
 ## Sponsoring BOSC
 
 Sponsorships from private companies and organizations help to defray some of our costs and allow us to offer registration fee waivers to some attendees. If you are interested in becoming a BOSC sponsor, please contact us at bosc@open-bio.org!
 
-![](/wp/wp-content/uploads/2019/08/BOSC2019-audience1-1.jpg)
+![](wp/wp-content/uploads/2019/08/BOSC2019-audience1-1.jpg)
 
 # Benefits of Sponsorship
 

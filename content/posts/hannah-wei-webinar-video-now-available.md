@@ -18,7 +18,7 @@ title: Hannah Wei webinar video now available
 url: /2023/03/17/hannah-wei-webinar-video-now-available/
 
 ---
-![](/wp-content/uploads/2023/03/Moni-moderating-questions-for-Hannah-Wei-1-266x300.png)
+![](wp-content/uploads/2023/03/Moni-moderating-questions-for-Hannah-Wei-1-266x300.png)
 
 On March 14, 2023, we held a webinar (hosted by [ISCBacademy](https://www.iscb.org/iscbacademy)) about "Re-Thinking the Patient’s Role in a Learning Health System: Lessons from the Patient-Led Research Collaborative" presented by Hannah Wei, co-founder and technologist at the Patient-Led Research Collaborative. See [the webinar announcement](/2023/03/07/iscbacademy-webinar-on-patient-led-research/) for a full description.
 

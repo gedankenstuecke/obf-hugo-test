@@ -8,7 +8,7 @@ url: /events/gsoc/gsoc-contact/
 ---
 # Contact
 
-Before applying, please read our [documentation on information that GSoC contributors should know and guidelines we expect you to follow](/wp/events/gsoc/gsoc-guide). We also require that you include certain information, listed below, under “ [When you apply.](/wp/events/gsoc/gsoc-guide#when-you-apply)”
+Before applying, please read our [documentation on information that GSoC contributors should know and guidelines we expect you to follow](wp/events/gsoc/gsoc-guide). We also require that you include certain information, listed below, under “ [When you apply.](wp/events/gsoc/gsoc-guide#when-you-apply)”
 
 Also, it would be a good idea to CC the organization administrator group email below, so they can make sure that you are properly taken care of!
 

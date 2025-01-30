@@ -23,7 +23,7 @@ _The [Open Bioinformatics Foundation (OBF) Event Fellowship program](/travel-awa
 
 This year, I had the privilege to co-host the symposium “Bee diversity in East and Southeast Asia: Systematics and Status of the Fauna” at the International Congress of Entomology (ICE) in Kyoto, Japan. The symposium hosted eight researchers from Korea, Malaysia, Taiwan, China, Singapore, Thailand, and Nepal working in universities and government institutions. Each researcher gave a 15-minute presentation about bee studies in their region. Open data was a central theme, as many novel findings are discovered through DiscoverLife and the community science platform iNaturalist, and project results are posted to the Global Biodiversity Information Facility (GBIF) and the International Union for the Conservation of Nature (IUCN).
 
-![](/wp-content/uploads/2024/11/figure1-1-1024x366.png)
+![](wp-content/uploads/2024/11/figure1-1-1024x366.png)
 
 Figure 1. Images of bees from insect collections in Taiwan
 
@@ -35,12 +35,12 @@ In addition to the symposium, we hosted a gathering where the presenters and tho
 
 I am an Entomologist and PhD student studying the evolution and diversity of bees and apoid wasps. Before starting my degree, I lived in Taiwan, working with and learning from colleagues on a national checklist of the bee species there, Dr. Sheng Shan Lu and Wen-Chi Yeh of the Taiwan Forestry Research Institute and Dr. I-Hsin Sung of Chiayi University. We [received funding](https://www.gbif.org/project/BIFA6_033/a-bilingual-open-source-checklist-and-digitization-of-taiwans-bee-fauna) from GBIF called the data mobilization grant to digitize bees in all national collections, which resulted in open source species and distribution data. Open data is essential for establishing a baseline biodiversity list, as it reveals novel information on species’ biology, range, and/ or morphology, as well as undescribed taxa. Dr. Sung presented our research, his talk “A Bilingual Open-Source Checklist and Digitization of Taiwan’s Bee Fauna" and others in the symposium showcased how platforms like GBIF, IUCN, DiscoverLife, and iNaturalist are critical for bee studies in the region. Additionally, since many bee groups have a taxonomy that has not been revised in up to a century, being able to see label data, images, and maps of fauna from neighbouring countries helps progress local efforts.
 
-![](/wp-content/uploads/2024/11/Screenshot-2024-11-20-at-1.19.20-PM-1024x789.png)
+![](wp-content/uploads/2024/11/Screenshot-2024-11-20-at-1.19.20-PM-1024x789.png)
 
 Figure 2. Digitization images of bee specimens from Taiwan and their label data. Notice the range in collection dates from 1910 to 2019!
 
 Publicly available field and natural history collection data brings awareness and efforts to bee studies globally. The ICE symposium provided the opportunity for bee researchers to network and discuss projects, collaborations, and best practices for open-source tools. I am endlessly grateful to the Open Bioinformatics Foundation (OBF) for supporting my attendance at ICE, allowing me to enact our goals to contribute to open science by sharing our approaches and ideas to mitigate gaps in bee biodiversity knowledge. ICE has by far been my favorite conference I have ever attended! In addition to the success of the symposium, I was selected to receive a Presentation Award for Young Scientists (PAYS), all thanks to OBF. I highly encourage applications to the OBF Event Fellowship, as without their generosity, I would not have been able to meet such an important and inspiring group of researchers.
 
-![](/wp-content/uploads/2024/11/figure3-1024x748.png)
+![](wp-content/uploads/2024/11/figure3-1024x748.png)
 
 Figure 3. Symposium speakers, organizers, and attendees at ICE 2024.

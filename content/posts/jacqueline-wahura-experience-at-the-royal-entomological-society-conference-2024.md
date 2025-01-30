@@ -21,7 +21,7 @@ During the pests and natural enemies session, I was excited to hear a diverse ra
 
 It was during the host microbiome interaction session that I was privileged to do my presentation titled “An influential insider: _Microsporidia MB_ influences the gut microbiota composition in _Anopheles arabiensis_ mosquitoes” ( [RES\_annual\_conference\_JWahura](https://docs.google.com/presentation/d/1jBiuFXzYOAiqq9pdW3Me567AZmgmTVFEFfzIJKzWgEM/edit#slide=id.g321fbe3a0ce_2_363)). _Microsporidia MB_ is an insect endosymbiont in _Anopheles arabiensis_ mosquitoes that was shown to impair the transmission of _Plasmodium falciparum_. In my talk, I highlighted my key findings that _Microsporidia MB_ influenced the gut microbiota in infected mosquitoes to favor microbes with the _Plasmodium_ transmission blocking phenotype. I outlined the steps followed in my methods and provided a GitHub link to the audience detailing the steps I followed in analyzing the gut microbiota data. It was interesting to see how my research, which is still in its infancy, stirred interest in the audience, and I received feedback on considerations I ought to take in my analysis pipeline as well as research gaps to consider filling.
 
-![](/wp-content/uploads/2024/12/image.png)
+![](wp-content/uploads/2024/12/image.png)
 
 Other interesting talks during the host microbiome interaction session included those of the effect of different environmental variables on the gut microbiota of mosquitoes, the effect of endosymbionts in aphids on the host microbiome and the protective effect of microbiomes in insects such as ants on fruits such as apples.
 
