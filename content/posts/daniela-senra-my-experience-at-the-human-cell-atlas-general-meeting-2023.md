@@ -5,7 +5,7 @@ category:
   - events
 cover:
   alt: photo1
-  image: /wp-content/uploads/2023/08/photo1.png
+  image: wp-content/uploads/2023/08/photo1.png
 date: "2023-08-02T04:36:21+00:00"
 guid: https://www.open-bio.org/?p=7183
 tag:

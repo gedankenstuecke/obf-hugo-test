@@ -2,7 +2,7 @@
 author: nlharris
 cover:
   alt: bosc_pear
-  image: /wp-content/uploads/2021/01/bosc_pear.png
+  image: wp-content/uploads/2021/01/bosc_pear.png
 date: "2024-04-19T00:09:44+00:00"
 guid: https://www.open-bio.org/?page_id=7826
 title: BOSC 2024 Schedule

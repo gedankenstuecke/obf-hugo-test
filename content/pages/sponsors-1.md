@@ -2,7 +2,7 @@
 author: khokamp
 cover:
   alt: panel-with-Nomi - 1
-  image: /wp-content/uploads/2022/11/panel-with-Nomi-1.jpeg
+  image: wp-content/uploads/2022/11/panel-with-Nomi-1.jpeg
 date: "2024-08-20T12:21:52+00:00"
 draft: "true"
 guid: https://www.open-bio.org/?page_id=8103

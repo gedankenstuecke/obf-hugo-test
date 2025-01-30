@@ -4,7 +4,7 @@ category:
   - travel-fellowship
 cover:
   alt: Keerthana
-  image: /wp-content/uploads/2024/10/Keerthana.jpg
+  image: wp-content/uploads/2024/10/Keerthana.jpg
 date: "2024-10-15T07:25:30+00:00"
 guid: https://www.open-bio.org/?p=8183
 tag:

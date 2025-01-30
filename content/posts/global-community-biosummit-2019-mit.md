@@ -5,7 +5,7 @@ category:
   - travel-fellowship
 cover:
   alt: biosummit-party
-  image: /wp-content/uploads/2019/12/biosummit-party.jpg
+  image: wp-content/uploads/2019/12/biosummit-party.jpg
 date: "2019-12-17T18:27:26+00:00"
 guid: https://www.open-bio.org/?p=4252
 tag:

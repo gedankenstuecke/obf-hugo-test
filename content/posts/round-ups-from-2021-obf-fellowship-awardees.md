@@ -6,7 +6,7 @@ category:
   - uncategorized
 cover:
   alt: brands-people-ZdqSuxl3Lak-unsplash
-  image: /wp-content/uploads/2022/02/brands-people-ZdqSuxl3Lak-unsplash-scaled.jpg
+  image: wp-content/uploads/2022/02/brands-people-ZdqSuxl3Lak-unsplash-scaled.jpg
 date: "2022-02-07T16:55:38+00:00"
 guid: https://www.open-bio.org/?p=6135
 title: Round-Ups from 2021 OBF Fellowship Awardees

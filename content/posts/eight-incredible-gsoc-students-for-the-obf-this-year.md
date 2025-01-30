@@ -5,7 +5,7 @@ category:
   - uncategorized
 cover:
   alt: ""
-  image: /wp-content/uploads/2021/06/image-8.png
+  image: wp-content/uploads/2021/06/image-8.png
 date: "2021-06-17T17:05:36+00:00"
 guid: https://www.open-bio.org/?p=5693
 tag:

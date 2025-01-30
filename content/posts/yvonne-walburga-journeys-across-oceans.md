@@ -4,7 +4,7 @@ category:
   - event-fellowship
 cover:
   alt: Figure2
-  image: /wp-content/uploads/2023/12/Figure2.png
+  image: wp-content/uploads/2023/12/Figure2.png
 date: "2023-12-13T13:59:53+00:00"
 guid: https://www.open-bio.org/?p=7506
 tag:

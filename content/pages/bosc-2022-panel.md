@@ -2,7 +2,7 @@
 author: nlharris
 cover:
   alt: Jenea_Adams
-  image: /wp-content/uploads/2022/05/Jenea_Adams.jpg
+  image: wp-content/uploads/2022/05/Jenea_Adams.jpg
 date: "2023-01-18T17:42:12+00:00"
 draft: "true"
 guid: https://www.open-bio.org/?page_id=6806

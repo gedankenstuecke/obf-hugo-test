@@ -6,7 +6,7 @@ category:
   - event-fellowship
 cover:
   alt: BOSC-color-logo-with-BOSC-smaller
-  image: /wp-content/uploads/2021/03/BOSC-color-logo-with-BOSC-smaller.jpeg
+  image: wp-content/uploads/2021/03/BOSC-color-logo-with-BOSC-smaller.jpeg
 date: "2021-03-24T21:21:52+00:00"
 guid: https://www.open-bio.org/?p=5360
 tag:

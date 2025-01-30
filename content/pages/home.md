@@ -2,7 +2,7 @@
 author: kushinauwu
 cover:
   alt: farah-presentation
-  image: /wp-content/uploads/2019/02/farah-presentation.jpg
+  image: wp-content/uploads/2019/02/farah-presentation.jpg
 date: "2018-12-25T08:49:52+00:00"
 guid: https://www.open-bio.org/wp/?page_id=251
 title: Home

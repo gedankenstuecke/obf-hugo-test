@@ -4,7 +4,7 @@ category:
   - event-fellowship
 cover:
   alt: WhatsApp-Image-2024-10-19-at-16.01.44_8a05ebe1-1
-  image: /wp-content/uploads/2024/10/WhatsApp-Image-2024-10-19-at-16.01.44_8a05ebe1-1.jpg
+  image: wp-content/uploads/2024/10/WhatsApp-Image-2024-10-19-at-16.01.44_8a05ebe1-1.jpg
 date: "2024-10-24T10:20:01+00:00"
 guid: https://www.open-bio.org/?p=8206
 tag:

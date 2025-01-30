@@ -6,7 +6,7 @@ category:
   - event-fellowship
 cover:
   alt: 2021-sponsors-horiz
-  image: /wp-content/uploads/2021/06/2021-sponsors-horiz.png
+  image: wp-content/uploads/2021/06/2021-sponsors-horiz.png
 date: "2021-06-11T12:00:00+00:00"
 guid: https://www.open-bio.org/?p=5663
 tag:

@@ -6,7 +6,7 @@ category:
   - travel-fellowship
 cover:
   alt: Sara-Elgebali-we-won
-  image: /wp-content/uploads/2019/08/Sara-Elgebali-we-won.jpg
+  image: wp-content/uploads/2019/08/Sara-Elgebali-we-won.jpg
 date: "2019-08-27T09:49:06+00:00"
 guid: https://www.open-bio.org/?p=3908
 tag:

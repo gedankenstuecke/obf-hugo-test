@@ -5,7 +5,7 @@ category:
   - event-fellowship
 cover:
   alt: brett-jordan-MHS7g_q-6mE-unsplash
-  image: /wp-content/uploads/2022/02/brett-jordan-MHS7g_q-6mE-unsplash-scaled.jpg
+  image: wp-content/uploads/2022/02/brett-jordan-MHS7g_q-6mE-unsplash-scaled.jpg
 date: "2022-02-07T16:56:29+00:00"
 guid: https://www.open-bio.org/?p=6141
 title: Call for applications for OBF Event Fellowship, Round 1 of 2022

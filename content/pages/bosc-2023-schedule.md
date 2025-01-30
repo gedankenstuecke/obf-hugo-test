@@ -2,7 +2,7 @@
 author: nlharris
 cover:
   alt: bosc_pear
-  image: /wp-content/uploads/2021/01/bosc_pear.png
+  image: wp-content/uploads/2021/01/bosc_pear.png
 date: "2023-04-11T15:16:33+00:00"
 guid: https://www.open-bio.org/?page_id=7028
 title: BOSC 2023 Schedule

@@ -5,7 +5,7 @@ category:
   - uncategorized
 cover:
   alt: Gemma-screenshot - 1
-  image: /wp-content/uploads/2024/03/Gemma-screenshot-1.png
+  image: wp-content/uploads/2024/03/Gemma-screenshot-1.png
 date: "2024-03-26T03:44:24+00:00"
 guid: https://www.open-bio.org/?p=7735
 title: Gemma Turon's ISCBAcademy talk available on video

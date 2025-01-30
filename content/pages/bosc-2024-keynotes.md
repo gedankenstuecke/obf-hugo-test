@@ -2,7 +2,7 @@
 author: nlharris
 cover:
   alt: Melanie-and-Andrew
-  image: /wp-content/uploads/2024/05/Melanie-and-Andrew.jpg
+  image: wp-content/uploads/2024/05/Melanie-and-Andrew.jpg
 date: "2024-03-13T04:29:08+00:00"
 guid: https://www.open-bio.org/?page_id=7706
 title: BOSC 2024 Keynotes

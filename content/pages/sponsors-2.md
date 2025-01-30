@@ -2,7 +2,7 @@
 author: kushinauwu
 cover:
   alt: ""
-  image: /wp-content/uploads/2021/06/image-8.png
+  image: wp-content/uploads/2021/06/image-8.png
 date: "2019-03-02T06:24:58+00:00"
 guid: https://www.open-bio.org/wp/?page_id=3098
 title: Sponsors

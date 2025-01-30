@@ -2,7 +2,7 @@
 author: jess
 cover:
   alt: panel-with-Nomi - 1
-  image: /wp-content/uploads/2022/11/panel-with-Nomi-1.jpeg
+  image: wp-content/uploads/2022/11/panel-with-Nomi-1.jpeg
 date: "2023-04-28T22:07:40+00:00"
 guid: https://www.open-bio.org/?page_id=7062
 title: Sponsors NEW DRAFT 2023

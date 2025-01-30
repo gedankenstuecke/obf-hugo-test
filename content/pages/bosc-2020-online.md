@@ -2,7 +2,7 @@
 author: kushinauwu
 cover:
   alt: BCC2020 banner
-  image: /wp-content/uploads/2019/10/Screen-Shot-2019-10-18-at-10.10.58-PM.png
+  image: wp-content/uploads/2019/10/Screen-Shot-2019-10-18-at-10.10.58-PM.png
 date: "2019-02-07T18:28:32+00:00"
 guid: https://www.open-bio.org/wp/?page_id=2618
 title: BOSC 2020 Online

@@ -7,7 +7,7 @@ category:
   - obf
 cover:
   alt: Event Fellowship
-  image: /wp-content/uploads/2020/08/distributed-event-1.jpg
+  image: wp-content/uploads/2020/08/distributed-event-1.jpg
 date: "2020-08-22T15:46:50+00:00"
 guid: https://www.open-bio.org/?p=4913
 tag:

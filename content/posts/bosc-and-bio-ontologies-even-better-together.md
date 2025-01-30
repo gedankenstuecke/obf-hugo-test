@@ -5,7 +5,7 @@ category:
   - community
 cover:
   alt: ISMB-Bio-Ontologies-BOSC
-  image: /wp-content/uploads/2022/03/ISMB-Bio-Ontologies-BOSC.jpg
+  image: wp-content/uploads/2022/03/ISMB-Bio-Ontologies-BOSC.jpg
 date: "2022-03-02T04:52:45+00:00"
 guid: https://www.open-bio.org/?p=6267
 tag:

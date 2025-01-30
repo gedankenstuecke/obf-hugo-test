@@ -6,7 +6,7 @@ category:
   - events
 cover:
   alt: obf
-  image: /wp-content/uploads/2023/07/obf.png
+  image: wp-content/uploads/2023/07/obf.png
 date: "2023-07-05T05:05:05+00:00"
 guid: https://www.open-bio.org/?p=7164
 tag:

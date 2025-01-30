@@ -6,7 +6,7 @@ category:
   - obf
 cover:
   alt: image-2
-  image: /wp-content/uploads/2021/06/image-2.png
+  image: wp-content/uploads/2021/06/image-2.png
 date: "2021-06-07T09:16:08+00:00"
 guid: https://www.open-bio.org/?p=5598
 tag:

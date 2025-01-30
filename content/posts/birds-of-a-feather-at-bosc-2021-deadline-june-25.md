@@ -4,7 +4,7 @@ category:
   - bosc/ismb
 cover:
   alt: partridge-and-pears-stamp
-  image: /wp-content/uploads/2021/06/partridge-and-pears-stamp.png
+  image: wp-content/uploads/2021/06/partridge-and-pears-stamp.png
 date: "2021-06-15T19:06:36+00:00"
 guid: https://www.open-bio.org/?p=5678
 tag:

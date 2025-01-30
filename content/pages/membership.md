@@ -2,7 +2,7 @@
 author: kushinauwu
 cover:
   alt: obf_membership
-  image: /wp-content/uploads/2019/02/obf_membership.jpg
+  image: wp-content/uploads/2019/02/obf_membership.jpg
 date: "2019-02-04T19:04:53+00:00"
 guid: https://www.open-bio.org/wp/?page_id=2546
 title: Membership

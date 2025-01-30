@@ -2,7 +2,7 @@
 author: yo
 cover:
   alt: nicky-mulder
-  image: /wp-content/uploads/2019/03/nicky-mulder.jpg
+  image: wp-content/uploads/2019/03/nicky-mulder.jpg
 date: "2019-05-01T20:27:48+00:00"
 guid: https://www.open-bio.org/?page_id=3506
 title: 'BOSC 2019 Keynote: Building infrastructure for responsible open science in Africa'

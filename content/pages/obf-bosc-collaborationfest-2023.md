@@ -2,7 +2,7 @@
 author: herve.menager
 cover:
   alt: CoFest-2022
-  image: /wp-content/uploads/2022/08/image4.jpg
+  image: wp-content/uploads/2022/08/image4.jpg
 date: "2023-03-14T21:53:03+00:00"
 guid: https://www.open-bio.org/?page_id=6921
 title: OBF/BOSC CollaborationFest 2023

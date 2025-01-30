@@ -7,7 +7,7 @@ category:
   - travel-fellowship
 cover:
   alt: photo-1557734864-c78b6dfef1b1
-  image: /wp-content/uploads/2019/08/photo-1557734864-c78b6dfef1b1.jpeg
+  image: wp-content/uploads/2019/08/photo-1557734864-c78b6dfef1b1.jpeg
 date: "2019-08-27T22:36:32+00:00"
 guid: https://www.open-bio.org/?p=4023
 tag:

@@ -7,7 +7,7 @@ category:
   - obf
 cover:
   alt: Moni-moderating-questions-for-Hannah-Wei - 1
-  image: /wp-content/uploads/2023/03/Moni-moderating-questions-for-Hannah-Wei-1.png
+  image: wp-content/uploads/2023/03/Moni-moderating-questions-for-Hannah-Wei-1.png
 date: "2023-03-17T23:50:15+00:00"
 guid: https://www.open-bio.org/?p=6942
 tag:

@@ -6,7 +6,7 @@ category:
   - obf
 cover:
   alt: DSC_0380
-  image: /wp-content/uploads/2023/03/DSC_0380-scaled.jpg
+  image: wp-content/uploads/2023/03/DSC_0380-scaled.jpg
 date: "2023-03-29T15:15:59+00:00"
 guid: https://www.open-bio.org/?p=6972
 tag:

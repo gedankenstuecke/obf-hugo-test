@@ -6,7 +6,7 @@ category:
   - community
 cover:
   alt: abby-chris-yo-greenroom-whole-room
-  image: /wp-content/uploads/2020/08/abby-chris-yo-greenroom-whole-room.png
+  image: wp-content/uploads/2020/08/abby-chris-yo-greenroom-whole-room.png
 date: "2020-08-13T19:28:41+00:00"
 guid: https://www.open-bio.org/?p=4892
 title: Lessons learned from organizing a virtual conference (BCC2020)

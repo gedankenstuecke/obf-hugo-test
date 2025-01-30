@@ -6,7 +6,7 @@ category:
   - travel-fellowship
 cover:
   alt: us2ts-2019-program-overview
-  image: /wp-content/uploads/2019/04/us2ts-2019-program-overview.png
+  image: wp-content/uploads/2019/04/us2ts-2019-program-overview.png
 date: "2019-04-06T20:10:10+00:00"
 guid: https://www.open-bio.org/?p=3422
 tag:

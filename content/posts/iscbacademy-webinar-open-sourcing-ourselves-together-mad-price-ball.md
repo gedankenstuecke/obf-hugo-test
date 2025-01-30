@@ -6,7 +6,7 @@ category:
   - uncategorized
 cover:
   alt: MadPriceBall
-  image: /wp-content/uploads/2021/09/MadPriceBall-1.png
+  image: wp-content/uploads/2021/09/MadPriceBall-1.png
 date: "2021-09-10T11:19:00+00:00"
 guid: https://www.open-bio.org/?p=5847
 title: 'ISCBacademy webinar: Open Sourcing Ourselves - Together (Mad Price Ball)'

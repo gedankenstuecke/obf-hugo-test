@@ -8,7 +8,7 @@ category:
   - uncategorized
 cover:
   alt: jemima-becker - 1
-  image: /wp-content/uploads/2022/06/jemima-becker-1.jpeg
+  image: wp-content/uploads/2022/06/jemima-becker-1.jpeg
 date: "2022-06-23T22:04:41+00:00"
 guid: https://www.open-bio.org/?p=6510
 title: My trip to the EMBO neural stem cells workshop

@@ -6,7 +6,7 @@ category:
   - event-fellowship
 cover:
   alt: davidt-bosc2021
-  image: /wp-content/uploads/2021/09/davidt-bosc2021-e1631010354706.jpeg
+  image: wp-content/uploads/2021/09/davidt-bosc2021-e1631010354706.jpeg
 date: "2021-09-07T10:24:48+00:00"
 guid: https://www.open-bio.org/?p=5822
 title: 'David Twesigomwe: My BOSC 2021 Experience'

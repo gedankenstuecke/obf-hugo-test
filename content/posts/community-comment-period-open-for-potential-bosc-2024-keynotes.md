@@ -5,7 +5,7 @@ category:
   - community
 cover:
   alt: pears-commenting
-  image: /wp-content/uploads/2024/01/pears-commenting.jpg
+  image: wp-content/uploads/2024/01/pears-commenting.jpg
 date: "2024-01-19T06:48:09+00:00"
 guid: https://www.open-bio.org/?p=7610
 tag:

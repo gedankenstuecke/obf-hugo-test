@@ -5,7 +5,7 @@ category:
   - events
 cover:
   alt: bosc-crowd-nh-at-podium-by-berenice-batut - 1
-  image: /wp-content/uploads/2019/03/bosc-crowd-nh-at-podium-by-berenice-batut-1.jpg
+  image: wp-content/uploads/2019/03/bosc-crowd-nh-at-podium-by-berenice-batut-1.jpg
 date: "2019-05-09T23:48:35+00:00"
 guid: https://www.open-bio.org/?p=3543
 tag:

@@ -8,7 +8,7 @@ category:
   - general
 cover:
   alt: CoFest_lunch_collage
-  image: /wp-content/uploads/2023/09/CoFest_lunch_collage.jpg
+  image: wp-content/uploads/2023/09/CoFest_lunch_collage.jpg
 date: "2023-09-29T22:08:37+00:00"
 guid: https://www.open-bio.org/?p=7341
 tag:

@@ -6,7 +6,7 @@ category:
   - community
 cover:
   alt: glowing-laptop-cropped - 1
-  image: /wp-content/uploads/2020/05/glowing-laptop-cropped-1.jpeg
+  image: wp-content/uploads/2020/05/glowing-laptop-cropped-1.jpeg
 date: "2020-05-22T18:31:38+00:00"
 guid: https://www.open-bio.org/?p=4761
 tag:

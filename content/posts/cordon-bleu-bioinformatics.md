@@ -5,7 +5,7 @@ category:
   - travel-fellowship
 cover:
   alt: cordon-bleu
-  image: /wp-content/uploads/2019/08/cordon-bleu.jpg
+  image: wp-content/uploads/2019/08/cordon-bleu.jpg
 date: "2019-08-25T18:08:26+00:00"
 guid: https://www.open-bio.org/?p=3872
 tag:

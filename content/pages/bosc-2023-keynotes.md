@@ -2,7 +2,7 @@
 author: nlharris
 cover:
   alt: Sara El-Gebali square - 1
-  image: /wp-content/uploads/2023/04/Sara-El-Gebali-square-1.png
+  image: wp-content/uploads/2023/04/Sara-El-Gebali-square-1.png
 date: "2023-04-01T05:03:26+00:00"
 guid: https://www.open-bio.org/?page_id=6992
 title: BOSC 2023 Keynotes

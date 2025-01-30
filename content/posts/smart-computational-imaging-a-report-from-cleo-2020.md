@@ -5,7 +5,7 @@ category:
   - travel-fellowship
 cover:
   alt: pengfei
-  image: /wp-content/uploads/2020/08/pengfei.png
+  image: wp-content/uploads/2020/08/pengfei.png
 date: "2020-08-25T12:23:51+00:00"
 guid: https://www.open-bio.org/?p=4900
 tag:

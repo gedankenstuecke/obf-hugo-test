@@ -6,7 +6,7 @@ category:
   - event-fellowship
 cover:
   alt: BOSC2022-dinner2
-  image: /wp-content/uploads/2022/08/image7.jpg
+  image: wp-content/uploads/2022/08/image7.jpg
 date: "2022-08-16T00:08:42+00:00"
 guid: https://www.open-bio.org/?p=6592
 tag:

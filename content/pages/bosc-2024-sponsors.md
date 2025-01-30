@@ -2,7 +2,7 @@
 author: khokamp
 cover:
   alt: bosc_pear
-  image: /wp-content/uploads/2021/01/bosc_pear.png
+  image: wp-content/uploads/2021/01/bosc_pear.png
 date: "2024-08-20T12:30:00+00:00"
 guid: https://www.open-bio.org/?page_id=8105
 title: BOSC 2024 Sponsors

@@ -6,7 +6,7 @@ category:
   - events
 cover:
   alt: Screen-Shot-2020-07-07-at-9.53.48-PM
-  image: /wp-content/uploads/2020/07/Screen-Shot-2020-07-07-at-9.53.48-PM.png
+  image: wp-content/uploads/2020/07/Screen-Shot-2020-07-07-at-9.53.48-PM.png
 date: "2020-07-08T04:06:07+00:00"
 guid: https://www.open-bio.org/?p=4863
 tag:

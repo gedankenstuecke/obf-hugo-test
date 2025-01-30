@@ -4,7 +4,7 @@ category:
   - event-fellowship
 cover:
   alt: photo2
-  image: /wp-content/uploads/2024/11/photo2.png
+  image: wp-content/uploads/2024/11/photo2.png
 date: "2024-11-21T15:54:50+00:00"
 guid: https://www.open-bio.org/?p=8316
 tag:

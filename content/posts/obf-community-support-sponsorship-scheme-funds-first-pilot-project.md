@@ -8,7 +8,7 @@ category:
   - uncategorized
 cover:
   alt: BHKi Logo
-  image: /wp-content/uploads/2022/08/Bioinformatica_Hub_Logo.png
+  image: wp-content/uploads/2022/08/Bioinformatica_Hub_Logo.png
 date: "2022-08-18T14:30:29+00:00"
 guid: https://www.open-bio.org/?p=6615
 tag:

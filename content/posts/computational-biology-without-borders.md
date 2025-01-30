@@ -5,7 +5,7 @@ category:
   - travel-fellowship
 cover:
   alt: Basel-bridge
-  image: /wp-content/uploads/2019/10/Basel-bridge.jpeg
+  image: wp-content/uploads/2019/10/Basel-bridge.jpeg
 date: "2019-10-15T20:52:03+00:00"
 guid: https://www.open-bio.org/?p=3850
 tag:

@@ -2,7 +2,7 @@
 author: khokamp
 cover:
   alt: BOSC2023-crowded-room-Bastian - 1 (1)
-  image: /wp-content/uploads/2023/08/BOSC2023-crowded-room-Bastian-1-1.png
+  image: wp-content/uploads/2023/08/BOSC2023-crowded-room-Bastian-1-1.png
 date: "2024-01-24T16:09:52+00:00"
 guid: https://www.open-bio.org/?page_id=7623
 title: Submit to BOSC 2025

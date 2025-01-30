@@ -6,7 +6,7 @@ category:
   - uncategorized
 cover:
   alt: obf-board-meeting-Sep2021-composite
-  image: /wp-content/uploads/2021/10/obf-board-meeting-Sep2021-composite.png
+  image: wp-content/uploads/2021/10/obf-board-meeting-Sep2021-composite.png
 date: "2021-10-06T10:20:00+00:00"
 guid: https://www.open-bio.org/?p=5883
 title: Two new members elected to OBF Board

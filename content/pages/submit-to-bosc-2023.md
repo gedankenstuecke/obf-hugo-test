@@ -2,7 +2,7 @@
 author: nlharris
 cover:
   alt: Christie-Jason-Nomi-2021 - 1
-  image: /wp-content/uploads/2022/01/Christie-Jason-Nomi-2021-1.png
+  image: wp-content/uploads/2022/01/Christie-Jason-Nomi-2021-1.png
 date: "2023-01-18T17:56:13+00:00"
 draft: "true"
 guid: https://www.open-bio.org/?page_id=6809

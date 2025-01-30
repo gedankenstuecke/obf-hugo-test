@@ -6,7 +6,7 @@ category:
   - events
 cover:
   alt: Call for application is open
-  image: /wp-content/uploads/2020/02/open-1-1-3.jpeg
+  image: wp-content/uploads/2020/02/open-1-1-3.jpeg
 date: "2021-02-19T10:36:38+00:00"
 guid: https://www.open-bio.org/?p=5305
 title: Call for applications for OBF Event Fellowship, Round 1 of 2021

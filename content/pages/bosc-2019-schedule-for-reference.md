@@ -2,7 +2,7 @@
 author: nlharris
 cover:
   alt: BOSC2019-organizers - 1
-  image: /wp-content/uploads/2019/08/BOSC2019-organizers-1.jpg
+  image: wp-content/uploads/2019/08/BOSC2019-organizers-1.jpg
 date: "2019-03-10T01:26:28+00:00"
 guid: https://www.open-bio.org/wp/?page_id=3267
 title: BOSC 2019 Schedule (for reference)

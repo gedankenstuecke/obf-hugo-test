@@ -2,7 +2,7 @@
 author: nlharris
 cover:
   alt: BCC-day1
-  image: /wp-content/uploads/2020/06/BCC-day1.png
+  image: wp-content/uploads/2020/06/BCC-day1.png
 date: "2020-06-17T03:38:16+00:00"
 guid: https://www.open-bio.org/?page_id=4810
 title: BOSC 2020 schedule

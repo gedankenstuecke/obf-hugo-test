@@ -2,7 +2,7 @@
 author: nlharris
 cover:
   alt: Joseph-Yracheta
-  image: /wp-content/uploads/2023/04/Joseph-Yracheta.png
+  image: wp-content/uploads/2023/04/Joseph-Yracheta.png
 date: "2023-04-14T21:48:20+00:00"
 guid: https://www.open-bio.org/?page_id=7037
 title: BOSC 2023 Panel

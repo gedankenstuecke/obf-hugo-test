@@ -2,7 +2,7 @@
 author: nlharris
 cover:
   alt: bosc_pear
-  image: /wp-content/uploads/2021/01/bosc_pear.png
+  image: wp-content/uploads/2021/01/bosc_pear.png
 date: "2022-03-21T00:14:13+00:00"
 guid: https://www.open-bio.org/?page_id=6308
 title: BOSC 2022 Schedule

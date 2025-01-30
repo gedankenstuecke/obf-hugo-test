@@ -7,7 +7,7 @@ category:
   - uncategorized
 cover:
   alt: Screenshot-from-2021-12-07-19-16-13
-  image: /wp-content/uploads/2021/12/Screenshot-from-2021-12-07-19-16-13.png
+  image: wp-content/uploads/2021/12/Screenshot-from-2021-12-07-19-16-13.png
 date: "2021-12-17T16:04:58+00:00"
 guid: https://www.open-bio.org/?p=5923
 tag:

@@ -4,7 +4,7 @@ category:
   - travel-fellowship
 cover:
   alt: groupphotot
-  image: /wp-content/uploads/2019/05/groupphotot.jpg
+  image: wp-content/uploads/2019/05/groupphotot.jpg
 date: "2019-06-01T02:14:40+00:00"
 guid: https://www.open-bio.org/?p=3618
 tag:

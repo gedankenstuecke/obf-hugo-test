@@ -5,7 +5,7 @@ category:
   - travel-fellowship
 cover:
   alt: farah-presentation
-  image: /wp-content/uploads/2019/02/farah-presentation.jpg
+  image: wp-content/uploads/2019/02/farah-presentation.jpg
 date: "2019-01-09T13:09:09+00:00"
 guid: https://news.open-bio.org/?p=2124
 tag:

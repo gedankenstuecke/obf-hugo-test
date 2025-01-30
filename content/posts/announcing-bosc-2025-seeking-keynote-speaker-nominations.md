@@ -5,7 +5,7 @@ category:
   - events
 cover:
   alt: BOSC audience with Jessica - 1
-  image: /wp-content/uploads/2024/12/BOSC-audience-with-Jessica-1.jpeg
+  image: wp-content/uploads/2024/12/BOSC-audience-with-Jessica-1.jpeg
 date: "2025-01-09T06:33:54+00:00"
 guid: https://www.open-bio.org/?p=8410
 tag:

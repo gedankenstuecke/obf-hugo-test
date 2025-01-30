@@ -6,7 +6,7 @@ category:
   - travel-fellowship
 cover:
   alt: obftf
-  image: /wp-content/uploads/2019/11/obftf.png
+  image: wp-content/uploads/2019/11/obftf.png
 date: "2019-11-14T16:50:13+00:00"
 guid: https://www.open-bio.org/?p=4312
 tag:

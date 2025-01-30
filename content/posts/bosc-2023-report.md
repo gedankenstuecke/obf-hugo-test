@@ -8,7 +8,7 @@ category:
   - general
 cover:
   alt: BOSC-full-room-wide - 1
-  image: /wp-content/uploads/2023/08/BOSC-full-room-wide-1.png
+  image: wp-content/uploads/2023/08/BOSC-full-room-wide-1.png
 date: "2023-08-14T20:24:33+00:00"
 guid: https://www.open-bio.org/?p=7223
 title: BOSC 2023 Report

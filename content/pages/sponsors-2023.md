@@ -2,7 +2,7 @@
 author: nlharris
 cover:
   alt: panel-with-Nomi - 1
-  image: /wp-content/uploads/2022/11/panel-with-Nomi-1.jpeg
+  image: wp-content/uploads/2022/11/panel-with-Nomi-1.jpeg
 date: "2024-02-15T16:34:29+00:00"
 guid: https://www.open-bio.org/?page_id=7659
 title: Sponsors - 2023

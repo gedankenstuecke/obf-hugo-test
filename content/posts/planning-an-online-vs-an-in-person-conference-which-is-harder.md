@@ -8,7 +8,7 @@ category:
   - uncategorized
 cover:
   alt: image10
-  image: /wp-content/uploads/2020/09/image10.png
+  image: wp-content/uploads/2020/09/image10.png
 date: "2020-09-01T04:10:19+00:00"
 guid: https://www.open-bio.org/?p=5029
 title: 'Planning an online vs. an in-person conference: which is harder?'

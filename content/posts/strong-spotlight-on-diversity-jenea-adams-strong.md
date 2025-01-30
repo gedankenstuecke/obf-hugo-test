@@ -7,7 +7,7 @@ category:
   - uncategorized
 cover:
   alt: Jenea-Adams - 1 (1)
-  image: /wp-content/uploads/2023/07/Jenea-Adams-1-1.png
+  image: wp-content/uploads/2023/07/Jenea-Adams-1-1.png
 date: "2023-07-10T21:25:30+00:00"
 guid: https://www.open-bio.org/?p=7170
 tag:

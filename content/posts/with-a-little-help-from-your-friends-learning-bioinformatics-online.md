@@ -4,7 +4,7 @@ category:
   - event-fellowship
 cover:
   alt: Felipe_EMBL
-  image: /wp-content/uploads/2024/10/Felipe_EMBL.jpg
+  image: wp-content/uploads/2024/10/Felipe_EMBL.jpg
 date: "2024-10-05T05:12:05+00:00"
 guid: https://www.open-bio.org/?p=8163
 tag:

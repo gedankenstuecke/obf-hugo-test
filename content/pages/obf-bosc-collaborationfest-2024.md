@@ -2,7 +2,7 @@
 author: jeremy.just
 cover:
   alt: CoFest-2022
-  image: /wp-content/uploads/2022/08/image4.jpg
+  image: wp-content/uploads/2022/08/image4.jpg
 date: "2023-11-09T17:43:01+00:00"
 guid: https://www.open-bio.org/?page_id=7453
 title: OBF/BOSC CollaborationFest 2024

@@ -4,7 +4,7 @@ category:
   - bosc/ismb
 cover:
   alt: Gemma-Turon - 1
-  image: /wp-content/uploads/2024/02/Gemma-Turon-1.png
+  image: wp-content/uploads/2024/02/Gemma-Turon-1.png
 date: "2024-02-08T17:32:56+00:00"
 guid: https://www.open-bio.org/?p=7650
 tag:

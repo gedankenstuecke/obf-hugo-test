@@ -4,7 +4,7 @@ category:
   - event-fellowship
 cover:
   alt: Shirley
-  image: /wp-content/uploads/2023/09/Shirley.png
+  image: wp-content/uploads/2023/09/Shirley.png
 date: "2023-09-16T08:28:55+00:00"
 guid: https://www.open-bio.org/?p=7317
 tag:

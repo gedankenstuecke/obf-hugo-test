@@ -7,7 +7,7 @@ category:
   - obf
 cover:
   alt: obf_logo_icon-circle-tr
-  image: /wp-content/uploads/2019/02/obf_logo_icon-circle-tr-1.png
+  image: wp-content/uploads/2019/02/obf_logo_icon-circle-tr-1.png
 date: "2022-01-04T21:44:00+00:00"
 guid: https://www.open-bio.org/?p=5991
 tag:

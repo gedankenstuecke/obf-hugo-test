@@ -8,7 +8,7 @@ category:
   - uncategorized
 cover:
   alt: OBF-fellow-2020-1
-  image: /wp-content/uploads/2020/05/OBF-fellow-2020-1.jpeg
+  image: wp-content/uploads/2020/05/OBF-fellow-2020-1.jpeg
 date: "2020-05-08T14:20:10+00:00"
 guid: https://www.open-bio.org/?p=4730
 tag:

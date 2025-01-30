@@ -5,7 +5,7 @@ category:
   - events
 cover:
   alt: Hannah_Wei_Profile
-  image: /wp-content/uploads/2023/02/Hannah_Wei_Profile.jpg
+  image: wp-content/uploads/2023/02/Hannah_Wei_Profile.jpg
 date: "2023-03-07T10:53:00+00:00"
 guid: https://www.open-bio.org/?p=6850
 tag:

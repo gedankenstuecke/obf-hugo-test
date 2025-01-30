@@ -2,7 +2,7 @@
 author: nlharris
 cover:
   alt: Jenea_Adams
-  image: /wp-content/uploads/2022/05/Jenea_Adams.jpg
+  image: wp-content/uploads/2022/05/Jenea_Adams.jpg
 date: "2022-05-07T22:43:26+00:00"
 guid: https://www.open-bio.org/?page_id=6390
 title: BOSC 2022 Panel

@@ -5,7 +5,7 @@ category:
   - community
 cover:
   alt: Sierra Moxon
-  image: /wp-content/uploads/2023/08/Sierra-at-podium-1.png
+  image: wp-content/uploads/2023/08/Sierra-at-podium-1.png
 date: "2023-09-18T05:31:52+00:00"
 guid: https://www.open-bio.org/?p=7321
 tag:

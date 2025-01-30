@@ -2,7 +2,7 @@
 author: nlharris
 cover:
   alt: 2023-panel - 1 (1)
-  image: /wp-content/uploads/2023/08/2023-panel-1-1.png
+  image: wp-content/uploads/2023/08/2023-panel-1-1.png
 date: "2023-08-19T17:48:09+00:00"
 guid: https://www.open-bio.org/?page_id=7251
 title: How BOSC supports diversity, inclusion and accessibility

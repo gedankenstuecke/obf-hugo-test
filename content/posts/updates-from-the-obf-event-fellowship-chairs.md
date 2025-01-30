@@ -6,7 +6,7 @@ category:
   - uncategorized
 cover:
   alt: obf-ef-chairs
-  image: /wp-content/uploads/2022/02/obf-ef-chairs.png
+  image: wp-content/uploads/2022/02/obf-ef-chairs.png
 date: "2022-02-07T16:51:54+00:00"
 guid: https://www.open-bio.org/?p=6133
 title: Updates from the OBF Event Fellowship Chairs

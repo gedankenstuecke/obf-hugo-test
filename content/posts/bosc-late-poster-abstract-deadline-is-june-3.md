@@ -5,7 +5,7 @@ category:
   - community
 cover:
   alt: Colour Horizontal Full Name
-  image: /wp-content/uploads/2021/03/Colour-Horizontal-Full-Name.png
+  image: wp-content/uploads/2021/03/Colour-Horizontal-Full-Name.png
 date: "2021-05-28T22:17:49+00:00"
 guid: https://www.open-bio.org/?p=5579
 title: BOSC late poster abstract deadline is June 3!

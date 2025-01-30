@@ -4,7 +4,7 @@ category:
   - event-fellowship
 cover:
   alt: ""
-  image: /wp-content/uploads/2024/07/IMG_1711-scaled-e1721777799623.jpg
+  image: wp-content/uploads/2024/07/IMG_1711-scaled-e1721777799623.jpg
 date: "2024-07-18T12:11:01+00:00"
 guid: https://www.open-bio.org/?p=8010
 tag:

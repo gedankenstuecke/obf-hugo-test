@@ -5,7 +5,7 @@ category:
   - travel-fellowship
 cover:
   alt: Created with GIMP
-  image: /wp-content/uploads/2020/03/e2.jpg
+  image: wp-content/uploads/2020/03/e2.jpg
 date: "2020-04-14T16:15:55+00:00"
 guid: https://www.open-bio.org/?p=4626
 tag:

@@ -7,7 +7,7 @@ category:
   - travel-fellowship
 cover:
   alt: Call for application is open
-  image: /wp-content/uploads/2020/02/open-1-1-3.jpeg
+  image: wp-content/uploads/2020/02/open-1-1-3.jpeg
 date: "2020-02-17T09:00:00+00:00"
 guid: https://www.open-bio.org/?p=4540
 tag:

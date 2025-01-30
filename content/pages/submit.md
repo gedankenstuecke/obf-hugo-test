@@ -2,7 +2,7 @@
 author: kushinauwu
 cover:
   alt: bosc-2021-org-committee
-  image: /wp-content/uploads/2021/01/bosc-2021-org-committee-1.jpg
+  image: wp-content/uploads/2021/01/bosc-2021-org-committee-1.jpg
 date: "2019-02-08T16:48:37+00:00"
 guid: https://www.open-bio.org/wp/?page_id=2710
 title: Submit

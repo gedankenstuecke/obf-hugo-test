@@ -2,7 +2,7 @@
 author: nlharris
 cover:
   alt: Melissa-Haendel-cropped
-  image: /wp-content/uploads/2022/03/Melissa-Haendel-cropped.jpg
+  image: wp-content/uploads/2022/03/Melissa-Haendel-cropped.jpg
 date: "2022-03-01T05:49:02+00:00"
 guid: https://www.open-bio.org/?page_id=6247
 title: BOSC 2022 Keynotes

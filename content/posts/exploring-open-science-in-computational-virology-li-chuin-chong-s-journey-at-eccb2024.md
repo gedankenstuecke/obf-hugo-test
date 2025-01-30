@@ -4,7 +4,7 @@ category:
   - event-fellowship
 cover:
   alt: ECCB2024_feature_OBF
-  image: /wp-content/uploads/2024/10/ECCB2024_feature_OBF.jpg
+  image: wp-content/uploads/2024/10/ECCB2024_feature_OBF.jpg
 date: "2024-11-04T11:26:48+00:00"
 guid: https://www.open-bio.org/?p=8236
 tag:

@@ -8,7 +8,7 @@ category:
   - uncategorized
 cover:
   alt: aaron-burden-zunGugEsJCE-unsplash
-  image: /wp-content/uploads/2022/07/aaron-burden-zunGugEsJCE-unsplash.jpg
+  image: wp-content/uploads/2022/07/aaron-burden-zunGugEsJCE-unsplash.jpg
 date: "2022-07-25T19:34:37+00:00"
 guid: https://www.open-bio.org/?p=6562
 title: Reflections from my 3 years on the OBF Board - Malvika Sharan

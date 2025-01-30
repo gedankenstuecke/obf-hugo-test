@@ -2,7 +2,7 @@
 author: nlharris
 cover:
   alt: ""
-  image: /wp-content/uploads/2021/06/image-8.png
+  image: wp-content/uploads/2021/06/image-8.png
 date: "2024-02-15T16:33:21+00:00"
 draft: "true"
 guid: https://www.open-bio.org/?page_id=7658

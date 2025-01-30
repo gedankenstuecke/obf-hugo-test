@@ -4,7 +4,7 @@ category:
   - bosc/ismb
 cover:
   alt: pears-with-posters1
-  image: /wp-content/uploads/2024/02/pears-with-posters1.jpg
+  image: wp-content/uploads/2024/02/pears-with-posters1.jpg
 date: "2024-02-18T23:20:16+00:00"
 guid: https://www.open-bio.org/?p=7670
 tag:

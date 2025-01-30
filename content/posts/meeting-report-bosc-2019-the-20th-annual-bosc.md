@@ -6,7 +6,7 @@ category:
   - events
 cover:
   alt: BOSC2019-audience1 - 1
-  image: /wp-content/uploads/2019/08/BOSC2019-audience1-1.jpg
+  image: wp-content/uploads/2019/08/BOSC2019-audience1-1.jpg
 date: "2019-08-01T20:45:36+00:00"
 guid: https://www.open-bio.org/?p=3838
 title: 'Meeting report: BOSC 2019, the 20th Annual BOSC'

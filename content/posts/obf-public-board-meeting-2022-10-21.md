@@ -6,7 +6,7 @@ category:
   - obf
 cover:
   alt: OBF-Board-2022-10-21 - 1
-  image: /wp-content/uploads/2022/09/OBF-Board-2022-10-21-1.png
+  image: wp-content/uploads/2022/09/OBF-Board-2022-10-21-1.png
 date: "2022-09-29T17:33:38+00:00"
 guid: https://www.open-bio.org/?p=6643
 tag:
