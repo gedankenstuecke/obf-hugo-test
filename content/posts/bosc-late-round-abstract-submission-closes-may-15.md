@@ -5,7 +5,7 @@ category:
   - events
 cover:
   alt: bosc-crowd-nh-at-podium-by-berenice-batut - 1
-  image: wp-content/uploads/2019/03/bosc-crowd-nh-at-podium-by-berenice-batut-1.jpg
+  image: /wp-content/uploads/2019/03/bosc-crowd-nh-at-podium-by-berenice-batut-1.jpg
 date: "2019-05-09T23:48:35+00:00"
 guid: https://www.open-bio.org/?p=3543
 tag:
@@ -16,7 +16,7 @@ title: BOSC late-round abstract submission closes May 15!
 url: /2019/05/09/bosc-2019-late-round/
 
 ---
-![](wp/wp-content/uploads/2019/03/nomi-at-podium-open-data-slide-gigascience.jpg-1.jpg)
+![](/wp/wp-content/uploads/2019/03/nomi-at-podium-open-data-slide-gigascience.jpg-1.jpg)
 If you'd like the opportunity to present your work at [BOSC 2019](/events/bosc/) (which will take place in Basel, Switzerland, on July 24-25, the last two days of [ISMB/ECCB 2019](https://www.iscb.org/ismbeccb2019)), now's your chance! The late round of [abstract submission](/events/bosc/submit) is open, and we will be choosing a few abstracts for "Late-Breaking Lightning Talks" as well as posters.
 
 BOSC welcomes submissions about all aspects of open source bioinformatics, open science and open data. More information, and a link to the EasyChair submission portal, can be found at [/events/bosc/submit/](/events/bosc/submit/) .

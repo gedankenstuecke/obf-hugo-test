@@ -7,7 +7,7 @@ category:
   - uncategorized
 cover:
   alt: gemma-turon-talk
-  image: wp-content/uploads/2021/08/gemma-turon-talk.png
+  image: /wp-content/uploads/2021/08/gemma-turon-talk.png
 date: "2021-08-31T09:46:12+00:00"
 guid: https://www.open-bio.org/?p=5788
 title: 'Gemma Turon: Highlights of my participation at the BOSC-2021 conference thanks to an OBF Event Fellowship'

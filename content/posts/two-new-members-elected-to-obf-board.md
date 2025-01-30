@@ -6,7 +6,7 @@ category:
   - uncategorized
 cover:
   alt: obf-board-meeting-Sep2021-composite
-  image: wp-content/uploads/2021/10/obf-board-meeting-Sep2021-composite.png
+  image: /wp-content/uploads/2021/10/obf-board-meeting-Sep2021-composite.png
 date: "2021-10-06T10:20:00+00:00"
 guid: https://www.open-bio.org/?p=5883
 title: Two new members elected to OBF Board
@@ -19,7 +19,7 @@ The OBF held a public Board meeting on September 21, 2021, via Zoom. During the 
 
 [Caleb Kipkurui Kibet](https://twitter.com/Calkibet) is a bioinformatics researcher at ICIPE, the International Centre of Insect Physiology and Ecology in Kenya, as well as an adjunct lecturer at Pwani University. He is the founder and project lead of [OpenScienceKE](https://github.com/BioinfoNet), which seeks to promote open science practices in bioinformatics. In 2019-2020, Caleb was a Mozilla Open Science Fellow; his work involved developing FAIR Genomics Data Management policy, frameworks, and infrastructure; building a community of Open Science enthusiasts; and promoting the adoption of machine learning tools in biomedical research.
 
-![](wp-content/uploads/2021/10/obf-board-meeting-Sep2021-composite.png)
+![](/wp-content/uploads/2021/10/obf-board-meeting-Sep2021-composite.png)
 
 Above: Board candidates Caleb Kibet (bottom left) and Hilyatuz Zahroh (bottom right) with current Board members during the public OBF Board meeting on 21-Sept-2021.
 

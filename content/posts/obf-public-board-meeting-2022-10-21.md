@@ -6,7 +6,7 @@ category:
   - obf
 cover:
   alt: OBF-Board-2022-10-21 - 1
-  image: wp-content/uploads/2022/09/OBF-Board-2022-10-21-1.png
+  image: /wp-content/uploads/2022/09/OBF-Board-2022-10-21-1.png
 date: "2022-09-29T17:33:38+00:00"
 guid: https://www.open-bio.org/?p=6643
 tag:
@@ -28,7 +28,7 @@ url: /2022/09/29/obf-public-board-meeting-2022-10-21/
 
 ### Elections to the Board
 
-- Iddo Friedberg, running for Board member at-large ( [statement of interest](wp-content/uploads/2022/10/OBF-Statement-Iddo-Friedberg.pdf))
+- Iddo Friedberg, running for Board member at-large ( [statement of interest](/wp-content/uploads/2022/10/OBF-Statement-Iddo-Friedberg.pdf))
 - This will be an electronic ballot of the current board members
 
 ### Bylaw Changes

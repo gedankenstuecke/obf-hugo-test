@@ -4,7 +4,7 @@ category:
   - bosc/ismb
 cover:
   alt: partridge-and-pears-stamp
-  image: wp-content/uploads/2021/06/partridge-and-pears-stamp.png
+  image: /wp-content/uploads/2021/06/partridge-and-pears-stamp.png
 date: "2021-06-15T19:06:36+00:00"
 guid: https://www.open-bio.org/?p=5678
 tag:
@@ -13,7 +13,7 @@ title: Birds of a Feather at BOSC 2021 (deadline June 25)
 url: /2021/06/15/birds-of-a-feather-at-bosc-2021/
 
 ---
-![](wp-content/uploads/2021/06/partridge-and-pears-stamp.png)
+![](/wp-content/uploads/2021/06/partridge-and-pears-stamp.png)
 
 Birds of a Feather (BoFs) are informal, self-organized meetups focused on specific topics. They are a great way to meet other like-minded community members and have an in-depth discussion on a topic of shared interest.
 

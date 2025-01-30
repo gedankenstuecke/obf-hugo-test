@@ -4,7 +4,7 @@ category:
   - bosc/ismb
 cover:
   alt: BOSC-color-logo-with-BOSC-smaller
-  image: wp-content/uploads/2021/03/BOSC-color-logo-with-BOSC-smaller.jpeg
+  image: /wp-content/uploads/2021/03/BOSC-color-logo-with-BOSC-smaller.jpeg
 date: "2023-02-10T22:44:40+00:00"
 guid: https://www.open-bio.org/?p=6860
 tag:

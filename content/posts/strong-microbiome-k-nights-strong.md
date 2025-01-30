@@ -6,7 +6,7 @@ category:
   - uncategorized
 cover:
   alt: IHMC.png - 1
-  image: wp-content/uploads/2022/12/IHMC.png-1.png
+  image: /wp-content/uploads/2022/12/IHMC.png-1.png
 date: "2022-12-29T20:21:04+00:00"
 guid: https://www.open-bio.org/?p=6777
 tag:

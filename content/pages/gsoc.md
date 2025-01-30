@@ -8,26 +8,26 @@ url: /events/gsoc/
 ---
 # Open Bioinformatics Foundation in GSoC
 
-[![](wp/wp-content/uploads/2019/01/GSoC-icon-192-1.png)](wp/events/gsoc/gsoc-overview/)
+[![](/wp/wp-content/uploads/2019/01/GSoC-icon-192-1.png)](/wp/events/gsoc/gsoc-overview/)
 
-### [Overview](wp/events/gsoc/gsoc-overview/)
+### [Overview](/wp/events/gsoc/gsoc-overview/)
 
 Here you will find a general outline of what Google Summer of Code is.
 
-![](wp/wp-content/uploads/2019/01/idea.png)
+![](/wp/wp-content/uploads/2019/01/idea.png)
 
-### [Project Ideas](wp/events/gsoc/gsoc-project-ideas/)
+### [Project Ideas](/wp/events/gsoc/gsoc-project-ideas/)
 
 All the OBF/GSoC projects are listed here complete with details, including potential mentors.
 
-![](wp/wp-content/uploads/2019/01/guide.png)
+![](/wp/wp-content/uploads/2019/01/guide.png)
 
-### [Guide for Prospective GSoC Contributors](wp/events/gsoc/gsoc-guide/)
+### [Guide for Prospective GSoC Contributors](/wp/events/gsoc/gsoc-guide/)
 
 Consult this guide for rules about applications.
 
-![](wp/wp-content/uploads/2019/01/contact.png)
+![](/wp/wp-content/uploads/2019/01/contact.png)
 
-### [Contact](wp/events/gsoc/gsoc-contact/)
+### [Contact](/wp/events/gsoc/gsoc-contact/)
 
 The contact links for OBF/GSoC admins and mentors are listed here.

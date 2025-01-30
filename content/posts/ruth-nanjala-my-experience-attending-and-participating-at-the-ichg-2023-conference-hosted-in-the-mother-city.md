@@ -7,7 +7,7 @@ category:
   - travel-fellowship
 cover:
   alt: Ruth-Nanjala-cropped-OBF-event-fellowship-winner
-  image: wp-content/uploads/2023/03/Ruth-Nanjala-cropped-OBF-event-fellowship-winner.jpg
+  image: /wp-content/uploads/2023/03/Ruth-Nanjala-cropped-OBF-event-fellowship-winner.jpg
 date: "2023-03-21T16:32:05+00:00"
 guid: https://www.open-bio.org/?p=6932
 tag:

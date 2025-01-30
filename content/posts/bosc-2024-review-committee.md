@@ -4,7 +4,7 @@ category:
   - bosc/ismb
 cover:
   alt: pear-reviewers
-  image: wp-content/uploads/2024/04/pear-reviewers.jpg
+  image: /wp-content/uploads/2024/04/pear-reviewers.jpg
 date: "2024-04-12T16:09:48+00:00"
 guid: https://www.open-bio.org/?p=7817
 title: BOSC 2024 Review Committee

@@ -5,7 +5,7 @@ category:
   - community
 cover:
   alt: Colour Horizontal Full Name
-  image: wp-content/uploads/2021/03/Colour-Horizontal-Full-Name.png
+  image: /wp-content/uploads/2021/03/Colour-Horizontal-Full-Name.png
 date: "2021-07-28T14:28:50+00:00"
 guid: https://www.open-bio.org/?p=5747
 title: Join us for BOSC 2021!

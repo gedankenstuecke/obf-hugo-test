@@ -2,7 +2,7 @@
 author: kushinauwu
 cover:
   alt: farah-presentation
-  image: wp-content/uploads/2019/02/farah-presentation.jpg
+  image: /wp-content/uploads/2019/02/farah-presentation.jpg
 date: "2018-12-25T08:49:52+00:00"
 guid: https://www.open-bio.org/wp/?page_id=251
 title: Home
@@ -19,9 +19,9 @@ OBF runs the annual [Bioinformatics Open Source Conference (BOSC)](events/about)
 
 [Learn More](/about/)
 
-![Poster session at GCCBOSC2018](wp/wp-content/uploads/2019/03/people-at-poster-session-GCC2018-1.jpg)
+![Poster session at GCCBOSC2018](/wp/wp-content/uploads/2019/03/people-at-poster-session-GCC2018-1.jpg)
 
-![OBF Treasurer Heather Wiencko introducing OBF at BOSC 2024](wp-content/uploads/2024/08/Heather-presenting-1.jpeg)
+![OBF Treasurer Heather Wiencko introducing OBF at BOSC 2024](/wp-content/uploads/2024/08/Heather-presenting-1.jpeg)
 
 # Latest News
 
@@ -38,4 +38,4 @@ The OBF Event Fellowship program aims to increase diverse participation at event
 
 [Apply](travel-awards/#fellowships-applications)
 
-![Ruth Najala, an OBF Travel Award winner, by her poster](wp-content/uploads/2023/03/Ruth-Nanjala-cropped-OBF-event-fellowship-winner.jpg)
+![Ruth Najala, an OBF Travel Award winner, by her poster](/wp-content/uploads/2023/03/Ruth-Nanjala-cropped-OBF-event-fellowship-winner.jpg)

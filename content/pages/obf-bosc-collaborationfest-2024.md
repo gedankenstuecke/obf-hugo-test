@@ -2,7 +2,7 @@
 author: jeremy.just
 cover:
   alt: CoFest-2022
-  image: wp-content/uploads/2022/08/image4.jpg
+  image: /wp-content/uploads/2022/08/image4.jpg
 date: "2023-11-09T17:43:01+00:00"
 guid: https://www.open-bio.org/?page_id=7453
 title: OBF/BOSC CollaborationFest 2024
@@ -22,7 +22,7 @@ Three easy steps to sign up:
 
 Please register in advance to help us set up everything!
 
-![Attendees at the 2018 GCCBOSC CoFest](wp-content/uploads/2019/03/codefest-big-group-on-steps.jpg)
+![Attendees at the 2018 GCCBOSC CoFest](/wp-content/uploads/2019/03/codefest-big-group-on-steps.jpg)
 
 ## Date
 
@@ -38,10 +38,10 @@ We will be hosted by the [UQAM](https://uqam.ca/), on the “east” campus in d
 
 ## Sponsors
 
-[![](wp-content/uploads/2024/06/Logo_BioInfo.jpg) \
+[![](/wp-content/uploads/2024/06/Logo_BioInfo.jpg) \
 Diallo Lab](https://diallolab.com)
 
-[![](wp-content/uploads/2024/06/UQAM.png) \
+[![](/wp-content/uploads/2024/06/UQAM.png) \
 Université du Québec à Montréal](https://uqam.ca/)
 
 ## History

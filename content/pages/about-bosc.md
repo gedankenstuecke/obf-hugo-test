@@ -2,7 +2,7 @@
 author: kushinauwu
 cover:
   alt: BOSC-room - 1
-  image: wp-content/uploads/2024/08/BOSC-room-1.jpeg
+  image: /wp-content/uploads/2024/08/BOSC-room-1.jpeg
 date: "2019-02-08T16:46:51+00:00"
 guid: https://www.open-bio.org/wp/?page_id=2705
 title: About BOSC
@@ -19,9 +19,9 @@ BOSC has been part of ISMB every year except for 2018 and 2020. In 2020, BOSC pa
 
 BOSC 2025 will be part of [ISMB/ECCB 2025](https://www.iscb.org/ismbeccb2025/home) in Liverpool, UK, between July 20-24, 2025.
 
-![Screenshot from BOSC 2021](wp-content/uploads/2022/01/bosc-2021-closing-composite-bigger.png)
+![Screenshot from BOSC 2021](/wp-content/uploads/2022/01/bosc-2021-closing-composite-bigger.png)
 
-![](wp-content/uploads/2019/03/codefest-some-people.jpg)
+![](/wp-content/uploads/2019/03/codefest-some-people.jpg)
 
 #### BOSC aims to:
 
@@ -64,13 +64,13 @@ In recent years the BOSC meetings have been preceded or followed by a two day [
 
 There are many ways to get involved with the conference:
 
-![](wp-content/uploads/2023/08/BOSC2023-crowded-room-Jason-standing-1.png)
+![](/wp-content/uploads/2023/08/BOSC2023-crowded-room-Jason-standing-1.png)
 
 ## Attend
 
 There's no conference without attendees! Your presence is crucial to the success of the event, and we're always happy to see new faces. We encourage everyone to attend the main meeting and/or CoFest, interact with other attendees, and tweet about their experience.
 
-![](wp/wp-content/uploads/2019/03/Sehrish-Kanwal-poster-1-1.jpg)
+![](/wp/wp-content/uploads/2019/03/Sehrish-Kanwal-poster-1-1.jpg)
 
 ## Present your Work
 
@@ -80,19 +80,19 @@ In the early days of BOSC, an abstract that was basically "I wrote some bioinfor
 
 Even with the hard requirement of openness, we do try to provide a platform to everyone who wants to present. We have "long" talks (17 minutes + 3 minutes for questions), short/"lightning" talks (5 minutes), posters and Birds of a Feather sessions.
 
-![](wp/wp-content/uploads/2019/03/obf-bof-3.jpg)
+![](/wp/wp-content/uploads/2019/03/obf-bof-3.jpg)
 
 ## Organize a BoF
 
 "Birds of a Feather" groups are self-organized meetings during BOSC where anyone who wants to have a conversation with the community can gather and share. Usually BoFs are submitted through the conference website, and the list of topics will be available to all attendees. These tend to happen over lunch or dinner, or in the evenings, and can be a great way to meet people in smaller, more accessible groups. Past BoFs have included project introductions, sponsor demos, discussions on diversity and inclusion, and conversations about specific technologies or standards.
 
-![](wp-content/uploads/2022/01/Thorin-Tabor-and-Malvika.png)
+![](/wp-content/uploads/2022/01/Thorin-Tabor-and-Malvika.png)
 
 ## Review Abstracts
 
 Conference abstracts are reviewed by volunteers who express their interest. We encourage reviewers to be constructive in their comments, and many sign their reviews. Most reviewers are assigned 3-5 abstracts per call, and there are two calls per conference (the main one, and a "late breaking lightning talk" round). We acknowledge our reviewers on the conference website and in the program. If you'd like to be a reviewer, contact the organizing committee at bosc@open-bio.org.
 
-![screenshot from BOSC 2021](wp-content/uploads/2022/01/Nomi-Moni-closing-slide-by-PeterCock.jpeg)
+![screenshot from BOSC 2021](/wp-content/uploads/2022/01/Nomi-Moni-closing-slide-by-PeterCock.jpeg)
 
 ## Join the Organizing Committee
 
@@ -100,7 +100,7 @@ The organizing committee does most of the work to make BOSC a successful meeting
 
 We acknowledge organizing committee members on the conference website and in the program, and they are entitled to complimentary conference registration if their institution/employer can't cover it.
 
-![](wp-content/uploads/2022/01/BOSC-roundtable-2021-Jul-29-1-1.jpeg)
+![](/wp-content/uploads/2022/01/BOSC-roundtable-2021-Jul-29-1-1.jpeg)
 
 ## Sponsor BOSC and/or CoFest
 

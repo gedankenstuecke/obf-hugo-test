@@ -2,14 +2,14 @@
 author: nlharris
 cover:
   alt: Melanie-and-Andrew
-  image: wp-content/uploads/2024/05/Melanie-and-Andrew.jpg
+  image: /wp-content/uploads/2024/05/Melanie-and-Andrew.jpg
 date: "2024-03-13T04:29:08+00:00"
 guid: https://www.open-bio.org/?page_id=7706
 title: BOSC 2024 Keynotes
 url: /events/bosc-2024/bosc-2024-keynotes/
 
 ---
-![Mélanie Courtot](wp-content/uploads/2024/03/Melanie-Courtot-1-1.png)
+![Mélanie Courtot](/wp-content/uploads/2024/03/Melanie-Courtot-1-1.png)
 
 ### Mélanie Courtot (Ontario Institute for Cancer Research)
 
@@ -23,7 +23,7 @@ _Dr Mélanie Courtot is the Director of Genome Informatics at the Ontario Instit
 
 _Dr Courtot obtained her PhD in Bioinformatics from the University of British Columbia in 2014, followed by a postdoctoral fellowship in Public Health. Dr Courtot co-leads the Clinical and Phenotypic workstream and Data Use and Cohort representation groups for the Global Alliance for Genomics and Health (GA4GH) as well as cohort harmonization efforts for the International HundredK+ Cohorts Consortium. She is an advisory board member for the Public Health Alliance for Genomic Epidemiology coalition, European Open Science Cloud for Cancer project and the eLwazi open data science platform._
 
-![Andrew Su](wp-content/uploads/2024/03/Andrew_Su_smll.jpg)
+![Andrew Su](/wp-content/uploads/2024/03/Andrew_Su_smll.jpg)
 
 ### Andrew Su (Scripps Research Institute)
 

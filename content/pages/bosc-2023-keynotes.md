@@ -2,7 +2,7 @@
 author: nlharris
 cover:
   alt: Sara El-Gebali square - 1
-  image: wp-content/uploads/2023/04/Sara-El-Gebali-square-1.png
+  image: /wp-content/uploads/2023/04/Sara-El-Gebali-square-1.png
 date: "2023-04-01T05:03:26+00:00"
 guid: https://www.open-bio.org/?page_id=6992
 title: BOSC 2023 Keynotes
@@ -11,7 +11,7 @@ url: /events/bosc-2023/bosc-2023-keynotes/
 ---
 # BOSC 2023 Keynotes
 
-![Sara El-Gebali](wp-content/uploads/2023/04/Sara-El-Gebali-square-1.png)
+![Sara El-Gebali](/wp-content/uploads/2023/04/Sara-El-Gebali-square-1.png)
 
 ### Sara El-Gebali (SciLifeLab-DataCentre-Sweden)
 
@@ -30,7 +30,7 @@ Sara El-Gebali is a Project Leader at SciLifeLab-Data Centre in Sweden, where sh
 
 With a strong background in life science and a PhD in cancer research, Sara is a passionate community builder and an outspoken advocate for the inclusion of historically marginalized groups in STEM and Open Science. She is the founder of OpenCIDER (Open Computational Inclusion & Digital Equity Resource), a knowledge space that highlights communities and resources related to Open Data from a global perspective to ensure equitable and effective engagement from underrepresented groups.
 
-![Joseph Yracheta](wp-content/uploads/2023/04/Joseph-Yracheta.png)
+![Joseph Yracheta](/wp-content/uploads/2023/04/Joseph-Yracheta.png)
 
 ### Joseph M. Yracheta (Native BioData Consortium)
 

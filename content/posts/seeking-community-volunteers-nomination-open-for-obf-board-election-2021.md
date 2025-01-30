@@ -6,7 +6,7 @@ category:
   - obf
 cover:
   alt: pexels-photo-3782228
-  image: wp-content/uploads/2021/02/pexels-photo-3782228-2.jpeg
+  image: /wp-content/uploads/2021/02/pexels-photo-3782228-2.jpeg
 date: "2021-02-15T19:02:32+00:00"
 guid: https://www.open-bio.org/?p=5287
 title: 'Seeking community volunteers: nomination open for OBF board election 2021'

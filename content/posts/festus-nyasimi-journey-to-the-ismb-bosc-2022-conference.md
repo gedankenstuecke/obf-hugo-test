@@ -6,7 +6,7 @@ category:
   - travel-fellowship
 cover:
   alt: Festus-poster
-  image: wp-content/uploads/2022/08/image6.jpg
+  image: /wp-content/uploads/2022/08/image6.jpg
 date: "2022-08-01T15:45:40+00:00"
 guid: https://www.open-bio.org/?p=6567
 title: 'Festus Nyasimi: Journey to the ISMB/BOSC 2022 conference'

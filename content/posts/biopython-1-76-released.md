@@ -8,7 +8,7 @@ category:
   - obf-projects
 cover:
   alt: biopython
-  image: wp-content/uploads/2019/02/biopython.png
+  image: /wp-content/uploads/2019/02/biopython.png
 date: "2019-12-20T15:02:10+00:00"
 guid: https://www.open-bio.org/?p=4432
 tag:

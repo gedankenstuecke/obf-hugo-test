@@ -8,7 +8,7 @@ category:
   - travel-fellowship
 cover:
   alt: farah-yo-angel-GCCBOSC
-  image: wp-content/uploads/2019/03/farah-yo-angel-GCCBOSC.jpg
+  image: /wp-content/uploads/2019/03/farah-yo-angel-GCCBOSC.jpg
 date: "2018-08-18T15:27:34+00:00"
 guid: https://news.open-bio.org/?p=1993
 summary: |-

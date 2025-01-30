@@ -4,7 +4,7 @@ category:
   - bosc/ismb
 cover:
   alt: accepted
-  image: wp-content/uploads/2023/03/accepted.jpeg
+  image: /wp-content/uploads/2023/03/accepted.jpeg
 date: "2023-03-09T17:57:56+00:00"
 guid: https://www.open-bio.org/?p=6891
 title: BOSC Early Poster Acceptance

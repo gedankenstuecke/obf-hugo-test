@@ -5,7 +5,7 @@ category:
   - community
 cover:
   alt: Hilmar, Peter, and Yo
-  image: wp-content/uploads/2018/07/OBF-BoF-2018-22-e1531151626641.jpg
+  image: /wp-content/uploads/2018/07/OBF-BoF-2018-22-e1531151626641.jpg
 date: "2018-07-09T15:49:30+00:00"
 guid: https://news.open-bio.org/?p=1985
 tag:

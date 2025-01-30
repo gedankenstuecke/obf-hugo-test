@@ -6,7 +6,7 @@ category:
   - obf
 cover:
   alt: DSC_0380
-  image: wp-content/uploads/2023/03/DSC_0380-scaled.jpg
+  image: /wp-content/uploads/2023/03/DSC_0380-scaled.jpg
 date: "2023-03-29T15:15:59+00:00"
 guid: https://www.open-bio.org/?p=6972
 tag:
@@ -16,7 +16,7 @@ title: '<strong>Winfred Gatua: Hybrid Carpentries workshop supported by OBF Even
 url: /2023/03/29/winfred-gatua-hybrid-carpentries-workshop/
 
 ---
-![](wp-content/uploads/2023/03/Winfred_BWCB.png)
+![](/wp-content/uploads/2023/03/Winfred_BWCB.png)
 
 **_The_** [**_Open Bioinformatics Foundation (OBF) Event Fellowship program_**](/travel-awards) **_aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community. Winfred Gatua,_** _**Doctor of Philosophy, Bristol Medical School**_ **_, was awarded an OBF Event Fellowship to organize_** _**a Hybrid Carpentries workshop at Laikipia University, Kenya.**_
 
@@ -38,6 +38,6 @@ The next step includes applying for funding from other organizations to facilita
 
 Below is a photo of the workshop in progress, a screenshot showing virtual participants, and a group photo at the end of the workshop.
 
-![](wp-content/uploads/2023/03/DSC_0380-1024x683.jpg)![](wp-content/uploads/2023/03/Zoom_screenshot-1024x530.jpeg)
+![](/wp-content/uploads/2023/03/DSC_0380-1024x683.jpg)![](/wp-content/uploads/2023/03/Zoom_screenshot-1024x530.jpeg)
 
-![](wp-content/uploads/2023/03/IMG_5250-3-1024x683.jpg)
+![](/wp-content/uploads/2023/03/IMG_5250-3-1024x683.jpg)

@@ -4,7 +4,7 @@ category:
   - event-fellowship
 cover:
   alt: Thea
-  image: wp-content/uploads/2024/03/Thea.png
+  image: /wp-content/uploads/2024/03/Thea.png
 date: "2024-03-27T05:34:04+00:00"
 guid: https://www.open-bio.org/?p=7729
 title: Open Data, Open Doors

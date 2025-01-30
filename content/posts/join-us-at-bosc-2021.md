@@ -6,7 +6,7 @@ category:
   - event-fellowship
 cover:
   alt: BOSC-color-logo-with-BOSC-smaller
-  image: wp-content/uploads/2021/03/BOSC-color-logo-with-BOSC-smaller.jpeg
+  image: /wp-content/uploads/2021/03/BOSC-color-logo-with-BOSC-smaller.jpeg
 date: "2021-03-24T21:21:52+00:00"
 guid: https://www.open-bio.org/?p=5360
 tag:
@@ -17,7 +17,7 @@ title: Join us at BOSC 2021!
 url: /2021/03/24/join-us-at-bosc-2021/
 
 ---
-![](wp-content/uploads/2021/03/Colour-Horizontal-Full-Name.png)
+![](/wp-content/uploads/2021/03/Colour-Horizontal-Full-Name.png)
 
 #### BOSC 2021 will take place July 29-30, as part of [ISMB/ECCB 2021 Online](https://www.iscb.org/ismbeccb2021/).
 

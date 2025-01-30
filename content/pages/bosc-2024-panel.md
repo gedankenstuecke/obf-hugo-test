@@ -29,25 +29,25 @@ Join us for the final session of BOSC 2024. Don't miss this chance to explore th
 
 ### Panelists
 
-![Larry Hunter](wp-content/uploads/2024/06/3697B1D6-F058-4C25-8A43-6D13C5025F8E.jpeg)
+![Larry Hunter](/wp-content/uploads/2024/06/3697B1D6-F058-4C25-8A43-6D13C5025F8E.jpeg)
 
 ##### Lawrence Hunter
 
 Dr. Lawrence Hunter is widely recognized as one of the founders of bioinformatics; he published some of the first papers in biomedical NLP and in machine learning predictions of molecular function; he served as the first President of the International Society for Computational Biology (ISCB); and he created several of the most important conferences in the field, including ISMB, PSB and the Rocky Mountain Conference on Bioinformatics. Dr. Hunter's research interests span a wide range of areas, from cognitive science to rational drug design. He has published more than 200 scientific papers, holds two patents and has been elected a fellow of both the ISCB and the American College of Medical Informatics. Dr. Hunter is a professor at the University of Chicago.
 
-![Thomas Mboa](wp-content/uploads/2024/06/Thomas-Mboa-1-1.png)
+![Thomas Mboa](/wp-content/uploads/2024/06/Thomas-Mboa-1-1.png)
 
 ##### Thomas Hervé Mboa Nkoudou
 
 Dr. Thomas Mboa is a social scientist with a focus on Responsible AI, Open Science and knowledge transfer. He is currently Researcher in Residence at the International Centre of Expertise In Montreal on Artificial Intelligence (CEIMIA), where his main mission is to put in place mechanisms to ensure a better inclusion and representation of Africa in the international ecosystem of Artificial Intelligence. The Mboalab Biotech, a collaborative space founded by Dr. Mboa, hosts community-focused technology projects including the ML-enhanced Open Diseases Screener App, which can diagnose diseases such as malaria, typhoid fever and many other tropical diseases. To learn more about Dr. Mboa's work, visit [https://orcid.org/0000-0001-9678-7765](https://orcid.org/0000-0001-9678-7765).
 
-![Mélanie Courtot](wp-content/uploads/2024/06/Melane_Courtot_square-1.png)
+![Mélanie Courtot](/wp-content/uploads/2024/06/Melane_Courtot_square-1.png)
 
 ##### Mélanie Courtot
 
 Dr Mélanie Courtot is the Director of Genome Informatics at the Ontario Institute for Cancer Research in Toronto, and an Assistant Professor in the Department of Medical Biophysics at University of Toronto. Dr Courtot's focus is translational informatics - designing intelligent systems to gain new insights and build a globally shared knowledge ecosystem to advance science and improve health for all. Dr Courtot co-leads the Clinical and Phenotypic workstream and Data Use and Cohort representation groups for the Global Alliance for Genomics and Health (GA4GH) as well as cohort harmonization efforts for the International HundredK+ Cohorts Consortium.
 
-![Andrew Su](wp-content/uploads/2024/03/Andrew_Su_smll.jpg)
+![Andrew Su](/wp-content/uploads/2024/03/Andrew_Su_smll.jpg)
 
 ##### Andrew Su
 
@@ -55,7 +55,7 @@ Andrew Su, Ph.D., is the Elden and Verna Strahm Professor at the Scripps Researc
 
 
 
-![Monica Munoz-Torres](wp-content/uploads/2022/05/Monica_Munoz-Torres-2.jpeg)
+![Monica Munoz-Torres](/wp-content/uploads/2022/05/Monica_Munoz-Torres-2.jpeg)
 
 #### MODERATOR: Monica Munoz-Torres
 

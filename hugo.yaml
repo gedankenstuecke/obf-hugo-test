@@ -1,4 +1,5 @@
 baseURL: https://gedankenstuecke.github.io/obf-hugo-test/
+canonifyURLs: true
 languageCode: en-US
 title: OBF
 theme: PaperMod

@@ -5,7 +5,7 @@ category:
   - community
 cover:
   alt: 10-taylor_james_2020-200x300
-  image: wp-content/uploads/2020/04/10-taylor_james_2020-200x300-1.jpg
+  image: /wp-content/uploads/2020/04/10-taylor_james_2020-200x300-1.jpg
 date: "2020-04-03T23:08:56+00:00"
 guid: https://www.open-bio.org/?p=4657
 tag:

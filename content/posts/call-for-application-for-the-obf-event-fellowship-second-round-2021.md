@@ -7,7 +7,7 @@ category:
   - uncategorized
 cover:
   alt: Call for application is open
-  image: wp-content/uploads/2020/02/open-1-1-3.jpeg
+  image: /wp-content/uploads/2020/02/open-1-1-3.jpeg
 date: "2021-08-18T18:45:01+00:00"
 guid: https://www.open-bio.org/?p=5766
 tag:

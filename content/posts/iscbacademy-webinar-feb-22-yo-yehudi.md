@@ -7,7 +7,7 @@ category:
   - uncategorized
 cover:
   alt: yo-at-podium - 1
-  image: wp-content/uploads/2022/01/yo-at-podium-1.png
+  image: /wp-content/uploads/2022/01/yo-at-podium-1.png
 date: "2022-01-20T22:12:00+00:00"
 guid: https://www.open-bio.org/?p=6026
 tag:

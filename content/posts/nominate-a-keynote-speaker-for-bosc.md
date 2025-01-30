@@ -5,7 +5,7 @@ category:
   - community
 cover:
   alt: Jason-Williams-keynote2022
-  image: wp-content/uploads/2022/08/image5-e1675318372322.jpg
+  image: /wp-content/uploads/2022/08/image5-e1675318372322.jpg
 date: "2024-01-10T21:30:32+00:00"
 guid: https://www.open-bio.org/?p=7595
 tag:

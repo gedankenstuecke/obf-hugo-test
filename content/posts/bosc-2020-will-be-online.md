@@ -6,7 +6,7 @@ category:
   - events
 cover:
   alt: BCC2020-image
-  image: wp-content/uploads/2020/02/BCC2020-image.jpg
+  image: /wp-content/uploads/2020/02/BCC2020-image.jpg
 date: "2020-03-24T16:29:18+00:00"
 guid: https://www.open-bio.org/?p=4617
 tag:

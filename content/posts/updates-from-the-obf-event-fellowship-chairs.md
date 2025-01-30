@@ -6,7 +6,7 @@ category:
   - uncategorized
 cover:
   alt: obf-ef-chairs
-  image: wp-content/uploads/2022/02/obf-ef-chairs.png
+  image: /wp-content/uploads/2022/02/obf-ef-chairs.png
 date: "2022-02-07T16:51:54+00:00"
 guid: https://www.open-bio.org/?p=6133
 title: Updates from the OBF Event Fellowship Chairs
@@ -15,7 +15,7 @@ url: /2022/02/07/obf-event-fellowship-update/
 ---
 We are delighted to announce that [Caleb Kibet and Hilyatuz Zahroh, two members who recently joined the OBF board](/2021/10/06/two-new-members-elected-to-obf-board/), will be joining [Malvika Sharan](https://malvikasharan.github.io/) as the co-chairs of the [OBF Event Fellowship program](/event-awards/). Inviting contributions from the OBF board members, as well as bringing insights from their lived experiences, Caleb, Hilya and Malvika will re-evaluate how we can manage the OBF Event fellowship more effectively going forward.
 
-![](wp-content/uploads/2022/02/obf-ef-chairs-1024x488.png)
+![](/wp-content/uploads/2022/02/obf-ef-chairs-1024x488.png)
 
 There is a growing body of evidence, including the report from BOSC 2021, that virtual events are indeed more equitable for our colleagues from the Global South (see references: [\[1\]](https://f1000research.com/articles/10-1054) & [\[2\]](https://www.nature.com/articles/s41893-021-00823-2#Fig1)), who were inadvertently excluded from most international events which required expensive travelling before the pandemic. However, in 2021, we saw a decline in applications to the Event Fellowship where we specifically accepted applications requesting funding for online conferences. We suspected that, after a year of the pandemic, most people working remotely must have managed the basic setup to attend virtual events.  It is also possible that many potential applicants might consider the expense for participation trivial enough that they didn’t want to spend time writing proposals or dealing with the admin workload of requesting fee assistance, and instead pay it out of their own pockets. Furthermore, online events are often free and/or provide free recordings to watch after the event – removing the need to pay a registration fee.
 

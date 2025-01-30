@@ -5,7 +5,7 @@ category:
   - cofest
 cover:
   alt: CoFest2023-lunch - 1
-  image: wp-content/uploads/2023/08/CoFest2023-lunch-1.png
+  image: /wp-content/uploads/2023/08/CoFest2023-lunch-1.png
 date: "2024-06-14T18:20:58+00:00"
 guid: https://www.open-bio.org/?p=7922
 title: Join us for CoFest 2024!

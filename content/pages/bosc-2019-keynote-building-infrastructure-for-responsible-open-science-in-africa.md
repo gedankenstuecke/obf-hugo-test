@@ -2,7 +2,7 @@
 author: yo
 cover:
   alt: nicky-mulder
-  image: wp-content/uploads/2019/03/nicky-mulder.jpg
+  image: /wp-content/uploads/2019/03/nicky-mulder.jpg
 date: "2019-05-01T20:27:48+00:00"
 guid: https://www.open-bio.org/?page_id=3506
 title: 'BOSC 2019 Keynote: Building infrastructure for responsible open science in Africa'
@@ -11,7 +11,7 @@ url: /events/bosc-2019/bosc-2019-keynote/
 ---
 _We're excited to announce that Nicola Mulder will be delivering the keynote at BOSC 2019. Read the abstract below for a taster of the talk to come..._
 
-![Dr. Nicola Mulder](wp/wp-content/uploads/2019/03/nicky-mulder.jpg)Dr Nicola Mulder
+![Dr. Nicola Mulder](/wp/wp-content/uploads/2019/03/nicky-mulder.jpg)Dr Nicola Mulder
 
 Due to a history of exploitation and inequitable scientific partnerships, many African researchers are reluctant to fully embrace open science practices. Recent investment in genomics research on the continent and associated capacity development initiatives have enabled the development of research infrastructures and data related skills. This is helping to narrow the gap in expertise and access to data analysis capacity and facilitate more equitable engagement in international collaboration or more importantly, more independent research.
 

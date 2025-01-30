@@ -5,7 +5,7 @@ category:
   - events
 cover:
   alt: BOSC audience with Jessica - 1
-  image: wp-content/uploads/2024/12/BOSC-audience-with-Jessica-1.jpeg
+  image: /wp-content/uploads/2024/12/BOSC-audience-with-Jessica-1.jpeg
 date: "2025-01-09T06:33:54+00:00"
 guid: https://www.open-bio.org/?p=8410
 tag:
@@ -16,7 +16,7 @@ title: Announcing BOSC 2025; seeking keynote speaker nominations
 url: /2025/01/09/nominate-keynotes-bosc2025/
 
 ---
-![](wp-content/uploads/2025/01/ISMB-bosc-2025-banner.png)
+![](/wp-content/uploads/2025/01/ISMB-bosc-2025-banner.png)
 
 ## We invite you to join us for BOSC 2025, a vibrant gathering at the forefront of open-source bioinformatics and open science!
 

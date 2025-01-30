@@ -5,7 +5,7 @@ category:
   - community
 cover:
   alt: Jason at mic cropped - 1
-  image: wp-content/uploads/2024/12/Jason-at-mic-cropped-1.jpeg
+  image: /wp-content/uploads/2024/12/Jason-at-mic-cropped-1.jpeg
 date: "2025-01-18T00:19:29+00:00"
 guid: https://www.open-bio.org/?p=8444
 tag:

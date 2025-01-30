@@ -7,7 +7,7 @@ category:
   - travel-fellowship
 cover:
   alt: hackers-meeting-lindsay - 1
-  image: wp-content/uploads/2019/03/hackers-meeting-lindsay-1.jpg
+  image: /wp-content/uploads/2019/03/hackers-meeting-lindsay-1.jpg
 date: "2019-03-13T11:19:53+00:00"
 guid: https://news.open-bio.org/?p=2167
 tag:

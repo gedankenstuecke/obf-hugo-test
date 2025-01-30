@@ -8,14 +8,14 @@ category:
   - uncategorized
 cover:
   alt: aaron-burden-zunGugEsJCE-unsplash
-  image: wp-content/uploads/2022/07/aaron-burden-zunGugEsJCE-unsplash.jpg
+  image: /wp-content/uploads/2022/07/aaron-burden-zunGugEsJCE-unsplash.jpg
 date: "2022-07-25T19:34:37+00:00"
 guid: https://www.open-bio.org/?p=6562
 title: Reflections from my 3 years on the OBF Board - Malvika Sharan
 url: /2022/07/25/reflections-malvika-2022/
 
 ---
-![A simple post card on the table with the 'Thank you' written on it. Next to it is an ink pen.](wp-content/uploads/2022/07/aaron-burden-zunGugEsJCE-unsplash.jpg)
+![A simple post card on the table with the 'Thank you' written on it. Next to it is an ink pen.](/wp-content/uploads/2022/07/aaron-burden-zunGugEsJCE-unsplash.jpg)
 
 _Thank You. Photo by Aaron Burden on Unsplash_
 

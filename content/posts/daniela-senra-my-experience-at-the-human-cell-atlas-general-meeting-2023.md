@@ -5,7 +5,7 @@ category:
   - events
 cover:
   alt: photo1
-  image: wp-content/uploads/2023/08/photo1.png
+  image: /wp-content/uploads/2023/08/photo1.png
 date: "2023-08-02T04:36:21+00:00"
 guid: https://www.open-bio.org/?p=7183
 tag:
@@ -20,7 +20,7 @@ url: /2023/08/02/daniela-senra-experience-human-cell-atlas-2023/
 
 In July, I had the incredible opportunity to attend and present a lightning talk at the Human Cell Atlas General Meeting 2023, that took place in the city of Toronto, Canada, from July 10th to July 12th, 2023.
 
-![](wp-content/uploads/2023/08/photo1-1024x576.png)Photo of Daniela giving her talk and sharing about the open-source tool ORIGINS2.
+![](/wp-content/uploads/2023/08/photo1-1024x576.png)Photo of Daniela giving her talk and sharing about the open-source tool ORIGINS2.
 
 ## **Discovering New Insights at the Meeting**
 
@@ -44,6 +44,6 @@ The experience was undeniably one of the highlights of my ongoing PhD journey. I
 
 None of this would have been possible without the support of the Open Bioinformatics Foundation. I am immensely grateful to the OBF for their generous support, which made my participation in this exceptional event a reality.
 
-![](wp-content/uploads/2023/08/photo2-1-768x1024.jpg)
+![](/wp-content/uploads/2023/08/photo2-1-768x1024.jpg)
 
 In conclusion, the Human Cell Atlas General Meeting 2023 was an unforgettable experience that broadened my professional and personal horizons. I left the event with new knowledge, invaluable connections, and a renewed determination to contribute to the scientific community.

@@ -5,7 +5,7 @@ category:
   - community
 cover:
   alt: pears-commenting
-  image: wp-content/uploads/2024/01/pears-commenting.jpg
+  image: /wp-content/uploads/2024/01/pears-commenting.jpg
 date: "2024-01-19T06:48:09+00:00"
 guid: https://www.open-bio.org/?p=7610
 tag:
@@ -14,7 +14,7 @@ title: Community comment period open for potential BOSC 2024 keynotes
 url: /2024/01/19/community-comment-bosc-2024-keynotes/
 
 ---
-![](wp-content/uploads/2024/01/pears-commenting-300x300.jpg)
+![](/wp-content/uploads/2024/01/pears-commenting-300x300.jpg)
 
 We [asked our community to nominate potential BOSC keynote speakers](/2024/01/10/nominate-a-keynote-speaker-for-bosc/), and we were pleased with the great suggestions! In the next phase of our process, we’re giving you a chance to let us know if there is anything that makes any of the nominated individuals NOT appropriate as BOSC keynote speakers.
 

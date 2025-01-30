@@ -2,7 +2,7 @@
 author: kushinauwu
 cover:
   alt: ""
-  image: wp-content/uploads/2021/06/image-8.png
+  image: /wp-content/uploads/2021/06/image-8.png
 date: "2019-03-02T06:24:58+00:00"
 guid: https://www.open-bio.org/wp/?page_id=3098
 title: Sponsors
@@ -15,17 +15,17 @@ Page with current BOSC Sponsors: [www.open-bio.org/events/sponsors/](/events/spo
 
 ## BOSC 2022 Platinum Sponsors
 
-[![Chan Zuckerberg Initiative](wp-content/uploads/2021/06/CZI_Logotype_RGB.jpg)](https://chanzuckerberg.com/)[![Amazon Web Services](wp-content/uploads/2021/05/AWS_logo_RGB.png)](http://aws.amazon.com)
+[![Chan Zuckerberg Initiative](/wp-content/uploads/2021/06/CZI_Logotype_RGB.jpg)](https://chanzuckerberg.com/)[![Amazon Web Services](/wp-content/uploads/2021/05/AWS_logo_RGB.png)](http://aws.amazon.com)
 
 ## BOSC 2022 Gold Sponsors
 
-[![Broad Institute Data Science Platform](wp-content/uploads/2022/04/Broad-DSP-logo-1.png)](https://www.broadinstitute.org/data-sciences-platform)[![NIH Office of Data Science Strategy](wp-content/uploads/2022/04/NIH-ODSS_Horizontal_1Color-653.jpg)](https://datascience.nih.gov/)
+[![Broad Institute Data Science Platform](/wp-content/uploads/2022/04/Broad-DSP-logo-1.png)](https://www.broadinstitute.org/data-sciences-platform)[![NIH Office of Data Science Strategy](/wp-content/uploads/2022/04/NIH-ODSS_Horizontal_1Color-653.jpg)](https://datascience.nih.gov/)
 
 ### BOSC 2022 Silver Sponsors
 
-[![Arvados, supported by Curii](wp-content/uploads/2022/05/ArvadosCurii.png)](https://arvados.org)[![Gigascience](wp-content/uploads/2019/05/Gigascience.png)](https://academic.oup.com/gigascience)
+[![Arvados, supported by Curii](/wp-content/uploads/2022/05/ArvadosCurii.png)](https://arvados.org)[![Gigascience](/wp-content/uploads/2019/05/Gigascience.png)](https://academic.oup.com/gigascience)
 
-![Screenshot from BOSC 2021](wp-content/uploads/2022/01/Geraldine-BoF-composite.png)
+![Screenshot from BOSC 2021](/wp-content/uploads/2022/01/Geraldine-BoF-composite.png)
 
 Sponsorships from companies and organizations help to defray some of our costs and enable us to offer registration fee waivers for some conference participants. In 2021, thanks to our sponsors' generous support, we were able to grant free registration to 20 participants at [BOSC 2021](/events/bosc-2021/), offer honoraria to keynote speakers, and cover other expenses.
 
@@ -43,13 +43,13 @@ Most years, BOSC has been part of the Intelligent Systems for Molecular Biology 
 
 BOSC 2022 will take place July 13-14, 2022, as part of [ISMB 2022](https://www.iscb.org/ismb2022). The meeting will be held both in person in Madison, Wisconsin, USA, and simultaneously online.
 
-![](wp/wp-content/uploads/2019/03/OBF-BoF-2018-25-300x225.jpg)
+![](/wp/wp-content/uploads/2019/03/OBF-BoF-2018-25-300x225.jpg)
 
-![](wp/wp-content/uploads/2019/03/43248502932_2395bc3cc6_z-300x200.jpg)
+![](/wp/wp-content/uploads/2019/03/43248502932_2395bc3cc6_z-300x200.jpg)
 
-![](wp/wp-content/uploads/2019/03/BOSC2017-panel-1.jpg)![](wp/wp-content/uploads/2019/03/BOSC2015-panel-1-1024x521.jpg)
+![](/wp/wp-content/uploads/2019/03/BOSC2017-panel-1.jpg)![](/wp/wp-content/uploads/2019/03/BOSC2015-panel-1-1024x521.jpg)
 
-![](wp-content/uploads/2022/01/Jason-PeterSelby-FotisPsomopoulos-DhrithiDespande.png)
+![](/wp-content/uploads/2022/01/Jason-PeterSelby-FotisPsomopoulos-DhrithiDespande.png)
 
 BOSC​ ​participants​ ​come​ ​from​ ​a​ ​wide​ ​variety​ ​of​ ​research​ ​environments​ ​and​ ​backgrounds:
 
@@ -83,13 +83,13 @@ We gratefully accept sponsorships from private companies and organizations. In t
 - offer honoraria to keynote speakers
 - pay for captioning and translations
 
-![](wp-content/uploads/2020/09/BOSC2020-party-attendees-e1609719125821.png)
+![](/wp-content/uploads/2020/09/BOSC2020-party-attendees-e1609719125821.png)
 
 ## Sponsoring BOSC
 
 Sponsorships from private companies and organizations help to defray some of our costs and allow us to offer registration fee waivers to some attendees. If you are interested in becoming a BOSC sponsor, please contact us at bosc@open-bio.org!
 
-![](wp/wp-content/uploads/2019/08/BOSC2019-audience1-1.jpg)
+![](/wp/wp-content/uploads/2019/08/BOSC2019-audience1-1.jpg)
 
 # Benefits of Sponsorship
 
@@ -104,16 +104,16 @@ We acknowledge our sponsors before, during and after the event in multiple ways:
 
 ## BOSC 2021 Platinum Sponsors
 
-[![Chan Zuckerberg Initiative](wp-content/uploads/2021/06/CZI_Logotype_RGB.jpg)](https://chanzuckerberg.com/)[![Alzheimer’s Disease Data Initiative](wp-content/uploads/2021/06/ADDI_Logo_FullColor_Vert_RGB.png)](https://www.alzheimersdata.org/)
+[![Chan Zuckerberg Initiative](/wp-content/uploads/2021/06/CZI_Logotype_RGB.jpg)](https://chanzuckerberg.com/)[![Alzheimer’s Disease Data Initiative](/wp-content/uploads/2021/06/ADDI_Logo_FullColor_Vert_RGB.png)](https://www.alzheimersdata.org/)
 
 ## BOSC 2021 Gold Sponsors
 
-[![Amazon Web Services](wp-content/uploads/2021/05/AWS_logo_RGB.png)](http://aws.amazon.com)[![Broad Institute Logo](https://www.broadinstitute.org/files/news/media-images/logos//BroadInstLogoforDigitalRGB.png)](https://www.broadinstitute.org/)
+[![Amazon Web Services](/wp-content/uploads/2021/05/AWS_logo_RGB.png)](http://aws.amazon.com)[![Broad Institute Logo](https://www.broadinstitute.org/files/news/media-images/logos//BroadInstLogoforDigitalRGB.png)](https://www.broadinstitute.org/)
 
 ## BOSC 2021 Silver Sponsors
 
-[![](wp-content/uploads/2021/04/image.png)](https://elifesciences.org/)  
-[![Genevia](wp-content/uploads/2021/06/genevia_logo_cmyk.png)](https://geneviatechnologies.com/)  
-[![Oxford University Press](wp-content/uploads/2021/06/OUP_logo_navy.png)](https://oup.com/)[![](wp-content/uploads/2021/07/logo_bioteam_transp_bg.png)](https://bioteam.net)  
+[![](/wp-content/uploads/2021/04/image.png)](https://elifesciences.org/)  
+[![Genevia](/wp-content/uploads/2021/06/genevia_logo_cmyk.png)](https://geneviatechnologies.com/)  
+[![Oxford University Press](/wp-content/uploads/2021/06/OUP_logo_navy.png)](https://oup.com/)[![](/wp-content/uploads/2021/07/logo_bioteam_transp_bg.png)](https://bioteam.net)  
 
 If you are interested in becoming a sponsor, please contact us at bosc@open-bio.org!

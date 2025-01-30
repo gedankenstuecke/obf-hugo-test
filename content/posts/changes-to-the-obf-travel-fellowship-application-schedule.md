@@ -4,7 +4,7 @@ category:
   - travel-fellowship
 cover:
   alt: obf_logo_icon-circle-tr
-  image: wp-content/uploads/2018/12/obf_logo_icon-circle-tr.png
+  image: /wp-content/uploads/2018/12/obf_logo_icon-circle-tr.png
 date: "2019-11-14T16:50:00+00:00"
 guid: https://www.open-bio.org/?p=4098
 tag:

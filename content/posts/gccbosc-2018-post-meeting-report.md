@@ -5,7 +5,7 @@ category:
   - community
 cover:
   alt: Presenters and attendees mingle at the GCCBOSC 2018 poster/demo session
-  image: wp-content/uploads/2018/07/lots-of-people-at-poster-session-1-e1551242760496.jpg
+  image: /wp-content/uploads/2018/07/lots-of-people-at-poster-session-1-e1551242760496.jpg
 date: "2018-07-27T19:52:39+00:00"
 guid: https://news.open-bio.org/?p=1996
 tag:

@@ -4,7 +4,7 @@ category:
   - event-fellowship
 cover:
   alt: Image2
-  image: wp-content/uploads/2023/08/Image2.jpg
+  image: /wp-content/uploads/2023/08/Image2.jpg
 date: "2023-08-07T19:23:59+00:00"
 guid: https://www.open-bio.org/?p=7195
 tag:
@@ -18,7 +18,7 @@ url: /2023/08/07/nehemia-conference-experience-at-smbe23/
 
 Attending a prestigious conference can be a turning point in any scientist's career; for me, it was no exception. The Society of Molecular Biology and Evolution (SMBE) conference, hosted in Ferrara, Italy, was an unparalleled experience that combined cutting-edge scientific research with a unique cultural immersion. As a recipient of a travel grant from the Open Bioinformatics Foundation, I participated in the extraordinary [SMBE23 conference](https://www.smbe2023.org/), which broadened my horizons and inspired me to pursue even greater heights in my postgraduate research.
 
-![](wp-content/uploads/2023/08/Image1-702x1024.jpg)
+![](/wp-content/uploads/2023/08/Image1-702x1024.jpg)
 
 ##### **The Unconventional Conference**
 
@@ -26,7 +26,7 @@ The SMBE23 conference was unlike any other I had attended before. Breaking away 
 
 ##### **Presenting my Postgraduate Work**
 
-![](wp-content/uploads/2023/08/Image2-768x1024.jpg)
+![](/wp-content/uploads/2023/08/Image2-768x1024.jpg)
 
 One of the highlights of my journey was the opportunity to present my postgraduate work titled " [**_Co-expression network analysis of genes mediating Meloidogyne incognita parasitism in tomato-plant nematode interactions_**.](http://dx.doi.org/10.6084/m9.figshare.23867637)"  Sharing my research findings with a diverse audience of scientists and graduate fellows was exciting and nerve-wracking. To my delight, my work garnered attention from numerous researchers interested in advancing their studies in systems biology. The constructive feedback and stimulating discussions further motivated me to explore new avenues and refine my research objectives.
 
@@ -40,7 +40,7 @@ On the last conference day, I participated in the SMBE-IDEA symposium, which pro
 
 Through the symposium session, I was privileged to connect with researchers who shared similar passions for promoting diversity, inclusivity, and equity in the scientific community. The interactions opened doors to future collaborations and partnerships, potentially broadening the impact of my research and fostering international connections.
 
-![](wp-content/uploads/2023/08/Image3.jpg)
+![](/wp-content/uploads/2023/08/Image3.jpg)
 
 ##### **Humanizing Science**
 

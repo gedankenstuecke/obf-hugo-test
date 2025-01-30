@@ -5,7 +5,7 @@ category:
   - obf
 cover:
   alt: OBF-Board-July-2019 - 1
-  image: wp-content/uploads/2019/08/OBF-Board-July-2019-1.jpg
+  image: /wp-content/uploads/2019/08/OBF-Board-July-2019-1.jpg
 date: "2020-01-14T16:47:52+00:00"
 guid: https://www.open-bio.org/?p=4437
 tag:

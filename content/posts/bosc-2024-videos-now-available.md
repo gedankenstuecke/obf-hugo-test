@@ -4,7 +4,7 @@ category:
   - bosc/ismb
 cover:
   alt: BOSC-room - 1
-  image: wp-content/uploads/2024/08/BOSC-room-1.jpeg
+  image: /wp-content/uploads/2024/08/BOSC-room-1.jpeg
 date: "2024-09-17T17:52:12+00:00"
 guid: https://www.open-bio.org/?p=8136
 title: BOSC 2024 Videos Now Available

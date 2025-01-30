@@ -14,7 +14,7 @@ The 2022 BOSC CoFest, which will follow ISMB 2022, will take place July 15-16, a
 
 Please add yourself to this [spreadsheet](https://docs.google.com/spreadsheets/d/1h5woYd0URjgUKInWA2sozDwfThUlQbQQ9xbjdEdQQXk/edit?usp=sharing) to help us gauge interest and coordinate topic groups, and join the #cofest channel in the [BOSC Slack](https://join.slack.com/t/obf-bosc/shared_invite/zt-n5ur1gsj-z2C~69_4lYTFPg5tbWA8Ew)!
 
-![Attendees at the 2018 GCCBOSC CoFest](wp-content/uploads/2019/03/codefest-big-group-on-steps.jpg)
+![Attendees at the 2018 GCCBOSC CoFest](/wp-content/uploads/2019/03/codefest-big-group-on-steps.jpg)
 
 ## History
 

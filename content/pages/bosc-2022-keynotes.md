@@ -2,7 +2,7 @@
 author: nlharris
 cover:
   alt: Melissa-Haendel-cropped
-  image: wp-content/uploads/2022/03/Melissa-Haendel-cropped.jpg
+  image: /wp-content/uploads/2022/03/Melissa-Haendel-cropped.jpg
 date: "2022-03-01T05:49:02+00:00"
 guid: https://www.open-bio.org/?page_id=6247
 title: BOSC 2022 Keynotes
@@ -11,7 +11,7 @@ url: /events/bosc-2022/bosc-2022-keynotes/
 ---
 # BOSC 2022 Keynotes
 
-![Dr. Melissa Haendel](wp-content/uploads/2022/03/Melissa-Haendel-cropped.jpg)
+![Dr. Melissa Haendel](/wp-content/uploads/2022/03/Melissa-Haendel-cropped.jpg)
 
 ### Melissa Haendel (University of Colorado Anschutz Medical Campus)
 
@@ -23,7 +23,7 @@ _Addressing complex scientific challenges requires a roadmap of data from divers
 
 Melissa Haendel is the Chief Research Informatics Officer and Marsico Chair in Data Science at University of Colorado Anschutz Medical Campus, and the Director of the Center for Data to Health (CD2H). Her background is molecular genetics and developmental biology as well as translational informatics, with a focus over the past decade on open science and semantic engineering. Dr. Haendel’s vision is to weave together healthcare systems, basic science research, and patient-generated data through development of data-integration technologies and innovative data capture strategies. Dr. Haendel’s research has focused on integration of genotype-phenotype data to improve rare-disease diagnosis and mechanism discovery. She also leads and participates in international standards organizations to support improved data sharing and utility worldwide.
 
-![Jason Williams](wp-content/uploads/2022/05/Jason-Williams-1.jpeg)
+![Jason Williams](/wp-content/uploads/2022/05/Jason-Williams-1.jpeg)
 
 ### Jason Williams (Cold Spring Harbor Laboratory)
 

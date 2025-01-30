@@ -2,14 +2,14 @@
 author: nlharris
 cover:
   alt: partridge-and-pears-stamp
-  image: wp-content/uploads/2021/06/partridge-and-pears-stamp.png
+  image: /wp-content/uploads/2021/06/partridge-and-pears-stamp.png
 date: "2021-06-17T22:40:53+00:00"
 guid: https://www.open-bio.org/?page_id=5703
 title: Birds of a Feather (BoFs)
 url: /events/bosc-2021/bofs/
 
 ---
-![](wp/wp-content/uploads/2019/03/OBF-BoF-2018-25.jpg)
+![](/wp/wp-content/uploads/2019/03/OBF-BoF-2018-25.jpg)
 
 ## Birds of a Feather (BoFs)
 

@@ -7,7 +7,7 @@ category:
   - uncategorized
 cover:
   alt: cropped-OBF-2018-1.png
-  image: wp-content/uploads/2018/08/cropped-OBF-2018-1.png
+  image: /wp-content/uploads/2018/08/cropped-OBF-2018-1.png
 date: "2021-09-30T18:37:41+00:00"
 guid: https://www.open-bio.org/?p=5878
 title: Event Fellowship deadline extended to October 4, 2021

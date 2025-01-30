@@ -5,7 +5,7 @@ category:
   - community
 cover:
   alt: online-collaboration - 1
-  image: wp-content/uploads/2022/06/online-collaboration-1.jpeg
+  image: /wp-content/uploads/2022/06/online-collaboration-1.jpeg
 date: "2022-06-09T18:31:46+00:00"
 guid: https://www.open-bio.org/?p=6494
 tag:

@@ -4,7 +4,7 @@ category:
   - event-fellowship
 cover:
   alt: Felipe_EMBL
-  image: wp-content/uploads/2024/10/Felipe_EMBL.jpg
+  image: /wp-content/uploads/2024/10/Felipe_EMBL.jpg
 date: "2024-10-05T05:12:05+00:00"
 guid: https://www.open-bio.org/?p=8163
 tag:
@@ -25,4 +25,4 @@ The knowledge I gained from this experience goes beyond technical skills. It has
 
 I am deeply grateful to the Open Bioinformatics Foundation for providing me with this fellowship and the opportunity to attend the EMBL-EBI Cancer Genomics and Transcriptomics 2024 course. The experience has been immensely rewarding, both professionally and personally. I encourage anyone interested in bioinformatics to consider participating in such events and to take advantage of the opportunities offered by organizations like the OBF.
 
-![Screenshot of the online participants in the EMBL-EBI Cancer Genomics and Transcriptomics 2024 course](wp-content/uploads/2024/10/Felipe_EMBL.jpg)
+![Screenshot of the online participants in the EMBL-EBI Cancer Genomics and Transcriptomics 2024 course](/wp-content/uploads/2024/10/Felipe_EMBL.jpg)

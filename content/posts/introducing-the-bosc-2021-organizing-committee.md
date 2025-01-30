@@ -5,7 +5,7 @@ category:
   - community
 cover:
   alt: bosc-2021-org-committee-for-website
-  image: wp-content/uploads/2021/03/bosc-2021-org-committee-for-website.jpg
+  image: /wp-content/uploads/2021/03/bosc-2021-org-committee-for-website.jpg
 date: "2021-05-09T21:07:13+00:00"
 guid: https://www.open-bio.org/?p=5492
 title: Introducing the BOSC 2021 Organizing Committee!

@@ -7,7 +7,7 @@ category:
   - website
 cover:
   alt: New OBF logo
-  image: wp-content/uploads/2018/08/OBF-2018.png
+  image: /wp-content/uploads/2018/08/OBF-2018.png
 date: "2018-11-05T22:00:53+00:00"
 guid: https://news.open-bio.org/?p=2084
 tag:
