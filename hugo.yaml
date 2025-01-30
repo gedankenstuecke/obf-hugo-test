@@ -6,7 +6,7 @@ taxonomies:
   category: category
   tag: tag
 params:
-  description: Open Bioinformatics Foundation
+  description: Open Bioinformatics Foundation - test migration
   defaultTheme: auto
   disableThemeToggle: true
   showShareButtons: true
